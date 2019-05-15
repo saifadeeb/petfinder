@@ -1,0 +1,261 @@
+---
+title: "Cluster EDA"
+author: "Megan Rupert"
+date: "5/6/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Set Up
+```{r data}
+#Set working directory
+setwd("D:/Documents/Northwestern/MSDS 498 Capstone Project/PetFinder-master/Data")
+
+library(ggplot2)
+library(gridExtra)
+library(reshape2)
+library(plyr)
+library(stats)
+
+data <- read.csv("cluster_result.csv", stringsAsFactors = FALSE)
+
+cluster1 <- data[which(data$cluster==1),]
+cluster2 <- data[which(data$cluster==2),]
+cluster3 <- data[which(data$cluster==3),]
+cluster4 <- data[which(data$cluster==4),]
+cluster5 <- data[which(data$cluster==5),]
+cluster6 <- data[which(data$cluster==6),]
+cluster7 <- data[which(data$cluster==7),]
+```
+
+```{r eda}
+
+### Adoption Speed ###
+ggplot(data, aes(x=factor(cluster), y=AdoptionSpeed)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Adoption Speed by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+### Age ###
+ggplot(data, aes(x=factor(cluster), y=Age_yr)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Age (in years) by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+sub <- data[which(data$cluster!=4),]
+ggplot(sub, aes(x=factor(cluster), y=Age)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Age (in months) by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+### Type ###
+agg <- count(data, c('cluster','Type'))
+agg[which(agg$Type==1),2] <- "Dog"
+agg[which(agg$Type==2),2] <- "Cat"
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=Type), stat="identity", position="dodge") +
+  labs(title="Quantity Pet Type per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+### Gender ###
+agg <- count(data, c('cluster','Gender'))
+agg[which(agg$Gender==1),2] <- "Male"
+agg[which(agg$Gender==2),2] <- "Female"
+agg[which(agg$Gender==3),2] <- "Mixed"
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=Gender), stat="identity", position="dodge") +
+  labs(title="Quantity Gender per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+### Breed ###
+data$breed <- ifelse(data$Breed1==266 & data$Type==2, 1,
+                     ifelse(data$Breed1==265 & data$Type==2, 2,
+                            ifelse(data$Breed1==299 & data$Type==2, 3,
+                                   ifelse(data$Breed1==264 & data$Type==2, 4,
+                                          ifelse(data$Type==2 & data$cat_short==0 & data$cat_med==0 & data$cat_tabby==0 & data$cat_long==0, 5,
+                                                 ifelse(data$Breed1==307 & data$Type==1, 6,
+                                                        ifelse(data$Type==1 & data$Breed1!=307, 7, 0)))))))
+
+agg <- count(data, c('cluster','breed'))
+agg[which(agg$breed==1),2] <- "Cat - Short Hair"
+agg[which(agg$breed==2),2] <- "Cat - Medium Hair"
+agg[which(agg$breed==3),2] <- "Cat - Tabby"
+agg[which(agg$breed==4),2] <- "Cat - Long Hair"
+agg[which(agg$breed==5),2] <- "Cat - Specific Breed"
+agg[which(agg$breed==6),2] <- "Dog - Mixed Breed"
+agg[which(agg$breed==7),2] <- "Dog - Specific Breed"
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=breed), stat="identity", position="dodge") +
+  labs(title="Quantity of Breed per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+ggplot(agg, aes(x=breed, y=freq)) + 
+  geom_bar(aes(fill=breed), stat="identity") +
+  labs(title="Quantity of Breed (for comparison)", x="Breed", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.text.x = element_text(angle = 90, hjust=1))
+
+### Photo Amount ###
+ggplot(data, aes(x=factor(cluster), y=PhotoAmt)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Photos by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+### Fee ###
+sub <- data[which(data$Fee!=0),]
+ggplot(sub, aes(x=factor(cluster), y=Fee)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Fee by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+agg <- count(data, c("cluster","fee_free"))
+agg[which(agg$fee_free==1),2] <- "Free"
+agg[which(agg$fee_free==0),2] <- "Some Fee"
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=fee_free), stat="identity", position="dodge") +
+  labs(title="Free vs Fee per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+### MaturitySize ###
+agg <- count(data, c('cluster','MaturitySize'))
+agg[which(agg$MaturitySize==1),2] <- "Small"
+agg[which(agg$MaturitySize==2),2] <- "Medium"
+agg[which(agg$MaturitySize==3),2] <- "Large"
+agg[which(agg$MaturitySize==4),2] <- "Extra Large"
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=MaturitySize), stat="identity", position="dodge") +
+  labs(title="Maturity Size per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+### Vaccinated ###
+agg <- count(data, c('cluster','Vaccinated'))
+agg[which(agg$Vaccinated==1),2] <- "Yes"
+agg[which(agg$Vaccinated==2),2] <- "No"
+agg[which(agg$Vaccinated==3),2] <- "Not sure"
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=Vaccinated), stat="identity", position="dodge") +
+  labs(title="Vaccination per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+### Sterilized ###
+agg <- count(data, c('cluster','Sterilized'))
+agg[which(agg$Sterilized==1),2] <- "Yes"
+agg[which(agg$Sterilized==2),2] <- "No"
+agg[which(agg$Sterilized==3),2] <- "Not sure"
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) + 
+  geom_bar(aes(fill=Sterilized), stat="identity", position="dodge") +
+  labs(title="Sterilization per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+### State ###
+agg <- count(data, c('cluster', 'State'))
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) +
+  geom_bar(aes(fill=factor(State)), stat="identity", position="dodge") +
+  labs(title="State Distribution per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+ggplot(agg, aes(x=factor(State), y=freq)) +
+  geom_bar(aes(fill=factor(State)), stat="identity") +
+  labs(title="State Distribution (for comparison)", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+
+### RescuerID ###
+agg <- count(data, c('cluster','RescuerID'))
+agg[which(agg$freq>=50),2] <- "Shelter-High Volume"
+agg[which(agg$freq<50 & agg$freq>=5),2] <- "Shelter-Low Volume"
+agg[which(agg$freq<5),2] <- "Individual"
+agg <- aggregate(freq ~ cluster + RescuerID, data=agg, sum)
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) +
+  geom_bar(aes(fill=RescuerID), stat="identity", position="dodge") +
+  labs(title="Rescuer Type per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+agg2 <- aggregate(freq ~ RescuerID, data=agg, sum)
+ggplot(agg, aes(x=RescuerID, y=freq)) +
+  geom_bar(aes(fill=RescuerID), stat="identity") +
+  labs(title="Rescuer Type (for comparison)", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+#Check by 1 vs multiple
+agg <- count(data, c('cluster','RescuerID'))
+agg[which(agg$freq>1),2] <- "Multiple Posts"
+agg[which(agg$freq==1),2] <- "Single Posts"
+agg <- aggregate(freq ~ cluster + RescuerID, data=agg, sum)
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) +
+  geom_bar(aes(fill=RescuerID), stat="identity", position="dodge") +
+  labs(title="Post Count per Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+agg2 <- aggregate(freq ~ RescuerID, data=agg, sum)
+ggplot(agg, aes(x=RescuerID, y=freq)) +
+  geom_bar(aes(fill=RescuerID), stat="identity") +
+  labs(title="Post Count (for comparison)", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+
+### Quantity ###
+ggplot(data, aes(x=factor(cluster), y=Quantity)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Quantity of Pets by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+
+### Name ###
+data$no_name <- ifelse(data$Name=="", "No Name", "Name")
+agg <- count(data, c('cluster','no_name'))
+
+ggplot(agg, aes(x=factor(cluster), y=freq)) +
+  geom_bar(aes(fill=no_name), stat="identity", position="dodge") +
+  labs(title="Names by Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+
+### Description Length ###
+data$desc_length <- nchar(data$Description, type="chars")
+
+ggplot(data, aes(x=factor(cluster), y=desc_length)) + 
+  geom_boxplot(fill="blue") +
+  labs(title="Description Length by Cluster") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5),
+        axis.title.x=element_blank())
+
+#Description Statistics
+summary(data$desc_length)
+#   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#    1.0   117.0   239.0   341.8   433.0  6664.0 
+aggregate(desc_length ~ cluster, data=data, mean)
+
+data$desc_group <- ifelse(data$desc_length<117, "Short",
+                          ifelse(data$desc_length>=117 & data$desc_length<=433, "Average",
+                                 "Long"))
+agg <- count(data, c('cluster','desc_group'))
+ggplot(agg, aes(x=factor(cluster), y=freq)) +
+  geom_bar(aes(fill=desc_group), stat="identity", position="dodge") +
+  labs(title="Description Length by Cluster", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+agg2 <- aggregate(freq ~ desc_group, data=agg, sum)
+ggplot(agg, aes(x=desc_group, y=freq)) +
+  geom_bar(aes(fill=desc_group), stat="identity") +
+  labs(title="Description Length (for comparison)", x="Cluster", y="Count") +
+  theme(plot.title=element_text(lineheight=0.8, face="bold", hjust=0.5))
+
+```
+
