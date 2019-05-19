@@ -1,0 +1,3949 @@
+PetID	PetType
+378fcc4fc	Female Mother and Puppies
+73c10e136	Lovely / Playful / Friendly
+72000c4c5	Found and Friendly Rescue
+e147a4b9f	Found and Friendly Rescue
+43fbba852	Found and Friendly Rescue
+77a490ec9	Lovely / Playful / Friendly
+28c4b1b13	Found and Friendly Rescue
+d1eada628	Found and Friendly Rescue
+d134dec34	Lovely / Playful / Friendly
+bcd464bb8	Found and Friendly Rescue
+4e21958c3	Found and Friendly Rescue
+7b070aed6	Lovely / Playful / Friendly
+ff8d0708f	Lovely / Playful / Friendly
+f1e6c9bf3	Lovely / Playful / Friendly
+248914c05	Found and Friendly Rescue
+948002885	Found and Friendly Rescue
+111e67cd2	Found and Friendly Rescue
+4f4b2ede1	Lovely / Playful / Friendly
+d77fca061	Found and Friendly Rescue
+ac9fb74b9	Found and Friendly Rescue
+47ef39e7a	Found and Friendly Rescue
+c69ee9807	Found and Friendly Rescue
+62dcf8ecb	Kittens for adoption by owner
+4df1d19d6	Found and Friendly Rescue
+e8ef8455e	Lovely / Playful / Friendly
+cbd23bc17	Found and Friendly Rescue
+4d1a91ccf	Found and Friendly Rescue
+004ee5cf7	Found and Friendly Rescue
+95fad0a75	Found and Friendly Rescue
+64341b5db	Found and Friendly Rescue
+36726d4ef	Found and Friendly Rescue
+0b56a7525	Found and Friendly Rescue
+7f819d0db	Lovely / Playful / Friendly
+550a0368b	Lovely / Playful / Friendly
+9f60fc089	Found and Friendly Rescue
+92ad0b5d6	Found and Friendly Rescue
+a0465636d	Found and Friendly Rescue
+257e363e0	Lovely / Playful / Friendly
+ead84ae08	Found and Friendly Rescue
+e3b8f72db	Found and Friendly Rescue
+3dd3a9a4a	Found and Friendly Rescue
+7d266f64e	Found and Friendly Rescue
+ee31cafb8	Found and Friendly Rescue
+39795544e	Found and Friendly Rescue
+bd401c9d7	Found and Friendly Rescue
+ca34f08c5	Found and Friendly Rescue
+f28185f8b	Lovely / Playful / Friendly
+578ded1cf	Found and Friendly Rescue
+075c67b05	Found and Friendly Rescue
+2d3f76a93	Found and Friendly Rescue
+c9049c53d	Lovely / Playful / Friendly
+d51a9f925	Found and Friendly Rescue
+1d4d82bda	Lovely / Playful / Friendly
+e56ca790d	Found and Friendly Rescue
+64d85557b	Lovely / Playful / Friendly
+07dfc8e89	Found and Friendly Rescue
+5891eb6ec	Found and Friendly Rescue
+1e79f1a74	Found and Friendly Rescue
+0603e450a	Lovely / Playful / Friendly
+4c08175f2	Found and Friendly Rescue
+63ea487ed	Found and Friendly Rescue
+94738fe21	Found and Friendly Rescue
+f8c7d5162	Found and Healthy Mother and Kittens
+3aab441c8	Found and Friendly Rescue
+9aaaee20a	Found and Friendly Rescue
+99b56d294	Found and Friendly Rescue
+35edda33d	Lovely / Playful / Friendly
+348fade02	Lovely / Playful / Friendly
+301b3b88b	Found and Friendly Rescue
+59b68d2e2	Found and Friendly Rescue
+bcb71ba05	Found and Friendly Rescue
+b3d560f95	Found and Friendly Rescue
+c87763ce2	Lovely / Playful / Friendly
+40f5e930e	Found and Friendly Rescue
+0e178cab1	Kittens for adoption by owner
+ea75287c4	Found and Friendly Rescue
+1.28E+13	Lovely / Playful / Friendly
+1a92f6e92	Lovely / Playful / Friendly
+f1eb8b164	Lovely / Playful / Friendly
+959a881a3	Kittens for adoption by owner
+699ede995	Found and Friendly Rescue
+95b2b8d75	Found and Friendly Rescue
+75f25bcb6	Found and Friendly Rescue
+87c583bbc	Found and Friendly Rescue
+c74a234f2	Found and Friendly Rescue
+02661c4c5	Found and Friendly Rescue
+fee0eca1a	Found and Friendly Rescue
+1ec246964	Found and Friendly Rescue
+9d9ac4430	Found and Friendly Rescue
+68801b60f	Lovely / Playful / Friendly
+fe174feaf	Lovely / Playful / Friendly
+295d49ea4	Found and Friendly Rescue
+6ab47c3bb	Found and Friendly Rescue
+bdb8343cb	Found and Friendly Rescue
+d36ac8c08	Found and Friendly Rescue
+3972dce9e	Lovely / Playful / Friendly
+a0b3ccddc	Found and Friendly Rescue
+6e4ba0bbc	Found and Friendly Rescue
+b23d4068f	Lovely / Playful / Friendly
+2920191f9	Found and Friendly Rescue
+d683ca8e2	Found and Friendly Rescue
+48efa3f5e	Lovely / Playful / Friendly
+e03924fbe	Lovely / Playful / Friendly
+6d19b5b19	Found and Healthy Mother and Kittens
+c224db738	Found and Friendly Rescue
+1b5ee9232	Lovely / Playful / Friendly
+a3af20492	Female Mother and Puppies
+1dfaadc39	Found and Friendly Rescue
+427a7d9a4	Lovely / Playful / Friendly
+d8e945151	Found and Friendly Rescue
+27c72b14a	Found and Friendly Rescue
+3b69b9208	Lovely / Playful / Friendly
+cc5e6046a	Found and Friendly Rescue
+ff78e02f1	Lovely / Playful / Friendly
+2499a5ac3	Lovely / Playful / Friendly
+53c4f449e	Found and Friendly Rescue
+4f167e094	Found and Friendly Rescue
+76b8cdefd	Lovely / Playful / Friendly
+94c6c543b	Found and Friendly Rescue
+835cb2fef	Found and Friendly Rescue
+a90f1da14	Found and Friendly Rescue
+4db3fb6cd	Lovely / Playful / Friendly
+6d680bfcd	Lovely / Playful / Friendly
+ff8d81a17	Lovely / Playful / Friendly
+bddf3eba7	Found and Friendly Rescue
+af689290f	Found and Friendly Rescue
+83c01a2f1	Found and Friendly Rescue
+73a62be68	Found and Friendly Rescue
+b590148db	Found and Friendly Rescue
+c143aa174	Found and Healthy Mother and Kittens
+71866498f	Found and Friendly Rescue
+959973c0a	Found and Friendly Rescue
+87bf9db6c	Found and Friendly Rescue
+3ccb69d5e	Lovely / Playful / Friendly
+e9a238ffc	Found and Friendly Rescue
+8b590e38d	Found and Friendly Rescue
+ae69e67e9	Found and Friendly Rescue
+4ccb74caf	Found and Friendly Rescue
+23572703	Lovely / Playful / Friendly
+c8107d860	Found and Friendly Rescue
+ae6da35ad	Found and Friendly Rescue
+0b3c0c460	Found and Friendly Rescue
+ddb893ad0	Lovely / Playful / Friendly
+31896f476	Found and Friendly Rescue
+091271d52	Found and Healthy Mother and Kittens
+7977c1678	Lovely / Playful / Friendly
+c584098d4	Found and Friendly Rescue
+7c0eb87d7	Found and Healthy Mother and Kittens
+bc2140510	Found and Healthy Mother and Kittens
+500ddcf93	Lovely / Playful / Friendly
+f9d04b2c1	Found and Friendly Rescue
+1895238aa	Found and Friendly Rescue
+7410e4590	Lovely / Playful / Friendly
+238a79d8f	Found and Healthy Mother and Kittens
+335c29a28	Lovely / Playful / Friendly
+9b7e7d728	Found and Friendly Rescue
+9bb49d92f	Found and Friendly Rescue
+47edb873c	Lovely / Playful / Friendly
+0de470e08	Found and Healthy Mother and Kittens
+fcbadee1d	Lovely / Playful / Friendly
+b245ba4ee	Found and Friendly Rescue
+a752c78f4	Found and Friendly Rescue
+201dab625	Lovely / Playful / Friendly
+4fb06e56b	Found and Healthy Mother and Kittens
+57fc14141	Lovely / Playful / Friendly
+b5f878e59	Found and Friendly Rescue
+dfa4ed447	Found and Healthy Mother and Kittens
+9685bf777	Found and Healthy Mother and Kittens
+bf5e0d442	Found and Healthy Mother and Kittens
+78a8f8a07	Found and Healthy Mother and Kittens
+92143aaee	Found and Healthy Mother and Kittens
+f72282155	Found and Healthy Mother and Kittens
+aac356b94	Found and Friendly Rescue
+f86d87b63	Found and Friendly Rescue
+e38b05c0d	Found and Friendly Rescue
+b058642e7	Found and Healthy Mother and Kittens
+655867ece	Found and Healthy Mother and Kittens
+e024807df	Found and Friendly Rescue
+4192f7f1b	Found and Healthy Mother and Kittens
+2b9c8cfa6	Found and Healthy Mother and Kittens
+1640ba06b	Found and Healthy Mother and Kittens
+bef3d72f4	Found and Healthy Mother and Kittens
+7fda5f5f8	Found and Healthy Mother and Kittens
+67405624c	Found and Healthy Mother and Kittens
+96c7bbbaf	Found and Healthy Mother and Kittens
+6bbf1c7a8	Found and Healthy Mother and Kittens
+5470874da	Found and Healthy Mother and Kittens
+677287d56	Found and Healthy Mother and Kittens
+10888c73f	Found and Healthy Mother and Kittens
+c941bf351	Found and Healthy Mother and Kittens
+db6972cb2	Found and Friendly Rescue
+a657b0ea6	Found and Healthy Mother and Kittens
+e9143cfdf	Found and Healthy Mother and Kittens
+c1805e832	Found and Healthy Mother and Kittens
+261ce8fc3	Found and Healthy Mother and Kittens
+de136c13b	Found and Friendly Rescue
+8ed7d0992	Found and Healthy Mother and Kittens
+da111ef86	Found and Healthy Mother and Kittens
+9af944fc5	Found and Healthy Mother and Kittens
+0325c6d0c	Found and Friendly Rescue
+b003e8b9f	Found and Healthy Mother and Kittens
+889bfaf96	Found and Healthy Mother and Kittens
+a4404351a	Found and Healthy Mother and Kittens
+3a00823a4	Found and Healthy Mother and Kittens
+5e98f3ff3	Found and Healthy Mother and Kittens
+d8acef713	Found and Healthy Mother and Kittens
+b974a19cd	Found and Healthy Mother and Kittens
+df21b3124	Found and Healthy Mother and Kittens
+9b01e4b24	Found and Healthy Mother and Kittens
+387ae48fc	Found and Friendly Rescue
+1ee21b297	Found and Healthy Mother and Kittens
+8fd546c6f	Found and Healthy Mother and Kittens
+dbe6d4fd1	Found and Healthy Mother and Kittens
+09dbd2f26	Found and Healthy Mother and Kittens
+2acdd3a56	Found and Healthy Mother and Kittens
+8b6fd3411	Found and Friendly Rescue
+26f787401	Found and Healthy Mother and Kittens
+cea74a1f7	Found and Healthy Mother and Kittens
+df4f4130b	Found and Healthy Mother and Kittens
+ef6b5d97f	Found and Healthy Mother and Kittens
+97a07be8d	Lovely / Playful / Friendly
+b079f32ce	Found and Friendly Rescue
+964243fcb	Found and Healthy Mother and Kittens
+6c48a45ee	Found and Friendly Rescue
+0f3aa4636	Found and Healthy Mother and Kittens
+3bd5dd377	Found and Healthy Mother and Kittens
+bd86f3b7c	Found and Friendly Rescue
+4af2a37ff	Found and Healthy Mother and Kittens
+0dee9d530	Found and Friendly Rescue
+1430f6686	Lovely / Playful / Friendly
+f6b750fa0	No Valid Description
+851572525	Found and Healthy Mother and Kittens
+b8821af5e	Found and Friendly Rescue
+7c0cb2781	Found and Friendly Rescue
+5882f07fa	Found and Friendly Rescue
+b4dbe4f8d	Found and Healthy Mother and Kittens
+58834bef4	Found and Healthy Mother and Kittens
+d32ca0658	Found and Friendly Rescue
+0a4d04d13	Found and Healthy Mother and Kittens
+99c6a442d	Found and Healthy Mother and Kittens
+99a0d761b	Found and Healthy Mother and Kittens
+5cfe97f4d	Found and Healthy Mother and Kittens
+5edfbf6ba	Found and Friendly Rescue
+0b1d74132	Lovely / Playful / Friendly
+90336856d	Found and Friendly Rescue
+223157063	Female Mother and Puppies
+1f1ddd287	Found and Friendly Rescue
+cd51d5ffe	Found and Friendly Rescue
+144d036b1	Female Mother and Puppies
+3b715cea3	Female Mother and Puppies
+176780982	Found and Friendly Rescue
+7950faa64	Lovely / Playful / Friendly
+c55bc1c7c	Female Mother and Puppies
+b2b237033	Found and Friendly Rescue
+81d4518ee	Found and Friendly Rescue
+4df1ef790	Found and Friendly Rescue
+9.15E+08	Found and Friendly Rescue
+9bc2df0bb	Found and Friendly Rescue
+1fb65d9a3	Found and Friendly Rescue
+65a011bca	Found and Friendly Rescue
+88147811c	Found and Friendly Rescue
+fff5752ef	Found and Friendly Rescue
+8f52ecfdd	Please provide commitment criteria
+cd4d7d073	Please provide commitment criteria
+cbf5be359	Please provide commitment criteria
+4d1055a38	Found and Friendly Rescue
+ad4d4083a	Found and Friendly Rescue
+a27323945	Found and Friendly Rescue
+df25123be	Found and Friendly Rescue
+64048c5fb	Found and Friendly Rescue
+d160d237c	Please provide commitment criteria
+684c1757e	Found and Friendly Rescue
+0ab53d252	Please provide commitment criteria
+cefd51047	Found and Friendly Rescue
+c48a69f0a	Please provide commitment criteria
+da11448b6	Found and Friendly Rescue
+f5bc25243	Kittens for adoption by owner
+7a0627be7	Lovely / Playful / Friendly
+e13c0f168	Please provide commitment criteria
+0eb92ca85	Found and Friendly Rescue
+6f3a546dc	Found and Friendly Rescue
+60dc59d7e	Found and Friendly Rescue
+50848490f	Found and Friendly Rescue
+ebbfc5416	Found and Friendly Rescue
+be33711da	Please provide commitment criteria
+29ffee2ab	Found and Friendly Rescue
+f22172a19	Lovely / Playful / Friendly
+de5a1529d	Found and Friendly Rescue
+78bf39732	Please provide commitment criteria
+df90f6792	Found and Friendly Rescue
+d6ab3d456	Found and Friendly Rescue
+bb36edf54	Found and Friendly Rescue
+ef5d82c92	Found and Friendly Rescue
+7700279d3	Found and Friendly Rescue
+abc94aacf	Female Mother and Puppies
+771d872a7	Found and Friendly Rescue
+7b074b69d	Found and Friendly Rescue
+0b74e8432	Found and Friendly Rescue
+fa07edb31	Female Mother and Puppies
+0a9497647	Female Mother and Puppies
+2e6ed1d30	Female Mother and Puppies
+e9665fc0f	Found and Friendly Rescue
+b58629240	Found and Friendly Rescue
+fb3a6969b	Found and Friendly Rescue
+d739b8ea0	Found and Friendly Rescue
+351ca0f97	Female Mother and Puppies
+41b3f325e	Found and Friendly Rescue
+1e5fba5c2	Female Mother and Puppies
+efbc6b3fe	Female Mother and Puppies
+c4fa4914b	Female Mother and Puppies
+c1a0105d0	Found and Friendly Rescue
+a5c61707b	Found and Friendly Rescue
+f31765a83	Found and Friendly Rescue
+f554997f5	Found and Friendly Rescue
+b4b53b798	Found and Healthy Mother and Kittens
+5eb07029d	Found and Healthy Mother and Kittens
+7aa891436	Found and Friendly Rescue
+53d7bd640	Found and Friendly Rescue
+9e1db93d7	Found and Healthy Mother and Kittens
+002d58f95	Found and Healthy Mother and Kittens
+801ce34d9	Found and Healthy Mother and Kittens
+971d25a97	Found and Friendly Rescue
+82203c5da	Found and Friendly Rescue
+9a5b91c0a	Found and Friendly Rescue
+838c99628	Found and Friendly Rescue
+04465b5e7	Found and Friendly Rescue
+3f9fd0166	Found and Friendly Rescue
+baa12ea44	Found and Healthy Mother and Kittens
+0584689f1	Found and Friendly Rescue
+3bf766f12	Found and Friendly Rescue
+cc854698d	Found and Friendly Rescue
+0f14425da	Found and Friendly Rescue
+eea05de84	Lovely / Playful / Friendly
+24a749cf5	Found and Friendly Rescue
+6b0e3e8a4	Found and Healthy Mother and Kittens
+26cad56b0	Please provide commitment criteria
+6cd12b223	Female Mother and Puppies
+f75ef16b3	Kittens for adoption by owner
+50d9eb08e	Kittens for adoption by owner
+1d9b084a3	Female Mother and Puppies
+557b18791	Female Mother and Puppies
+872d0a084	Female Mother and Puppies
+6f35aa679	Female Mother and Puppies
+5f1a99014	Female Mother and Puppies
+820720238	Female Mother and Puppies
+a09a02848	Female Mother and Puppies
+ed19d5a78	Found and Friendly Rescue
+7f1d157a6	Found and Friendly Rescue
+5b1b64fc6	Found and Friendly Rescue
+a76126713	Found and Friendly Rescue
+55a13f499	Found and Friendly Rescue
+70c322ca8	Found and Friendly Rescue
+b759d6a14	Found and Friendly Rescue
+48f5fa3df	Found and Friendly Rescue
+835f0b15c	Female Mother and Puppies
+b000029b2	Found and Friendly Rescue
+0768924b3	Female Mother and Puppies
+c3e62dc54	Found and Friendly Rescue
+72123cd55	Found and Friendly Rescue
+b40e4f9e9	Found and Friendly Rescue
+a12e55ad6	Found and Friendly Rescue
+cf01fc160	Found and Friendly Rescue
+617e5fe89	Lovely / Playful / Friendly
+ef4302021	Found and Friendly Rescue
+7f5646199	Lovely / Playful / Friendly
+d5d8f297e	No Valid Description
+78db7b8e3	Kittens for adoption by owner
+ec92805e3	Found and Friendly Rescue
+d8823e6dd	Found and Friendly Rescue
+e76e72f23	Found and Friendly Rescue
+ec767387d	Found and Friendly Rescue
+69c0631de	Found and Friendly Rescue
+8049de4a7	Found and Friendly Rescue
+b6c980449	Found and Friendly Rescue
+928357091	Found and Friendly Rescue
+60f010c04	Kittens for adoption by owner
+8aa1e6cb5	Found and Friendly Rescue
+02d7d425a	Found and Friendly Rescue
+3eec94b7b	Kittens for adoption by owner
+ab8ab0e02	Found and Friendly Rescue
+bddd0c64a	Found and Friendly Rescue
+b7e885611	No Valid Description
+a0a0ddd80	Found and Friendly Rescue
+d826ef544	Found and Friendly Rescue
+08f0404e1	Found and Friendly Rescue
+33f5c30ff	Found and Friendly Rescue
+e1eaf1f74	Found and Friendly Rescue
+e4618b7b9	Found and Friendly Rescue
+a50d71570	Found and Friendly Rescue
+4a288da21	Found and Friendly Rescue
+9d9733860	Found and Friendly Rescue
+73f318529	Found and Friendly Rescue
+cca745253	Lovely / Playful / Friendly
+eacbd58b0	Found and Friendly Rescue
+eec125a4a	Found and Friendly Rescue
+502911dbd	Found and Friendly Rescue
+e04a35a41	Found and Friendly Rescue
+5342033a7	Found and Friendly Rescue
+cdaf456cf	Kittens for adoption by owner
+75e4fbcef	Found and Friendly Rescue
+3087667fd	Found and Friendly Rescue
+7562239de	Found and Friendly Rescue
+2378b2a7d	Female Mother and Puppies
+ea1a2b014	Found and Friendly Rescue
+c86c3f3b3	Found and Friendly Rescue
+87db66a72	Found and Friendly Rescue
+9e8aed47c	Found and Friendly Rescue
+aa4ec0b7b	Found and Friendly Rescue
+54e04a9c4	Found and Friendly Rescue
+4b047a13d	Found and Friendly Rescue
+780edb258	Found and Friendly Rescue
+f3c696dce	Found and Friendly Rescue
+532aa2fb9	Female Mother and Puppies
+9f814c16e	Found and Healthy Mother and Kittens
+1d7cdece4	Found and Healthy Mother and Kittens
+e3b49febf	Found and Friendly Rescue
+8ad63f37f	Found and Healthy Mother and Kittens
+a7d5c2242	Kittens for adoption by owner
+c43c466e3	Kittens for adoption by owner
+c3433e19d	Found and Friendly Rescue
+1b5943aaa	Found and Healthy Mother and Kittens
+1f27709ce	Kittens for adoption by owner
+93b1fdf09	Found and Friendly Rescue
+8d7fbf152	Found and Friendly Rescue
+e46215f44	Found and Friendly Rescue
+92ae90261	Found and Friendly Rescue
+c26273a72	Found and Friendly Rescue
+b6faa5d0c	Found and Friendly Rescue
+831daae06	Found and Friendly Rescue
+7be9199b4	Found and Friendly Rescue
+a5b873b6e	Lovely / Playful / Friendly
+b702963dd	Lovely / Playful / Friendly
+a982d66db	Lovely / Playful / Friendly
+81fa439c6	Lovely / Playful / Friendly
+31a535f56	Lovely / Playful / Friendly
+cc6abdd95	Found and Friendly Rescue
+de097478a	Found and Friendly Rescue
+f69593c1b	Lovely / Playful / Friendly
+948ce715f	Female Mother and Puppies
+f9f2a222e	Lovely / Playful / Friendly
+5a393e52c	Found and Friendly Rescue
+bb55b187f	Found and Friendly Rescue
+4657c608a	Lovely / Playful / Friendly
+879067966	Found and Friendly Rescue
+6fdc13751	Lovely / Playful / Friendly
+058d9f3fd	Found and Friendly Rescue
+4137e2c58	Lovely / Playful / Friendly
+a0e97dd06	Found and Friendly Rescue
+87eeb11ac	Lovely / Playful / Friendly
+e0be7d774	Found and Friendly Rescue
+d405dfce6	Found and Friendly Rescue
+a6914376f	Found and Friendly Rescue
+e6845a1d1	Found and Friendly Rescue
+1ae728335	Found and Friendly Rescue
+849b12fe0	Female Mother and Puppies
+7a82b099c	Found and Friendly Rescue
+891b51d83	Found and Friendly Rescue
+987c30415	Lovely / Playful / Friendly
+fa42fddef	Found and Friendly Rescue
+44664ad4a	Lovely / Playful / Friendly
+cf38c80ab	Found and Friendly Rescue
+5408a54c7	Lovely / Playful / Friendly
+4303c865e	Found and Friendly Rescue
+b39f6200e	Female Mother and Puppies
+97ebb54fe	Found and Friendly Rescue
+717d8019c	Found and Friendly Rescue
+98c8a3e58	Found and Friendly Rescue
+29c57716c	Lovely / Playful / Friendly
+46d2d6f64	Found and Friendly Rescue
+dfd722c50	Lovely / Playful / Friendly
+4487f2bcf	Found and Friendly Rescue
+e5e796868	Found and Friendly Rescue
+30e80f19c	Found and Friendly Rescue
+1ae174833	Found and Friendly Rescue
+4b4881b91	Female Mother and Puppies
+0e2869ac3	Lovely / Playful / Friendly
+e938a1e6a	Found and Friendly Rescue
+82214f3a4	Found and Healthy Mother and Kittens
+28cd684a5	Found and Healthy Mother and Kittens
+8bc2c1ead	Found and Friendly Rescue
+6e0ee24b0	Found and Friendly Rescue
+cb8d2a118	Found and Healthy Mother and Kittens
+a4de34766	Lovely / Playful / Friendly
+9dc89cdab	Found and Friendly Rescue
+b0bbd1503	Lovely / Playful / Friendly
+1be0db8e9	Found and Friendly Rescue
+85cacbcec	Found and Friendly Rescue
+db1b7bf8b	Found and Friendly Rescue
+de7ae1f0b	Lovely / Playful / Friendly
+c9b70a7c4	Found and Friendly Rescue
+8e3fe7b5e	Lovely / Playful / Friendly
+ac13c0cd4	Found and Healthy Mother and Kittens
+7400342c0	Found and Friendly Rescue
+20647571b	Found and Friendly Rescue
+feea78c0a	Found and Healthy Mother and Kittens
+8807673c1	Female Mother and Puppies
+e554dffbc	Found and Friendly Rescue
+79d37667e	Found and Friendly Rescue
+926ef2f60	Found and Friendly Rescue
+20f58ed95	Found and Healthy Mother and Kittens
+073f57c15	Found and Friendly Rescue
+0f8b0cb3c	Found and Friendly Rescue
+878904af4	Found and Friendly Rescue
+ea6f66062	Found and Healthy Mother and Kittens
+ac3e0a48f	No Valid Description
+004cf6089	Found and Friendly Rescue
+5cfe411cb	Found and Friendly Rescue
+7ebafbae3	Found and Friendly Rescue
+f9cf956fc	Found and Friendly Rescue
+a53278ff3	Lovely / Playful / Friendly
+19a0f671b	Female Mother and Puppies
+d26296a67	Found and Healthy Mother and Kittens
+9b2f67c6e	Found and Friendly Rescue
+6f3d75dc1	Found and Friendly Rescue
+3ff5b908e	Found and Friendly Rescue
+f3c74e463	Found and Friendly Rescue
+145aa4d64	Please provide commitment criteria
+f42a5b81c	Please provide commitment criteria
+995728b7e	Found and Friendly Rescue
+c3fc3bcb8	Found and Healthy Mother and Kittens
+a3ea76f09	Butterworth Penang Call Whats app
+b51266b11	Found and Healthy Mother and Kittens
+2801de50d	Found and Healthy Mother and Kittens
+0ad9d4fd0	Found and Friendly Rescue
+4f1941c1b	Found and Healthy Mother and Kittens
+39cc80de9	Found and Friendly Rescue
+223f25172	Found and Friendly Rescue
+b4719ca7c	Found and Friendly Rescue
+d56197b06	Found and Friendly Rescue
+f3e46aa6e	Found and Friendly Rescue
+772111493	Found and Friendly Rescue
+26b387591	Found and Friendly Rescue
+da4823525	Found and Friendly Rescue
+f1e8168ce	Found and Friendly Rescue
+6a6d80b9a	Please provide commitment criteria
+22d0da252	Found and Friendly Rescue
+af52f13a5	Please provide commitment criteria
+73415ac0e	Please provide commitment criteria
+577ba4e53	Found and Friendly Rescue
+97fadb81f	Please provide commitment criteria
+f0a9e7880	Please provide commitment criteria
+1265338d2	Found and Friendly Rescue
+1fceb7280	Found and Friendly Rescue
+8aaa5af7f	Found and Friendly Rescue
+58af044bb	Please provide commitment criteria
+a4974980b	Found and Friendly Rescue
+83bf26924	Please provide commitment criteria
+f1eff69a3	Found and Friendly Rescue
+3b9dd74b8	Please provide commitment criteria
+4.94E+88	Please provide commitment criteria
+9466c9b36	Please provide commitment criteria
+000c21f80	Please provide commitment criteria
+a226c0872	Please provide commitment criteria
+93750c323	Please provide commitment criteria
+c98ae5256	Please provide commitment criteria
+f338db3f3	Please provide commitment criteria
+beaffb689	Please provide commitment criteria
+6cae4ce75	Please provide commitment criteria
+4797fd404	Please provide commitment criteria
+79c97b719	Please provide commitment criteria
+a462f03c3	Please provide commitment criteria
+269dbc193	Found and Friendly Rescue
+936ae4908	Please provide commitment criteria
+534f1885c	Please provide commitment criteria
+4057b6a41	Please provide commitment criteria
+30ed97f23	Found and Friendly Rescue
+2.54E+06	Found and Friendly Rescue
+3b63a0ca8	Found and Healthy Mother and Kittens
+89ba10c3f	Found and Friendly Rescue
+513db5e47	Please provide commitment criteria
+539c9ec3d	Please provide commitment criteria
+2046cf663	Please provide commitment criteria
+a93de89f5	Please provide commitment criteria
+e469e18c1	Please provide commitment criteria
+073e033a3	Found and Friendly Rescue
+aca756485	Please provide commitment criteria
+26302a794	Please provide commitment criteria
+01e7a25d6	Found and Friendly Rescue
+57d7b2d43	Found and Friendly Rescue
+c7a275165	Please provide commitment criteria
+53233df86	Please provide commitment criteria
+d1bb3e502	Please provide commitment criteria
+e37322e54	Please provide commitment criteria
+71d90d199	Please provide commitment criteria
+a9eaa8041	Please provide commitment criteria
+7ab900c01	Please provide commitment criteria
+c333a003e	Please provide commitment criteria
+2d9f6b906	Please provide commitment criteria
+511301e7d	Please provide commitment criteria
+4c9e94650	Please provide commitment criteria
+a2200e8aa	Please provide commitment criteria
+98e640678	Please provide commitment criteria
+19d861c85	Found and Friendly Rescue
+dd4077415	Please provide commitment criteria
+48593c5b4	Found and Friendly Rescue
+e00384dc6	Please provide commitment criteria
+0352a0ce5	Please provide commitment criteria
+23cc351f5	Please provide commitment criteria
+c9be84842	Found and Friendly Rescue
+d2e1a5a68	Please provide commitment criteria
+470653184	Found and Friendly Rescue
+2a69e15f4	Found and Friendly Rescue
+3b68427d2	Found and Friendly Rescue
+7293da62a	Found and Healthy Mother and Kittens
+088a4b4aa	No Valid Description
+c1f8b346b	No Valid Description
+c40b151c9	No Valid Description
+29c3d2e34	No Valid Description
+04af1791f	No Valid Description
+49b82b06e	No Valid Description
+d098e91c5	No Valid Description
+6f6064448	Female Mother and Puppies
+c13e5f667	Please provide commitment criteria
+d15797630	Please provide commitment criteria
+cb6587025	Please provide commitment criteria
+cb3310666	Please provide commitment criteria
+44704879b	Found and Friendly Rescue
+b21c0bf53	Please provide commitment criteria
+3895b99e3	Found and Healthy Mother and Kittens
+252403a98	Please provide commitment criteria
+0118e0990	Please provide commitment criteria
+03a6f3852	Please provide commitment criteria
+445810c68	Please provide commitment criteria
+90f068186	Please provide commitment criteria
+5d9ecb00f	Found and Friendly Rescue
+aa373cc64	Found and Friendly Rescue
+771f02e42	Found and Friendly Rescue
+55800cee3	Found and Friendly Rescue
+0626c67dd	Found and Friendly Rescue
+d3987ecf5	Found and Friendly Rescue
+38d96666f	Found and Friendly Rescue
+988e47944	Found and Friendly Rescue
+87226c200	Lovely / Playful / Friendly
+ba7dcba75	Found and Healthy Mother and Kittens
+2d86ffa7a	Found and Friendly Rescue
+c6aff3fd8	Found and Friendly Rescue
+8d3c2d72b	Found and Friendly Rescue
+85129474	Found and Friendly Rescue
+27e7d47b6	Found and Friendly Rescue
+31eafe6ef	Lovely / Playful / Friendly
+965005fda	Found and Friendly Rescue
+d009e34ba	Found and Friendly Rescue
+f8e75043b	Found and Friendly Rescue
+6cfe2748e	Found and Friendly Rescue
+64e00ab2c	Found and Friendly Rescue
+7c2a08f41	Lovely / Playful / Friendly
+c270806fd	Found and Friendly Rescue
+b9de9ecd8	Found and Friendly Rescue
+0ce1b66ce	Found and Friendly Rescue
+1b5edd6f1	Lovely / Playful / Friendly
+37ef7dcc8	Please provide commitment criteria
+39fa339e3	Found and Friendly Rescue
+4f9a4bffc	Found and Friendly Rescue
+50c0a9329	Please provide commitment criteria
+0df2a6f99	Found and Friendly Rescue
+29de42f4a	Lovely / Playful / Friendly
+31f602634	Please provide commitment criteria
+350caedf4	Lovely / Playful / Friendly
+5be8cfc67	Found and Friendly Rescue
+fa09fda1a	Lovely / Playful / Friendly
+d2ad766f6	Please provide commitment criteria
+6.59E+15	Found and Friendly Rescue
+ff23007d4	Lovely / Playful / Friendly
+3ff5b5ca1	Found and Friendly Rescue
+a74a6d785	Lovely / Playful / Friendly
+ee551ddfb	Found and Friendly Rescue
+39b7c97c3	Found and Healthy Mother and Kittens
+aa1d5638b	Lovely / Playful / Friendly
+e685f3c4e	Lovely / Playful / Friendly
+dec5e83a2	Found and Friendly Rescue
+68df30c4d	No Valid Description
+c489fd162	Please provide commitment criteria
+9447414ff	Found and Friendly Rescue
+40802c588	Found and Friendly Rescue
+d272784b3	Found and Friendly Rescue
+c4a3f5215	Found and Friendly Rescue
+7a12b2af4	Please provide commitment criteria
+370280ff2	Found and Friendly Rescue
+f267a1a66	Please provide commitment criteria
+7f46433b5	Found and Friendly Rescue
+63efe7744	No Valid Description
+9edcc7dd0	Found and Friendly Rescue
+9.43E+14	No Valid Description
+3bec91491	Please provide commitment criteria
+eb44980b8	No Valid Description
+d3be56103	No Valid Description
+40632091e	Found and Friendly Rescue
+c246aa80f	No Valid Description
+7ec454420	Found and Friendly Rescue
+2a2f4be17	Lovely / Playful / Friendly
+6692d9946	Found and Friendly Rescue
+2954f8aea	Found and Friendly Rescue
+915799ea3	Found and Friendly Rescue
+3bfd36967	Please provide commitment criteria
+923492de1	Lovely / Playful / Friendly
+8c5f5b628	Found and Friendly Rescue
+eab225174	Found and Friendly Rescue
+87777e68d	Please provide commitment criteria
+73ac66cd7	Please provide commitment criteria
+bc8a14000	Found and Friendly Rescue
+d41cc19b4	Please provide commitment criteria
+8e9b7ecb1	Lovely / Playful / Friendly
+7ab6a6192	Found and Friendly Rescue
+0ff918b94	Found and Friendly Rescue
+784441a4e	Found and Friendly Rescue
+83904959c	Lovely / Playful / Friendly
+9f56cf32e	Please provide commitment criteria
+5d0cdc3a7	Found and Friendly Rescue
+6c221a562	Found and Friendly Rescue
+417802258	Found and Friendly Rescue
+643f275eb	Lovely / Playful / Friendly
+7b40b013c	Lovely / Playful / Friendly
+252b6b562	Found and Friendly Rescue
+d5d4d49b4	Found and Friendly Rescue
+5a8bcdf7d	Found and Friendly Rescue
+2916d13e9	Found and Friendly Rescue
+78548272e	Found and Friendly Rescue
+6b735add7	Found and Friendly Rescue
+c0947cb70	Found and Friendly Rescue
+31c85be7c	Found and Friendly Rescue
+777b17bb8	Found and Friendly Rescue
+ddec80496	Found and Friendly Rescue
+b77b8ae58	Kittens for adoption by owner
+9ad247ea7	Kittens for adoption by owner
+9efba5681	Kittens for adoption by owner
+4406a893a	Kittens for adoption by owner
+c4692db05	Found and Friendly Rescue
+777373cc8	Found and Friendly Rescue
+70aad67ae	Found and Friendly Rescue
+79523c81d	Found and Friendly Rescue
+82ae21e62	Kittens for adoption by owner
+8a51a7ca6	Kittens for adoption by owner
+62b0a2633	Kittens for adoption by owner
+8fe8a0b9d	Found and Friendly Rescue
+8db9935ba	Found and Friendly Rescue
+10f27e489	Found and Friendly Rescue
+dabe2ca11	Found and Friendly Rescue
+c3fe885e7	Found and Friendly Rescue
+88aaa8cb7	Found and Friendly Rescue
+429746fa8	Found and Friendly Rescue
+4a2f24287	Found and Friendly Rescue
+c2c49887c	Found and Friendly Rescue
+3155c4c07	Found and Friendly Rescue
+696888b07	Found and Friendly Rescue
+116d04a3e	Found and Friendly Rescue
+22c8c9238	Found and Friendly Rescue
+63c2914c2	Found and Friendly Rescue
+4bfa665fd	Found and Friendly Rescue
+211dbc5e2	Found and Friendly Rescue
+767f03371	Female Mother and Puppies
+e0c0e8996	Found and Friendly Rescue
+7.42E+13	Found and Friendly Rescue
+72e59dd47	Found and Friendly Rescue
+505037d6d	Found and Friendly Rescue
+b11f91ced	Found and Friendly Rescue
+93f2c9ee0	Found and Friendly Rescue
+2e2c1d082	Found and Friendly Rescue
+252fa874e	Found and Friendly Rescue
+ee471427e	Found and Friendly Rescue
+a9e1e154a	Found and Friendly Rescue
+e2fd54afc	Found and Friendly Rescue
+eb12b75d2	Found and Friendly Rescue
+94ffdd93c	Female Mother and Puppies
+c3f088934	Found and Friendly Rescue
+3b310f54d	Female Mother and Puppies
+e2005bb4c	Found and Friendly Rescue
+f226ec9c1	Female Mother and Puppies
+fbe2a5ea8	Found and Friendly Rescue
+b09467fa2	Found and Friendly Rescue
+dc33adc1a	Found and Friendly Rescue
+9ab81b3e0	Found and Friendly Rescue
+8def469fe	Found and Friendly Rescue
+bbde3314b	Found and Friendly Rescue
+798456e7b	Found and Friendly Rescue
+4e4bbdba2	Female Mother and Puppies
+75e64c6b5	Found and Friendly Rescue
+f7b52283c	Female Mother and Puppies
+d8ad6c1de	Female Mother and Puppies
+53d870534	Found and Friendly Rescue
+135234f32	Found and Friendly Rescue
+2c688db55	Found and Friendly Rescue
+aaf22f292	Found and Friendly Rescue
+e5db86945	Found and Friendly Rescue
+ce8fdd720	Found and Friendly Rescue
+6.18E+08	Found and Friendly Rescue
+3ef8e3c10	Found and Friendly Rescue
+5765d8240	Butterworth Penang Call Whats app
+7f992a891	Butterworth Penang Call Whats app
+5a4ed9f25	Butterworth Penang Call Whats app
+7e322bd55	Butterworth Penang Call Whats app
+f8868d690	Found and Friendly Rescue
+7e008e818	Found and Friendly Rescue
+c228f4293	Found and Friendly Rescue
+52acbc630	Found and Friendly Rescue
+35c34bdfd	Found and Friendly Rescue
+8dea28408	Lovely / Playful / Friendly
+7597f4210	Kittens for adoption by owner
+591f0a114	Found and Friendly Rescue
+3fa5fba46	Kittens for adoption by owner
+233d08bb1	Found and Friendly Rescue
+ca15b54ae	Found and Friendly Rescue
+e99160687	Found and Friendly Rescue
+4ba858df3	Found and Friendly Rescue
+62b065db7	Found and Friendly Rescue
+be10ae529	Found and Friendly Rescue
+dff8203bf	Found and Friendly Rescue
+cf56161c2	Found and Friendly Rescue
+1b3a195ae	Found and Friendly Rescue
+b06e4a04b	Lovely / Playful / Friendly
+67e33c026	Found and Friendly Rescue
+21323ab5c	Found and Friendly Rescue
+44ad04898	Lovely / Playful / Friendly
+e629ebf54	Lovely / Playful / Friendly
+f100e4b85	Found and Friendly Rescue
+f9cac0fa3	Found and Friendly Rescue
+8738eafb4	Found and Friendly Rescue
+27b46c823	Found and Friendly Rescue
+07b5f3344	Lovely / Playful / Friendly
+d8baec065	Found and Friendly Rescue
+45530ea77	Found and Friendly Rescue
+d27346d04	Found and Friendly Rescue
+13517ad21	Female Mother and Puppies
+bd8f9547d	Found and Friendly Rescue
+2bd5ce781	Found and Friendly Rescue
+7fe7b5c88	Found and Friendly Rescue
+bdab587ee	Found and Friendly Rescue
+287ff720d	Found and Friendly Rescue
+6422836ad	Found and Friendly Rescue
+614494f00	Found and Friendly Rescue
+458683f6f	Found and Friendly Rescue
+c4acee3dc	Found and Friendly Rescue
+26b30a979	Found and Friendly Rescue
+83d688b83	Found and Friendly Rescue
+fadbbfecc	Found and Friendly Rescue
+b13517268	Kittens for adoption by owner
+c2602732c	Kittens for adoption by owner
+bb134e98f	Kittens for adoption by owner
+e69d158ac	Lovely / Playful / Friendly
+46ef6e10b	Found and Friendly Rescue
+205ce681c	Lovely / Playful / Friendly
+0afed346f	Lovely / Playful / Friendly
+d380a2bfc	Kittens for adoption by owner
+610f23f00	Kittens for adoption by owner
+e12e6c77d	Kittens for adoption by owner
+82fd13a37	Kittens for adoption by owner
+be4053473	Found and Friendly Rescue
+a57ccdf7a	Lovely / Playful / Friendly
+5f4c5316a	Lovely / Playful / Friendly
+487d249ee	Found and Friendly Rescue
+d1d32a8d7	Found and Healthy Mother and Kittens
+267df54a7	Found and Friendly Rescue
+db9c0253d	Found and Friendly Rescue
+21eca6014	Found and Friendly Rescue
+6069f575a	Found and Friendly Rescue
+3bdf7f396	Female Mother and Puppies
+f1c064a0e	Found and Friendly Rescue
+ad70c12a7	Found and Friendly Rescue
+3fd24c3ef	Kittens for adoption by owner
+3563d1d53	Kittens for adoption by owner
+e41d4efb8	Butterworth Penang Call Whats app
+b814839bc	Found and Friendly Rescue
+5f35e89a9	Kittens for adoption by owner
+b0a4f19ff	Found and Friendly Rescue
+1cce3f324	Butterworth Penang Call Whats app
+81b9901db	Kittens for adoption by owner
+8b801f2be	Kittens for adoption by owner
+d505bed08	Found and Friendly Rescue
+1bea8833d	Kittens for adoption by owner
+b2a29d333	Butterworth Penang Call Whats app
+f95f86b17	Kittens for adoption by owner
+bdc163732	Found and Healthy Mother and Kittens
+bd8e74a80	Kittens for adoption by owner
+63c8a07f4	Found and Friendly Rescue
+630794d7d	Kittens for adoption by owner
+984df9850	Kittens for adoption by owner
+9dbaf8a68	Kittens for adoption by owner
+5557ba20d	Found and Friendly Rescue
+37968daed	Found and Friendly Rescue
+4eae62f07	Butterworth Penang Call Whats app
+65d6c3290	Kittens for adoption by owner
+d0ad242be	Kittens for adoption by owner
+43162a244	Found and Friendly Rescue
+38bed8f85	Kittens for adoption by owner
+f69f6cf25	Found and Friendly Rescue
+455fe1272	Kittens for adoption by owner
+1585e31a1	Found and Friendly Rescue
+70aec7d9a	Female Mother and Puppies
+bc309b188	Found and Friendly Rescue
+7ddceb832	Kittens for adoption by owner
+72bea1f70	Found and Healthy Mother and Kittens
+ef874a565	Kittens for adoption by owner
+ba4754079	Please provide commitment criteria
+eefd0bf99	Found and Healthy Mother and Kittens
+ace2fe01d	Kittens for adoption by owner
+9f3e1208f	Found and Healthy Mother and Kittens
+2884073d9	Kittens for adoption by owner
+ae1bf1397	Kittens for adoption by owner
+e1cf1e592	Kittens for adoption by owner
+413007d3f	Kittens for adoption by owner
+a51a4a91f	Kittens for adoption by owner
+3f6d04efb	No Valid Description
+a74ee2c2b	Kittens for adoption by owner
+5f4bfd5f7	Found and Friendly Rescue
+8d2be7f16	Butterworth Penang Call Whats app
+2bccc705a	Found and Friendly Rescue
+49897924e	Kittens for adoption by owner
+56a425609	Found and Friendly Rescue
+5458ccb3d	Kittens for adoption by owner
+0df5238d7	Kittens for adoption by owner
+1548bba9f	Found and Friendly Rescue
+5c6805939	Kittens for adoption by owner
+d209adf87	Kittens for adoption by owner
+65c748792	Found and Friendly Rescue
+5ed9e0442	Kittens for adoption by owner
+ca768e7de	Kittens for adoption by owner
+875195d55	Found and Healthy Mother and Kittens
+2b17e08a7	Found and Friendly Rescue
+3fa587b7e	Kittens for adoption by owner
+63935ea48	Kittens for adoption by owner
+38af4c7e7	Found and Friendly Rescue
+9ed4273a5	Found and Friendly Rescue
+0fab3d2ee	Butterworth Penang Call Whats app
+51eb1b4b1	Butterworth Penang Call Whats app
+722bdf2a7	Kittens for adoption by owner
+ea53b9c93	Found and Healthy Mother and Kittens
+dd11efee2	Kittens for adoption by owner
+daf0475ee	Found and Friendly Rescue
+d800b8143	Found and Friendly Rescue
+f9f69faca	Kittens for adoption by owner
+5e9da1643	Butterworth Penang Call Whats app
+ee2b30c38	Butterworth Penang Call Whats app
+7ead7ea3f	Kittens for adoption by owner
+fb61905a6	Female Mother and Puppies
+87d5053c6	Found and Healthy Mother and Kittens
+169b9ccc5	Found and Friendly Rescue
+595a40121	Butterworth Penang Call Whats app
+4faf00da3	Butterworth Penang Call Whats app
+86fc4268c	Butterworth Penang Call Whats app
+47469eeca	Butterworth Penang Call Whats app
+37b855461	Butterworth Penang Call Whats app
+beaa42896	Butterworth Penang Call Whats app
+95b2810c9	Butterworth Penang Call Whats app
+e091a7dce	Butterworth Penang Call Whats app
+8cbc9e8a2	Butterworth Penang Call Whats app
+9d3774025	Butterworth Penang Call Whats app
+f59397152	Butterworth Penang Call Whats app
+a168290b9	Butterworth Penang Call Whats app
+d631fa033	Butterworth Penang Call Whats app
+970a3e0e7	Butterworth Penang Call Whats app
+f9ff5a90d	Lovely / Playful / Friendly
+9aab47fe6	Butterworth Penang Call Whats app
+74fafd5d5	Butterworth Penang Call Whats app
+d3b38f1e9	Butterworth Penang Call Whats app
+a29f203d8	Butterworth Penang Call Whats app
+07bafcec0	Butterworth Penang Call Whats app
+bd2e2a613	Butterworth Penang Call Whats app
+53d7eab35	Butterworth Penang Call Whats app
+6094fd727	Butterworth Penang Call Whats app
+be541df1b	Butterworth Penang Call Whats app
+aaceff2f9	Butterworth Penang Call Whats app
+621f9c562	Butterworth Penang Call Whats app
+20b198c77	Butterworth Penang Call Whats app
+cf99678fa	Butterworth Penang Call Whats app
+ae360265c	Butterworth Penang Call Whats app
+7ec62db29	Butterworth Penang Call Whats app
+f1c5acde8	Found and Friendly Rescue
+6d497c99d	Butterworth Penang Call Whats app
+f32678ae6	Butterworth Penang Call Whats app
+b95abc52a	Butterworth Penang Call Whats app
+f3425ad46	Butterworth Penang Call Whats app
+f00e82516	Butterworth Penang Call Whats app
+5da7754a6	Butterworth Penang Call Whats app
+dd0960329	Lovely / Playful / Friendly
+f81080e64	Butterworth Penang Call Whats app
+3dd09498f	Butterworth Penang Call Whats app
+ba58e37f3	Butterworth Penang Call Whats app
+7bfa3138d	Butterworth Penang Call Whats app
+7af87b0e9	Butterworth Penang Call Whats app
+e031aa024	Female Mother and Puppies
+0ecb9d4f3	Butterworth Penang Call Whats app
+95a312ec1	Butterworth Penang Call Whats app
+0919b238a	Butterworth Penang Call Whats app
+9042d12ed	Butterworth Penang Call Whats app
+4ab4710e0	Found and Friendly Rescue
+b661e13c8	Found and Friendly Rescue
+2b5349ff4	Female Mother and Puppies
+64438faa7	Female Mother and Puppies
+f8a723197	Lovely / Playful / Friendly
+57a95d735	Found and Friendly Rescue
+17ecb4550	Female Mother and Puppies
+58c4e9f5c	Found and Friendly Rescue
+381bd3018	Found and Friendly Rescue
+0fde2c7cc	Female Mother and Puppies
+ed6f693ef	Female Mother and Puppies
+c5f2c614b	Female Mother and Puppies
+1526cf0a2	Found and Friendly Rescue
+55c5189a6	Female Mother and Puppies
+06fc80c2b	Female Mother and Puppies
+4d3a84704	Female Mother and Puppies
+ffea1ef51	Found and Friendly Rescue
+d7c87febb	Found and Healthy Mother and Kittens
+ef4d4d0d0	Found and Friendly Rescue
+1cb33307c	Kittens for adoption by owner
+4c7270fba	Found and Friendly Rescue
+04204b8a1	Lovely / Playful / Friendly
+3d80aedb1	Found and Friendly Rescue
+f8af3929c	Lovely / Playful / Friendly
+409f0a30e	Kittens for adoption by owner
+fa752a9b7	Kittens for adoption by owner
+1b9bc20ed	Found and Friendly Rescue
+c3868c29d	Found and Friendly Rescue
+8ec13a66e	Found and Friendly Rescue
+d787cfbc9	Lovely / Playful / Friendly
+c3dea2b43	Lovely / Playful / Friendly
+1a251e813	Found and Friendly Rescue
+734ae4be0	Found and Friendly Rescue
+f3409ad0a	Found and Friendly Rescue
+bd1cc6b5a	Lovely / Playful / Friendly
+8f55ec42a	Found and Friendly Rescue
+f23593596	Kittens for adoption by owner
+12c8ae39c	Found and Friendly Rescue
+8e5a8b127	Found and Friendly Rescue
+4e1af64a8	Kittens for adoption by owner
+d7d2d5063	Found and Friendly Rescue
+925d65c0b	Found and Friendly Rescue
+1e6cae3fe	Kittens for adoption by owner
+87fbfdc44	Found and Friendly Rescue
+fb2176a0d	Female Mother and Puppies
+021c9bd5d	Female Mother and Puppies
+569f0042e	Kittens for adoption by owner
+0a4465e2e	Female Mother and Puppies
+71fcc91f0	Female Mother and Puppies
+d02c16ba6	Kittens for adoption by owner
+2a291de5d	Found and Friendly Rescue
+88920eb75	Found and Friendly Rescue
+864c81ba0	Kittens for adoption by owner
+f857fda99	Kittens for adoption by owner
+c99e1591d	Found and Friendly Rescue
+dc4092be1	Found and Friendly Rescue
+082df54ae	Found and Friendly Rescue
+fa8a8f28b	Kittens for adoption by owner
+eeeb944a4	Kittens for adoption by owner
+ef34344da	Kittens for adoption by owner
+8f0235b3a	Lovely / Playful / Friendly
+3d748805f	Kittens for adoption by owner
+2b006b40f	Kittens for adoption by owner
+c40649db3	Found and Friendly Rescue
+0d1589413	Kittens for adoption by owner
+1c7538aeb	Kittens for adoption by owner
+ef326716f	Kittens for adoption by owner
+211ea05f2	Found and Friendly Rescue
+8e3321de8	Found and Friendly Rescue
+93581205	Kittens for adoption by owner
+aec43e224	Kittens for adoption by owner
+cfa37c339	Kittens for adoption by owner
+67fe5be41	Found and Friendly Rescue
+3b33a44c6	Kittens for adoption by owner
+fb6ded00c	Kittens for adoption by owner
+e1dd34d5f	Found and Friendly Rescue
+b05ec9a80	Found and Friendly Rescue
+7f01bc6e5	Kittens for adoption by owner
+c4111fca5	Kittens for adoption by owner
+7bf18c1c9	Kittens for adoption by owner
+56c8c337f	Found and Friendly Rescue
+f74ed71c7	Kittens for adoption by owner
+7000a0cd3	Kittens for adoption by owner
+03692b443	Kittens for adoption by owner
+24b8b2364	Kittens for adoption by owner
+bcccc164a	Found and Friendly Rescue
+7e8dfdcb4	Kittens for adoption by owner
+782dbbb08	Female Mother and Puppies
+fef9bb912	Found and Healthy Mother and Kittens
+479b7da76	Found and Friendly Rescue
+72837a57b	No Valid Description
+21af74cbb	Found and Friendly Rescue
+71a09cc77	Found and Friendly Rescue
+f8d51c4ad	Found and Friendly Rescue
+609a9b08d	Found and Healthy Mother and Kittens
+188c4c6de	Found and Friendly Rescue
+844805c25	Female Mother and Puppies
+1f21d5699	Found and Friendly Rescue
+9333271ca	Female Mother and Puppies
+bdba33638	Lovely / Playful / Friendly
+948f4c314	Found and Friendly Rescue
+10359504f	Found and Friendly Rescue
+46934491f	Found and Friendly Rescue
+facb5e336	Found and Friendly Rescue
+9386dbc07	Female Mother and Puppies
+ca694bfd0	Lovely / Playful / Friendly
+ec1e7ec3e	Found and Friendly Rescue
+b3b653e1d	Found and Friendly Rescue
+048a377e7	Found and Friendly Rescue
+19513f745	Female Mother and Puppies
+9fa354d57	Found and Friendly Rescue
+e86fe4dc4	Found and Friendly Rescue
+f2fabb48a	Found and Friendly Rescue
+686045165	Found and Friendly Rescue
+d3c4c75d6	Found and Friendly Rescue
+d0393b239	Found and Friendly Rescue
+d80129637	Found and Friendly Rescue
+32a6aa751	Female Mother and Puppies
+c4d50addd	Female Mother and Puppies
+ed670fc0c	Female Mother and Puppies
+dd548bc9d	Found and Friendly Rescue
+3318e6d2a	Female Mother and Puppies
+6b223a649	Found and Friendly Rescue
+402afe862	Female Mother and Puppies
+0dc2998c3	Please provide commitment criteria
+ac3ca079e	Found and Friendly Rescue
+f16ca8787	Please provide commitment criteria
+fd0e3963b	Found and Friendly Rescue
+3914719b8	Please provide commitment criteria
+68b0a87d1	Please provide commitment criteria
+d6623c730	Please provide commitment criteria
+ab4e3334d	Please provide commitment criteria
+5f94a65d7	Please provide commitment criteria
+bff736dec	Please provide commitment criteria
+67ae46f0c	Please provide commitment criteria
+ae5dfea0c	Please provide commitment criteria
+4f605c05b	Please provide commitment criteria
+62b164a6c	Please provide commitment criteria
+592dd2ca3	Found and Healthy Mother and Kittens
+450ace55e	Found and Friendly Rescue
+b78ea4bc0	Female Mother and Puppies
+555c3e9ea	Found and Friendly Rescue
+c0f48f0d7	Please provide commitment criteria
+90bef110d	Please provide commitment criteria
+307cf438a	Please provide commitment criteria
+0e3a6023a	Please provide commitment criteria
+43850cfc2	Please provide commitment criteria
+66a6f2e85	Please provide commitment criteria
+53a8e277f	Please provide commitment criteria
+c9afc9a2b	Please provide commitment criteria
+c7a5c3e7c	Please provide commitment criteria
+38227ec2b	Please provide commitment criteria
+fd3f07bff	Please provide commitment criteria
+48a82737c	Please provide commitment criteria
+53f6d3a6a	Please provide commitment criteria
+95c9867f1	Please provide commitment criteria
+cd2cc0cba	Please provide commitment criteria
+774151723	Found and Friendly Rescue
+24e35e2a4	Please provide commitment criteria
+2d45ed13f	Found and Friendly Rescue
+aa82fda49	Please provide commitment criteria
+25ff67233	Please provide commitment criteria
+78a6e4205	Please provide commitment criteria
+f05e245f5	Please provide commitment criteria
+dd7cb86f4	Please provide commitment criteria
+75a918e47	Please provide commitment criteria
+97ee9e04d	Please provide commitment criteria
+23b8acc9f	Please provide commitment criteria
+771df9728	Found and Friendly Rescue
+12d5f2550	Please provide commitment criteria
+0079accbd	Found and Friendly Rescue
+596a80fe7	Please provide commitment criteria
+40895f625	Found and Friendly Rescue
+9546944df	Found and Friendly Rescue
+c67be69c6	Please provide commitment criteria
+8121fa2d4	Please provide commitment criteria
+fd9ca5f77	Please provide commitment criteria
+fcf9e8e9e	Please provide commitment criteria
+5b5ba69ae	Found and Friendly Rescue
+7b752456a	Please provide commitment criteria
+92745def0	Please provide commitment criteria
+468edb849	Please provide commitment criteria
+5730889aa	Please provide commitment criteria
+c8d90cc80	Found and Healthy Mother and Kittens
+1a8edf921	Found and Friendly Rescue
+4f304426a	Found and Friendly Rescue
+bf281b8fa	Found and Friendly Rescue
+b16dba965	Found and Friendly Rescue
+44628537b	Found and Friendly Rescue
+7374f319a	Found and Friendly Rescue
+071df417e	Found and Healthy Mother and Kittens
+d53ea316a	Found and Healthy Mother and Kittens
+bf891ac32	Found and Friendly Rescue
+b272f26c6	Found and Healthy Mother and Kittens
+daee1972e	Found and Friendly Rescue
+95bbc65f6	Found and Friendly Rescue
+7fb5023d8	Found and Friendly Rescue
+3b5f2f125	Lovely / Playful / Friendly
+0e872621f	Found and Healthy Mother and Kittens
+a3b171296	Found and Healthy Mother and Kittens
+752a1a18c	Found and Friendly Rescue
+3ab9ccf3f	Found and Friendly Rescue
+23da85fac	Found and Friendly Rescue
+b3dd99379	Found and Healthy Mother and Kittens
+f5d1813ff	Found and Healthy Mother and Kittens
+b8b7d06cb	Found and Healthy Mother and Kittens
+45a131ede	Found and Friendly Rescue
+1a04cda8c	Found and Healthy Mother and Kittens
+f52c95d2c	Found and Friendly Rescue
+984f34ed9	Found and Friendly Rescue
+657dd47b9	Found and Friendly Rescue
+0202e369d	Found and Friendly Rescue
+396043c96	Found and Friendly Rescue
+d6e9cf916	Found and Friendly Rescue
+f65775415	Found and Friendly Rescue
+5b62428c3	Found and Friendly Rescue
+db0b13cb7	Found and Friendly Rescue
+2d240f34e	Lovely / Playful / Friendly
+d55a67a7e	Found and Friendly Rescue
+687bfc259	Lovely / Playful / Friendly
+db9055b04	Lovely / Playful / Friendly
+8f6b00483	Found and Healthy Mother and Kittens
+7d876d3c3	Found and Friendly Rescue
+aef0a0aa7	Found and Friendly Rescue
+f4366cfe1	Lovely / Playful / Friendly
+03f7fb1fa	Found and Friendly Rescue
+090db750a	Found and Friendly Rescue
+ca2c67435	Found and Friendly Rescue
+615b85d67	Lovely / Playful / Friendly
+2ef79eed5	Found and Friendly Rescue
+21ff37b38	Found and Friendly Rescue
+3.66E+13	Found and Friendly Rescue
+89768b0bd	Found and Friendly Rescue
+a24f3eee2	Found and Friendly Rescue
+09880b33d	Found and Friendly Rescue
+ecd9d828a	Found and Friendly Rescue
+4cc279010	Found and Friendly Rescue
+9421f60d2	Female Mother and Puppies
+17061083d	Found and Healthy Mother and Kittens
+f0cfb4db0	Found and Healthy Mother and Kittens
+4b4526666	Female Mother and Puppies
+1c7c616d0	Found and Friendly Rescue
+2adae9684	Female Mother and Puppies
+a6b8c7aec	Found and Friendly Rescue
+3d79d76e8	Female Mother and Puppies
+ff346b081	Female Mother and Puppies
+e4841c6d1	Female Mother and Puppies
+50c107f65	Female Mother and Puppies
+d3f92b1f3	Female Mother and Puppies
+79d31978c	Female Mother and Puppies
+309bf264a	Female Mother and Puppies
+845e7bedd	Kittens for adoption by owner
+60d3c8540	Lovely / Playful / Friendly
+a8e125294	Female Mother and Puppies
+31ea2e325	Female Mother and Puppies
+af8fde324	Female Mother and Puppies
+78fee18df	Found and Friendly Rescue
+f93fb4c78	Female Mother and Puppies
+449b0cbdc	Female Mother and Puppies
+d916630e2	Female Mother and Puppies
+fb9e2816e	Found and Friendly Rescue
+82024fa6f	Found and Friendly Rescue
+7a6ec5f00	Found and Friendly Rescue
+c2dfd359d	Kittens for adoption by owner
+cad532968	Female Mother and Puppies
+9d27240d6	Found and Friendly Rescue
+6f8b49b5c	Female Mother and Puppies
+bdcfbb100	Kittens for adoption by owner
+c18d26fd0	Female Mother and Puppies
+363393ea1	Found and Friendly Rescue
+ca3b76f19	Found and Friendly Rescue
+546e1662f	Lovely / Playful / Friendly
+45fbdf598	Found and Healthy Mother and Kittens
+6ab539629	Please provide commitment criteria
+82005ff6d	Found and Friendly Rescue
+e9d55e2f5	Found and Friendly Rescue
+4fe602d3b	Found and Friendly Rescue
+a662b8475	Found and Friendly Rescue
+429ea92dc	Found and Friendly Rescue
+cfe2cc0bb	Found and Healthy Mother and Kittens
+1af68dacf	Found and Friendly Rescue
+9a7dd294a	Found and Friendly Rescue
+a9308bb98	Found and Friendly Rescue
+e14eb1464	Found and Friendly Rescue
+1ffb9ee22	Found and Friendly Rescue
+2339d5d2a	Found and Healthy Mother and Kittens
+29a233127	Found and Friendly Rescue
+02cd84980	Found and Friendly Rescue
+0bd1d8774	Found and Friendly Rescue
+095e18e76	Found and Friendly Rescue
+1a6533e29	Found and Friendly Rescue
+d44a3e48b	Found and Friendly Rescue
+a2a9bec28	Found and Healthy Mother and Kittens
+d7fd89f97	Found and Friendly Rescue
+943a36544	Kittens for adoption by owner
+5072ab216	Found and Friendly Rescue
+072a60555	Found and Friendly Rescue
+63d3e5796	Found and Friendly Rescue
+12c7f2757	Found and Friendly Rescue
+b2c048257	Found and Healthy Mother and Kittens
+86d014881	Found and Friendly Rescue
+a860f7899	Found and Friendly Rescue
+36db59fdd	Found and Friendly Rescue
+73aebc70d	Found and Healthy Mother and Kittens
+a696db2dd	Found and Friendly Rescue
+9a270dc0b	Found and Friendly Rescue
+d14f3ea81	Found and Healthy Mother and Kittens
+b6d205311	Kittens for adoption by owner
+c3d1edd4c	Found and Friendly Rescue
+c7419482c	Found and Friendly Rescue
+f7b52585f	Found and Friendly Rescue
+2dfda1590	Found and Friendly Rescue
+6684d0e8b	Found and Friendly Rescue
+51402e984	Kittens for adoption by owner
+a06b365f7	Found and Friendly Rescue
+9c24b555f	Found and Friendly Rescue
+47783af41	Found and Friendly Rescue
+f1b4f9645	Found and Friendly Rescue
+abaef4874	Found and Friendly Rescue
+c8c3d1078	Found and Friendly Rescue
+375b35593	Female Mother and Puppies
+d2b9485a2	Found and Friendly Rescue
+a26ed6e70	Found and Friendly Rescue
+ee2461c25	Found and Friendly Rescue
+b77a42c53	Found and Healthy Mother and Kittens
+01cee484d	Found and Friendly Rescue
+2f95a8889	Found and Friendly Rescue
+7e02aefc6	Found and Friendly Rescue
+5b95eda2e	Found and Friendly Rescue
+d9d1604b6	Found and Friendly Rescue
+6c4629a2b	Found and Friendly Rescue
+5564d4498	Found and Friendly Rescue
+e752e523a	Found and Friendly Rescue
+9d86a9330	Found and Healthy Mother and Kittens
+79b8302d3	Found and Friendly Rescue
+d49b06c5c	Found and Friendly Rescue
+c094d35b2	Lovely / Playful / Friendly
+a00eb571f	Found and Friendly Rescue
+ea5e28881	Female Mother and Puppies
+3210b7021	Found and Friendly Rescue
+c7581c38a	Lovely / Playful / Friendly
+6fc291dd4	Found and Friendly Rescue
+0c9994b53	Female Mother and Puppies
+7abedded1	Please provide commitment criteria
+c23e38580	Found and Friendly Rescue
+9f68dc94e	Found and Friendly Rescue
+39da7d21b	Found and Friendly Rescue
+303d1dd06	Found and Friendly Rescue
+37d28023a	Found and Friendly Rescue
+7297ad064	Please provide commitment criteria
+4888c9a95	Found and Friendly Rescue
+189c9e043	Found and Friendly Rescue
+0046c1710	Female Mother and Puppies
+9ce553cce	Found and Friendly Rescue
+3256116b4	Found and Friendly Rescue
+0df967bf0	Found and Friendly Rescue
+ee0cce52f	Found and Friendly Rescue
+d5418d677	Found and Friendly Rescue
+be482bad4	Found and Friendly Rescue
+cc30b7b6e	Found and Friendly Rescue
+e110cef05	Found and Friendly Rescue
+276502657	Please provide commitment criteria
+aaa37315a	Lovely / Playful / Friendly
+712627ad2	Found and Friendly Rescue
+c31e1903c	Found and Healthy Mother and Kittens
+e86107083	Found and Friendly Rescue
+4d9579477	Found and Healthy Mother and Kittens
+78f1f4f34	Found and Friendly Rescue
+1ea448905	Found and Healthy Mother and Kittens
+5b220f7e5	Found and Friendly Rescue
+f3014bfec	Found and Healthy Mother and Kittens
+0481867bc	Found and Healthy Mother and Kittens
+ea3303577	Found and Healthy Mother and Kittens
+144c648d0	Kittens for adoption by owner
+b175ced25	Kittens for adoption by owner
+6197b35d6	Found and Healthy Mother and Kittens
+28c072abd	Lovely / Playful / Friendly
+6a251fbc2	Found and Friendly Rescue
+fc910aaf4	Found and Friendly Rescue
+b215ad7f8	Found and Friendly Rescue
+27ac0cb65	Lovely / Playful / Friendly
+5230f1d6b	Found and Friendly Rescue
+6aaa1508c	Lovely / Playful / Friendly
+ecbd9d882	Found and Friendly Rescue
+90f7bf086	Lovely / Playful / Friendly
+9d74613ad	Found and Friendly Rescue
+cb1ba3eb0	Lovely / Playful / Friendly
+34ed1c879	Found and Friendly Rescue
+6f7493868	Found and Friendly Rescue
+47e0cdabc	Found and Healthy Mother and Kittens
+3d7e82fbf	Found and Healthy Mother and Kittens
+bd72a44c5	Found and Healthy Mother and Kittens
+0df18b80a	Found and Healthy Mother and Kittens
+63b5d00c4	Found and Healthy Mother and Kittens
+2f51cf46c	Found and Friendly Rescue
+3e0869354	Found and Healthy Mother and Kittens
+e10d5d816	Found and Healthy Mother and Kittens
+a7a61f4b4	Found and Healthy Mother and Kittens
+c7e8c55ad	Found and Healthy Mother and Kittens
+e6ceef9a9	Found and Friendly Rescue
+1be1f44d2	Found and Friendly Rescue
+98965a8ca	Found and Healthy Mother and Kittens
+f8cfa7a2a	Found and Friendly Rescue
+180521248	Found and Friendly Rescue
+926bc4e1d	Found and Friendly Rescue
+6fca92b5e	Found and Healthy Mother and Kittens
+ae621b654	Found and Healthy Mother and Kittens
+95a255e5d	Found and Friendly Rescue
+776fb2490	Kittens for adoption by owner
+61e70239c	Kittens for adoption by owner
+7aeef8c10	Kittens for adoption by owner
+84da6b4d7	Found and Friendly Rescue
+11ef08db7	Kittens for adoption by owner
+ca90e2c2a	Kittens for adoption by owner
+3ffea94eb	Found and Friendly Rescue
+684f27e95	Kittens for adoption by owner
+09bf3fb62	Kittens for adoption by owner
+1787f2f57	Kittens for adoption by owner
+7e9ba95b3	Kittens for adoption by owner
+7f4d42de3	Kittens for adoption by owner
+dce4f17c2	Kittens for adoption by owner
+ea3eab2e2	Kittens for adoption by owner
+f3ee98546	Kittens for adoption by owner
+8825893db	Found and Friendly Rescue
+922fd356a	Kittens for adoption by owner
+4c278a44b	Kittens for adoption by owner
+21978fa25	Kittens for adoption by owner
+962bcd128	Kittens for adoption by owner
+bcee5c144	Kittens for adoption by owner
+9d11a4a38	Kittens for adoption by owner
+4c81974c8	Kittens for adoption by owner
+df479283a	Kittens for adoption by owner
+c7817b7ee	Kittens for adoption by owner
+98a400117	Butterworth Penang Call Whats app
+0a9415917	Kittens for adoption by owner
+dee088bf0	Found and Friendly Rescue
+d7d2fdb1a	Kittens for adoption by owner
+4fa97b3af	Found and Friendly Rescue
+5329930cf	Lovely / Playful / Friendly
+5495304b4	Kittens for adoption by owner
+70c6bc5b1	Kittens for adoption by owner
+14dd58137	Found and Friendly Rescue
+09db2f20d	Kittens for adoption by owner
+0d98a0e83	Found and Friendly Rescue
+aaea4d10c	Found and Healthy Mother and Kittens
+4c83e77f6	Kittens for adoption by owner
+415f25b76	Found and Friendly Rescue
+1f8b516a9	Kittens for adoption by owner
+3a6b18020	Kittens for adoption by owner
+802f9642a	Kittens for adoption by owner
+46d473bf7	Kittens for adoption by owner
+ece479280	Kittens for adoption by owner
+d95fa2b34	Found and Friendly Rescue
+9bf5877a2	Kittens for adoption by owner
+848fa385c	Kittens for adoption by owner
+e53f94fb4	Kittens for adoption by owner
+6b96f8571	Kittens for adoption by owner
+340145963	Found and Friendly Rescue
+4f7a1f872	Kittens for adoption by owner
+131c729d0	Kittens for adoption by owner
+1e8e7e65c	Kittens for adoption by owner
+8f627a741	Found and Friendly Rescue
+238ed0a35	Kittens for adoption by owner
+63e065900	Found and Friendly Rescue
+13f9e00f3	Found and Friendly Rescue
+22a020959	Kittens for adoption by owner
+3447d9114	Kittens for adoption by owner
+8754a276f	Female Mother and Puppies
+b525245bd	Found and Friendly Rescue
+9f8fe1af1	Lovely / Playful / Friendly
+9fb2b4db5	Lovely / Playful / Friendly
+8bfbd7b69	Found and Friendly Rescue
+4144d4718	Lovely / Playful / Friendly
+63b94fef6	Found and Friendly Rescue
+4943a3a48	Found and Friendly Rescue
+4bb3f423f	Found and Friendly Rescue
+806ad8957	Found and Friendly Rescue
+3b068ba06	Found and Friendly Rescue
+d963353f6	Found and Friendly Rescue
+b6ea6380f	Found and Friendly Rescue
+d6b75044d	Found and Friendly Rescue
+250c5cfcd	Found and Friendly Rescue
+ed8da2273	Lovely / Playful / Friendly
+1ee9de109	Kittens for adoption by owner
+c5b9176e9	Found and Friendly Rescue
+c0f4bc286	Kittens for adoption by owner
+b12b6cf50	Found and Friendly Rescue
+eaf16f627	Kittens for adoption by owner
+af0e5e60a	Found and Friendly Rescue
+de17d709b	Found and Friendly Rescue
+7bd227a53	Lovely / Playful / Friendly
+46601fffb	Lovely / Playful / Friendly
+af4e4f8fb	Found and Friendly Rescue
+dab61f2cf	Found and Friendly Rescue
+ea779a645	Lovely / Playful / Friendly
+c793fffea	Lovely / Playful / Friendly
+5402bbe59	Kittens for adoption by owner
+d6caaebfd	Found and Friendly Rescue
+abda68a33	Kittens for adoption by owner
+00e0930c4	Found and Friendly Rescue
+29a5eb091	Found and Friendly Rescue
+fb08ee2f6	Found and Friendly Rescue
+3ea4848aa	Kittens for adoption by owner
+0fd70f983	Found and Friendly Rescue
+2e4f75534	Found and Friendly Rescue
+418a0ea41	Female Mother and Puppies
+cb6c83a0a	Found and Friendly Rescue
+7c1f57faa	Found and Friendly Rescue
+ed4e735b0	Found and Friendly Rescue
+0d7d7f712	Found and Friendly Rescue
+85234cd2e	Found and Friendly Rescue
+8d4dcfa93	Found and Friendly Rescue
+aa6497a09	Found and Friendly Rescue
+116315e5a	Found and Friendly Rescue
+48066d4cd	Found and Healthy Mother and Kittens
+7d5409bb5	Found and Friendly Rescue
+27fa40a05	Found and Friendly Rescue
+f19e5ce56	Found and Friendly Rescue
+30dbf42ee	Found and Friendly Rescue
+95258f027	Found and Healthy Mother and Kittens
+485b3052e	Kittens for adoption by owner
+bf64b3401	Found and Friendly Rescue
+0dfb116fb	Found and Friendly Rescue
+1d4075c43	Found and Friendly Rescue
+ceb9b4b16	Lovely / Playful / Friendly
+8fcc36325	Found and Friendly Rescue
+64882d1ec	Lovely / Playful / Friendly
+cd0c26c8f	Found and Friendly Rescue
+cf785cd89	Found and Friendly Rescue
+54ab8aa67	Found and Healthy Mother and Kittens
+7093a3a67	Found and Friendly Rescue
+7321efaf1	Found and Friendly Rescue
+2c9962e2a	Found and Healthy Mother and Kittens
+ea831dc57	Found and Friendly Rescue
+3f9a6fa48	Found and Friendly Rescue
+45ea36f32	Found and Friendly Rescue
+581fe109e	Found and Friendly Rescue
+d8f1c5205	Found and Friendly Rescue
+e87a000de	Found and Friendly Rescue
+f575cb059	Found and Friendly Rescue
+0314b168e	Found and Friendly Rescue
+4e5ad9284	Found and Healthy Mother and Kittens
+879a0fae1	Found and Friendly Rescue
+666509f94	Found and Friendly Rescue
+a27b73e51	No Valid Description
+cfb29728e	Found and Friendly Rescue
+b8505ba1a	Found and Friendly Rescue
+b6d3f91b2	Lovely / Playful / Friendly
+b0a2c5b80	Found and Friendly Rescue
+4436b7779	Found and Healthy Mother and Kittens
+3fe975c2f	Found and Friendly Rescue
+cda48e23d	Found and Friendly Rescue
+6695a0bac	Found and Friendly Rescue
+70d5b3be8	Found and Friendly Rescue
+b5ff4f756	Found and Healthy Mother and Kittens
+871aa5484	Found and Friendly Rescue
+0d9768943	Found and Friendly Rescue
+b1dd712fc	Found and Friendly Rescue
+ae049ae99	Found and Healthy Mother and Kittens
+e949c7371	Found and Friendly Rescue
+2.77E+62	Found and Healthy Mother and Kittens
+cfaf07198	Found and Friendly Rescue
+1bcd09e4b	Found and Healthy Mother and Kittens
+f5083f7fe	Found and Friendly Rescue
+57c9d6381	Found and Healthy Mother and Kittens
+a44a7232c	Found and Friendly Rescue
+48583780b	Found and Healthy Mother and Kittens
+aa4a66ef5	Found and Friendly Rescue
+2deabc510	Found and Friendly Rescue
+85178a0fb	Please provide commitment criteria
+3e9399e9c	Found and Healthy Mother and Kittens
+e5e56f69d	Found and Friendly Rescue
+37f78704d	Found and Friendly Rescue
+5e7474f56	Found and Friendly Rescue
+9ca48c9c4	Found and Healthy Mother and Kittens
+d9ec3d6d8	Found and Healthy Mother and Kittens
+9358905bd	Found and Friendly Rescue
+6648e6c41	Found and Friendly Rescue
+a99c5e3e7	Found and Healthy Mother and Kittens
+0c64cce50	Found and Healthy Mother and Kittens
+488dee151	Found and Friendly Rescue
+dcb662cb4	Found and Healthy Mother and Kittens
+86793b19f	Found and Friendly Rescue
+9c84ddcee	Found and Healthy Mother and Kittens
+5b013f9ed	No Valid Description
+8c4dfaf4f	Lovely / Playful / Friendly
+d35ec4641	Lovely / Playful / Friendly
+e615362f2	Lovely / Playful / Friendly
+c1f06c624	Lovely / Playful / Friendly
+0612ce99b	Found and Friendly Rescue
+0b7fab415	Found and Healthy Mother and Kittens
+2070bc7bd	Found and Friendly Rescue
+1a4ad3a67	Found and Friendly Rescue
+3b5f2c890	Found and Healthy Mother and Kittens
+73300df8f	Found and Healthy Mother and Kittens
+740afa71d	Found and Friendly Rescue
+be1f988f9	Found and Friendly Rescue
+5f9ce427d	Found and Healthy Mother and Kittens
+d50668735	Found and Friendly Rescue
+e6a1a2a94	Found and Friendly Rescue
+911342831	Found and Friendly Rescue
+0f1be59d9	Found and Friendly Rescue
+102cca700	Found and Healthy Mother and Kittens
+894aee840	Found and Friendly Rescue
+0e7b56e5b	Found and Friendly Rescue
+c63fbaaca	Found and Friendly Rescue
+a8c50f796	Lovely / Playful / Friendly
+9cfd0650e	Found and Friendly Rescue
+36fdbfbce	Found and Friendly Rescue
+faf6042f4	Kittens for adoption by owner
+40cd6dd65	Found and Friendly Rescue
+37a1dfb06	Kittens for adoption by owner
+db405b152	Kittens for adoption by owner
+b87039d0c	Found and Friendly Rescue
+e2380436e	Found and Friendly Rescue
+7f5fbcda0	Found and Friendly Rescue
+5b0f4aa5a	Found and Friendly Rescue
+5d531952a	Found and Friendly Rescue
+9734f7963	Found and Friendly Rescue
+0a8ee347f	Found and Friendly Rescue
+5f2057c11	Found and Friendly Rescue
+20cb29e4c	Found and Friendly Rescue
+9cd27ce00	Found and Friendly Rescue
+4e1148452	Found and Friendly Rescue
+ccf0155c5	Found and Healthy Mother and Kittens
+a0fdf4a65	Found and Friendly Rescue
+eb8f3ccae	Found and Friendly Rescue
+8ce330947	Found and Friendly Rescue
+f4ce91bef	Found and Friendly Rescue
+3c077a77d	Found and Friendly Rescue
+ff461932b	Found and Friendly Rescue
+85e77fc90	Found and Friendly Rescue
+32e78e555	Found and Friendly Rescue
+6d0075d4a	Female Mother and Puppies
+4698456ad	Found and Friendly Rescue
+6052e0e37	Found and Healthy Mother and Kittens
+dd27f8382	Found and Friendly Rescue
+b4bf00fd9	Found and Friendly Rescue
+e54c14bfa	Found and Friendly Rescue
+034427b35	Found and Friendly Rescue
+9399a7585	Found and Friendly Rescue
+c683e9060	Found and Friendly Rescue
+873ccfb30	Found and Friendly Rescue
+ff8479d08	Kittens for adoption by owner
+0e1128fd7	Found and Healthy Mother and Kittens
+a236d4f8c	Found and Friendly Rescue
+198962e4e	Found and Friendly Rescue
+b1c271aed	Found and Friendly Rescue
+80d09d5a6	Found and Healthy Mother and Kittens
+b559b1b6f	Found and Healthy Mother and Kittens
+49bc1fb69	Lovely / Playful / Friendly
+7305bf989	Found and Friendly Rescue
+0948c5d05	Found and Healthy Mother and Kittens
+fe70af98b	Found and Friendly Rescue
+94ef54d3f	Found and Friendly Rescue
+548dda704	Found and Healthy Mother and Kittens
+e085c584a	Kittens for adoption by owner
+0ceb5743a	Found and Friendly Rescue
+c2730a86f	Found and Friendly Rescue
+a27686ecc	Found and Friendly Rescue
+7cf2dc7fa	Found and Friendly Rescue
+635c67049	Found and Friendly Rescue
+d61550faf	Found and Friendly Rescue
+bea1e3a69	Found and Friendly Rescue
+e69d57d0e	Found and Friendly Rescue
+281760bbe	Found and Friendly Rescue
+999095d3b	Found and Friendly Rescue
+3bbb8a39c	Found and Friendly Rescue
+c97c83a49	Found and Friendly Rescue
+e184012d1	Kittens for adoption by owner
+0ea2272a3	Found and Friendly Rescue
+7931cfae9	Kittens for adoption by owner
+7abb52209	Found and Friendly Rescue
+b6da55f40	Found and Friendly Rescue
+59d09726d	Found and Friendly Rescue
+4990eaea8	Found and Friendly Rescue
+110c341f5	Found and Friendly Rescue
+8a732f9f7	Found and Friendly Rescue
+7344a9f88	Found and Friendly Rescue
+f3dd82f78	Found and Friendly Rescue
+fe71692a8	Found and Friendly Rescue
+63131551f	Found and Friendly Rescue
+cdc6a4661	Lovely / Playful / Friendly
+7ea3d5943	Found and Friendly Rescue
+fc0cfc43b	Found and Friendly Rescue
+3231b8f18	Found and Friendly Rescue
+6bcde41ce	Found and Friendly Rescue
+9d85a347f	Found and Friendly Rescue
+fb32cc6b3	Found and Healthy Mother and Kittens
+a31e1889c	Found and Friendly Rescue
+73fd3bd55	Found and Friendly Rescue
+addf306db	Found and Friendly Rescue
+c00244181	Found and Friendly Rescue
+96cd359eb	Found and Friendly Rescue
+aa28d64fb	Found and Friendly Rescue
+d6a2349a7	Found and Friendly Rescue
+cd1b5a754	Found and Healthy Mother and Kittens
+34e768a22	Found and Healthy Mother and Kittens
+4625c5b7a	Found and Friendly Rescue
+cab25bd07	Found and Friendly Rescue
+6d27ffaa0	Found and Friendly Rescue
+ed063f3e3	Please provide commitment criteria
+67debb1a8	Found and Friendly Rescue
+67c750dcc	Found and Friendly Rescue
+f787f9022	Found and Friendly Rescue
+30917fcdb	Found and Friendly Rescue
+9478f821c	Found and Friendly Rescue
+58db99941	Found and Friendly Rescue
+3c71e496e	Found and Friendly Rescue
+360935609	Found and Friendly Rescue
+38e72721a	Found and Friendly Rescue
+7f9b5dd23	Found and Friendly Rescue
+bdd762104	Found and Friendly Rescue
+7d7e82533	Found and Healthy Mother and Kittens
+70f2e32d5	Found and Friendly Rescue
+9159ad1d7	Found and Healthy Mother and Kittens
+702fcec8e	Found and Healthy Mother and Kittens
+b80a7ef91	Found and Friendly Rescue
+6ccbe85eb	Found and Friendly Rescue
+4797ff3b2	Found and Friendly Rescue
+324f1daa7	Found and Friendly Rescue
+36ec9c045	Found and Friendly Rescue
+1818c3d47	Please provide commitment criteria
+959f5fccc	Found and Friendly Rescue
+fbd990f27	Found and Friendly Rescue
+8fc438dae	Found and Healthy Mother and Kittens
+4389c53a8	Found and Friendly Rescue
+f0ac6037a	Female Mother and Puppies
+edfdafb9e	Female Mother and Puppies
+5a1472807	Female Mother and Puppies
+90a9be56d	Female Mother and Puppies
+b532f31ca	Female Mother and Puppies
+b529dbfb3	Female Mother and Puppies
+79c1a290f	Female Mother and Puppies
+6aad7bb32	Found and Healthy Mother and Kittens
+8ad2cff58	Found and Healthy Mother and Kittens
+ac8a06538	Found and Friendly Rescue
+b8bf93ab1	Female Mother and Puppies
+1312ac06e	Found and Friendly Rescue
+82a34c159	Female Mother and Puppies
+dbc64076d	Female Mother and Puppies
+57c53133e	Found and Friendly Rescue
+dc9e6c9cf	Found and Friendly Rescue
+58534e0c2	Found and Friendly Rescue
+b36e7586c	Found and Friendly Rescue
+a96220890	Found and Friendly Rescue
+1742c791e	Found and Friendly Rescue
+3abca6400	Female Mother and Puppies
+33ef951c2	Found and Friendly Rescue
+96b2b1be2	Found and Friendly Rescue
+ae5e09a05	Found and Friendly Rescue
+6b95d510a	Found and Friendly Rescue
+5af680876	Found and Friendly Rescue
+b24eff5ba	Found and Friendly Rescue
+7c93d708e	Female Mother and Puppies
+2261bb5bb	Found and Friendly Rescue
+4c706f3ed	Found and Friendly Rescue
+3ad251303	Found and Friendly Rescue
+458f00e08	Female Mother and Puppies
+535be46e4	Female Mother and Puppies
+11f5d0e1f	Found and Friendly Rescue
+08f7b1165	Lovely / Playful / Friendly
+f7cbf3cec	Found and Friendly Rescue
+593293367	Found and Friendly Rescue
+c1ffb1e18	Found and Friendly Rescue
+d1d3d1e6b	Found and Friendly Rescue
+f4fab46a7	Found and Friendly Rescue
+812b69698	Found and Friendly Rescue
+ed3aa3db4	Found and Friendly Rescue
+aa428552e	Found and Friendly Rescue
+a3aac449f	Found and Friendly Rescue
+da38b157d	Found and Friendly Rescue
+8bbc48530	Found and Friendly Rescue
+c621476ea	Found and Friendly Rescue
+75e47802c	Found and Friendly Rescue
+11c6383be	Found and Friendly Rescue
+e1f5e56ca	Female Mother and Puppies
+dd78fd4e5	Found and Friendly Rescue
+179a79e4d	Found and Friendly Rescue
+e62192eea	Found and Healthy Mother and Kittens
+91456c5a4	Found and Healthy Mother and Kittens
+6987f1f6c	Found and Friendly Rescue
+3ad2d5ac8	Found and Friendly Rescue
+14b7b8704	Please provide commitment criteria
+4e89d7e90	Lovely / Playful / Friendly
+93ce276e5	Found and Friendly Rescue
+c3d394164	Lovely / Playful / Friendly
+27f9bcb0e	Found and Friendly Rescue
+d260006da	Lovely / Playful / Friendly
+4fa0aebb0	Found and Friendly Rescue
+5c6b6c6ab	Kittens for adoption by owner
+22e3ea9f6	Found and Healthy Mother and Kittens
+c2a862ba1	Found and Friendly Rescue
+51231911c	Found and Healthy Mother and Kittens
+344e96b6c	Found and Friendly Rescue
+6cb05c2f4	Please provide commitment criteria
+0f546e207	Found and Healthy Mother and Kittens
+6452c6e29	Found and Healthy Mother and Kittens
+d0ef2bf5c	Found and Friendly Rescue
+92fd65d9f	Found and Friendly Rescue
+da4b54316	Found and Friendly Rescue
+95d9c0d0a	Found and Friendly Rescue
+d4b659ef6	Found and Friendly Rescue
+fad8a5923	Found and Healthy Mother and Kittens
+eb202445f	Found and Friendly Rescue
+5523bad2c	Female Mother and Puppies
+44b20d6b7	Found and Friendly Rescue
+831f7ee13	Found and Friendly Rescue
+691ab8f2c	Found and Friendly Rescue
+8680b9acc	No Valid Description
+fc95f7cfd	Found and Friendly Rescue
+56b31dfc8	Found and Friendly Rescue
+13b608198	Lovely / Playful / Friendly
+d4ef988f6	Found and Friendly Rescue
+97da53dfe	Found and Friendly Rescue
+598901beb	Found and Friendly Rescue
+0127736a6	Please provide commitment criteria
+c15d51573	Please provide commitment criteria
+91cc4107e	Found and Friendly Rescue
+f02a8bc4d	Please provide commitment criteria
+98882017a	Please provide commitment criteria
+3f3e0d53d	Please provide commitment criteria
+401c536c1	Found and Friendly Rescue
+a77e073a0	Found and Friendly Rescue
+b39849240	Please provide commitment criteria
+3209d52d1	Found and Friendly Rescue
+a0ec7cf40	Female Mother and Puppies
+8aff1201e	Found and Friendly Rescue
+a12a10d00	Found and Friendly Rescue
+668afb604	Found and Healthy Mother and Kittens
+a16c6b680	Female Mother and Puppies
+b9ff42d12	Found and Friendly Rescue
+a1ee4f201	Found and Friendly Rescue
+50f9e8f17	Found and Friendly Rescue
+f4c44b59d	Found and Friendly Rescue
+cefb15d2c	Found and Friendly Rescue
+907169c5b	Found and Friendly Rescue
+b8f4c3c95	Found and Friendly Rescue
+5707be9f3	Found and Friendly Rescue
+5865981a4	Found and Healthy Mother and Kittens
+cd5592936	Found and Healthy Mother and Kittens
+924d44c8a	Found and Friendly Rescue
+77345c2db	Please provide commitment criteria
+72b99e2ae	Found and Friendly Rescue
+c9ce77a95	Please provide commitment criteria
+9d4b9930a	Please provide commitment criteria
+f21da20fc	Please provide commitment criteria
+28137846b	Please provide commitment criteria
+0cb3cbf77	Please provide commitment criteria
+f23f2db4b	Found and Friendly Rescue
+bcc4aa3d9	Please provide commitment criteria
+4491de321	Found and Friendly Rescue
+ea7598339	Found and Friendly Rescue
+ad801a8ce	Female Mother and Puppies
+d5988d870	Found and Friendly Rescue
+a5d86ea68	Found and Friendly Rescue
+2e3449b33	Found and Friendly Rescue
+f5d06788a	Found and Friendly Rescue
+720eff32a	Found and Friendly Rescue
+4af176d8e	Found and Friendly Rescue
+2a17e8f4f	Female Mother and Puppies
+3b3a99a18	Found and Friendly Rescue
+80c3d1f9f	Found and Healthy Mother and Kittens
+3b5a83169	Found and Healthy Mother and Kittens
+02b0f3446	Found and Friendly Rescue
+fa9d9b93c	Found and Healthy Mother and Kittens
+692d73b55	Female Mother and Puppies
+3319d440f	Found and Friendly Rescue
+ba748f786	Found and Friendly Rescue
+029bdf8bd	Found and Friendly Rescue
+77e601459	Found and Friendly Rescue
+12ec862f5	Found and Friendly Rescue
+49e81cf20	Found and Friendly Rescue
+551aca569	Found and Friendly Rescue
+8377e3305	Lovely / Playful / Friendly
+b259fdd5a	Lovely / Playful / Friendly
+e831231c9	Found and Friendly Rescue
+0645448d3	Found and Friendly Rescue
+ce09f2bb1	Found and Friendly Rescue
+584d32416	Found and Friendly Rescue
+a7fd44d7d	Found and Friendly Rescue
+d65a7de49	No Valid Description
+7a095d876	Found and Friendly Rescue
+865e24ae0	Found and Friendly Rescue
+a29f49d6c	Found and Friendly Rescue
+199da5b6a	Kittens for adoption by owner
+e33d26ad6	Found and Friendly Rescue
+f2bab5d80	No Valid Description
+2104caaf9	No Valid Description
+de45fe798	Found and Friendly Rescue
+e5e2873f1	Found and Friendly Rescue
+f18291f39	Found and Friendly Rescue
+646e56f49	Found and Friendly Rescue
+666bd3fab	Kittens for adoption by owner
+47eb6ee01	Found and Friendly Rescue
+8976b7cf4	Found and Friendly Rescue
+6dcde77ea	Kittens for adoption by owner
+5e3e532b5	Found and Friendly Rescue
+a98931539	Found and Friendly Rescue
+1ffbf011b	No Valid Description
+c562855bc	Found and Friendly Rescue
+a84af6ee2	Female Mother and Puppies
+6899a9e01	Found and Friendly Rescue
+7776e2d5a	Found and Friendly Rescue
+2452e35cf	Found and Friendly Rescue
+f8bea5412	Female Mother and Puppies
+2ddb52b59	Found and Friendly Rescue
+2b0a1a92f	Lovely / Playful / Friendly
+b062268cf	Lovely / Playful / Friendly
+e9f1cb6fc	Lovely / Playful / Friendly
+84b75d037	Lovely / Playful / Friendly
+890f524ea	Lovely / Playful / Friendly
+abd7a3644	Found and Friendly Rescue
+b7bb469a6	Found and Friendly Rescue
+c73207e60	Found and Healthy Mother and Kittens
+cf7f7519d	Found and Healthy Mother and Kittens
+3491ab0f8	Found and Healthy Mother and Kittens
+418e6c96e	Found and Friendly Rescue
+2aace4809	Found and Friendly Rescue
+966a52844	Lovely / Playful / Friendly
+d476fb3d2	Found and Healthy Mother and Kittens
+bf0f66c76	Lovely / Playful / Friendly
+fc85482f3	Lovely / Playful / Friendly
+c67ceb1a0	Found and Friendly Rescue
+cdb61e4a0	Found and Healthy Mother and Kittens
+9b8d83072	Found and Friendly Rescue
+887f6ea41	Found and Friendly Rescue
+5367dff7f	Found and Friendly Rescue
+fa58c9482	Found and Friendly Rescue
+17b6af953	Found and Friendly Rescue
+d656d0310	Found and Friendly Rescue
+a377f17dd	Found and Friendly Rescue
+249937485	Lovely / Playful / Friendly
+a069b68f4	Found and Friendly Rescue
+5ae2c6586	Found and Friendly Rescue
+520d525ff	Found and Friendly Rescue
+3a15914ff	Found and Friendly Rescue
+efabc5b4b	Found and Friendly Rescue
+e99b5652d	Found and Friendly Rescue
+04bde3a71	Female Mother and Puppies
+88305c625	No Valid Description
+53e099571	Found and Friendly Rescue
+f257f7b7c	Found and Friendly Rescue
+cdbe39dfe	Found and Friendly Rescue
+9e561264d	Found and Friendly Rescue
+67aff78fa	Found and Healthy Mother and Kittens
+33d6da4b6	Female Mother and Puppies
+6f40a3c89	Found and Friendly Rescue
+fc3c2dd1e	Found and Friendly Rescue
+c1edd8a2f	Kittens for adoption by owner
+e19863a14	No Valid Description
+492e3ceb1	Female Mother and Puppies
+9374ff179	Found and Friendly Rescue
+fc8b748d4	Found and Friendly Rescue
+939acc4e1	Found and Healthy Mother and Kittens
+021a9de0e	Female Mother and Puppies
+94f6ffdc5	Female Mother and Puppies
+07b908a27	Found and Healthy Mother and Kittens
+eca91551a	Found and Friendly Rescue
+43345b4d1	Found and Friendly Rescue
+e4e95454d	Found and Friendly Rescue
+f4d2ef282	Found and Friendly Rescue
+4e83295b8	Found and Friendly Rescue
+38c6148a3	Found and Friendly Rescue
+75b33cd1d	Lovely / Playful / Friendly
+acd2a8c15	Lovely / Playful / Friendly
+27f1ab010	Found and Healthy Mother and Kittens
+61d424371	Found and Friendly Rescue
+28d8df59e	Found and Healthy Mother and Kittens
+9a22a83e2	Lovely / Playful / Friendly
+08e23c102	Found and Healthy Mother and Kittens
+623300e2f	Lovely / Playful / Friendly
+5859b26d9	Lovely / Playful / Friendly
+c3e040ffe	Found and Friendly Rescue
+e93b2f0c5	Found and Friendly Rescue
+c48a522b3	Found and Healthy Mother and Kittens
+f68a1df39	Lovely / Playful / Friendly
+8ba686c7e	Lovely / Playful / Friendly
+f01c3bb35	Found and Friendly Rescue
+ea929133b	Found and Healthy Mother and Kittens
+c46cf28bb	Found and Friendly Rescue
+4209fa995	Found and Healthy Mother and Kittens
+7853f1e92	Found and Friendly Rescue
+2a91e876f	Female Mother and Puppies
+d10df409c	Found and Friendly Rescue
+ced9a6c48	Found and Healthy Mother and Kittens
+cc00ec8af	Found and Healthy Mother and Kittens
+b93342403	Female Mother and Puppies
+d36ee84f7	Female Mother and Puppies
+9524f76a9	Found and Friendly Rescue
+b071e777a	Found and Friendly Rescue
+c5d0607cb	Found and Friendly Rescue
+6818b2d64	Kittens for adoption by owner
+3b0903573	Found and Healthy Mother and Kittens
+6f88e50dd	Found and Friendly Rescue
+58bc50f1f	Female Mother and Puppies
+da5d53c00	Female Mother and Puppies
+ff6a36405	Female Mother and Puppies
+4030bbd83	Kittens for adoption by owner
+472085bac	Found and Friendly Rescue
+92ca39ce0	Found and Friendly Rescue
+7fcd35630	Found and Friendly Rescue
+709624933	Found and Friendly Rescue
+d97764d17	Found and Friendly Rescue
+1eea05736	Female Mother and Puppies
+1710b366c	Found and Friendly Rescue
+c59084b7c	Found and Friendly Rescue
+f5dbd310e	Female Mother and Puppies
+f939792e8	Found and Friendly Rescue
+9d89b799b	Found and Friendly Rescue
+1d02ad034	Found and Friendly Rescue
+226380287	Found and Friendly Rescue
+8a59526f6	Found and Friendly Rescue
+249509f8a	Lovely / Playful / Friendly
+3a673e7d7	Found and Friendly Rescue
+db6e76992	Found and Friendly Rescue
+e0289dee8	Kittens for adoption by owner
+f5a8a54ce	Found and Friendly Rescue
+648bd1c3d	Found and Friendly Rescue
+e79df36a6	Found and Friendly Rescue
+fcf7d8381	Found and Friendly Rescue
+e1ce677f9	Found and Friendly Rescue
+0cdef531a	Found and Healthy Mother and Kittens
+381a60376	Found and Friendly Rescue
+3d01f71e3	Found and Friendly Rescue
+4839a3341	Found and Friendly Rescue
+4dfef2414	Found and Friendly Rescue
+61cbbdd94	Found and Friendly Rescue
+f31b80761	Found and Friendly Rescue
+2d3dc1e5f	Found and Friendly Rescue
+ce5ac7852	Found and Healthy Mother and Kittens
+77bbda99a	Found and Healthy Mother and Kittens
+5e6b02a87	Found and Healthy Mother and Kittens
+0b1b7aa36	Found and Friendly Rescue
+4de594c69	Found and Friendly Rescue
+38c3d8dfd	Found and Friendly Rescue
+7de87b236	Found and Friendly Rescue
+21b9aab99	Found and Friendly Rescue
+be7a29ccd	Found and Friendly Rescue
+4985e9abe	Found and Friendly Rescue
+fb7bf0ca0	Found and Healthy Mother and Kittens
+09d59aee2	Kittens for adoption by owner
+4bb026f02	Found and Healthy Mother and Kittens
+efbf3fdeb	Female Mother and Puppies
+a818819d5	Kittens for adoption by owner
+65fc88ea0	Kittens for adoption by owner
+42ec28f72	Female Mother and Puppies
+07c6aefa5	Found and Friendly Rescue
+449cc4db2	Found and Healthy Mother and Kittens
+5664dd8ba	No Valid Description
+0a3470446	No Valid Description
+0cab5ddae	No Valid Description
+ed4913e0c	No Valid Description
+40b697009	No Valid Description
+e19165754	No Valid Description
+56045ba61	No Valid Description
+fcb54a318	Found and Friendly Rescue
+9f36f0f04	Found and Friendly Rescue
+777d0efca	Found and Friendly Rescue
+ae708432d	Kittens for adoption by owner
+365206401	Found and Friendly Rescue
+491c028ed	Found and Friendly Rescue
+dada7fb95	Found and Friendly Rescue
+3fd878e1e	Found and Friendly Rescue
+219c41ecd	Found and Friendly Rescue
+4832858f6	Found and Friendly Rescue
+24e0c1639	Found and Friendly Rescue
+27959c6c3	Found and Friendly Rescue
+e8307f240	Found and Friendly Rescue
+8805a8cdd	Found and Friendly Rescue
+e9dc7be0a	Found and Friendly Rescue
+9c140b105	Found and Friendly Rescue
+9801f4683	Found and Friendly Rescue
+62b8e9b2f	Found and Friendly Rescue
+01875b8d3	Found and Friendly Rescue
+9cb0fb630	Found and Friendly Rescue
+8d676b37d	Found and Friendly Rescue
+bc9558ff2	Found and Friendly Rescue
+b6bb74e90	Found and Friendly Rescue
+13344823a	Female Mother and Puppies
+2285258d2	Female Mother and Puppies
+d765b180a	Found and Friendly Rescue
+35a056eee	Found and Friendly Rescue
+65cd649d0	Lovely / Playful / Friendly
+5ac03395e	Found and Friendly Rescue
+88af72d1d	Found and Friendly Rescue
+f78fbca66	Found and Friendly Rescue
+1c094491f	Found and Friendly Rescue
+e02a95978	Lovely / Playful / Friendly
+b4be456cd	Found and Friendly Rescue
+57782e75f	Found and Friendly Rescue
+6211d8c3e	Found and Friendly Rescue
+d24706633	Found and Friendly Rescue
+a5ae6d01f	Lovely / Playful / Friendly
+a3fec2010	Found and Friendly Rescue
+4e69d6c1d	Female Mother and Puppies
+81fbbb6c1	Found and Friendly Rescue
+4fa1c4bb3	Found and Friendly Rescue
+19697ef26	Found and Friendly Rescue
+0225d2093	Found and Friendly Rescue
+f17310c7a	Found and Friendly Rescue
+46213a698	Kittens for adoption by owner
+501f25ca4	Found and Healthy Mother and Kittens
+a2c13fe47	Found and Friendly Rescue
+0e0017da1	Kittens for adoption by owner
+5083eb734	Lovely / Playful / Friendly
+3f570eddd	No Valid Description
+79b187ddd	Found and Friendly Rescue
+d62daa8aa	Found and Healthy Mother and Kittens
+1eff820fd	Found and Friendly Rescue
+74c030e17	Found and Friendly Rescue
+d79150217	Found and Friendly Rescue
+3ea5eb51e	Lovely / Playful / Friendly
+e5a74faf8	Found and Friendly Rescue
+173f58d6d	Please provide commitment criteria
+1bb5c925f	Found and Friendly Rescue
+a1e98773a	Found and Friendly Rescue
+df62c69f8	Found and Friendly Rescue
+a73b445eb	No Valid Description
+cd733bf3e	Found and Friendly Rescue
+f5757f749	Found and Friendly Rescue
+e8c3af611	Lovely / Playful / Friendly
+5f02c5d6a	Found and Friendly Rescue
+a04c20b92	Found and Healthy Mother and Kittens
+053553ce4	Found and Friendly Rescue
+079e8e5f9	Found and Friendly Rescue
+543d9876c	Found and Friendly Rescue
+f2ec4f702	Female Mother and Puppies
+89d0b4fb6	Found and Friendly Rescue
+3ec60effa	Lovely / Playful / Friendly
+f6558ec0c	Found and Friendly Rescue
+564de5216	Found and Friendly Rescue
+f1145e2cf	Female Mother and Puppies
+14f5b8bc9	Found and Friendly Rescue
+d6cdc667d	Found and Friendly Rescue
+f409d6a5e	Lovely / Playful / Friendly
+e755eac8d	Found and Friendly Rescue
+155a65f45	Female Mother and Puppies
+ec40f5094	Found and Friendly Rescue
+e95209758	Found and Friendly Rescue
+d81227440	Found and Friendly Rescue
+8127fc86a	Found and Friendly Rescue
+1035e7647	Found and Healthy Mother and Kittens
+d1d41875b	Found and Friendly Rescue
+c582aebc9	Found and Friendly Rescue
+94f77f167	Found and Friendly Rescue
+ad8988d66	Found and Healthy Mother and Kittens
+cf92c9e53	Found and Friendly Rescue
+06002068a	Found and Healthy Mother and Kittens
+a59595a9c	Found and Friendly Rescue
+3b1338c6a	Found and Healthy Mother and Kittens
+8652963	Found and Friendly Rescue
+ba782d334	Found and Friendly Rescue
+f04a92a4a	Lovely / Playful / Friendly
+2d7641a19	Found and Friendly Rescue
+5484f83ae	Found and Friendly Rescue
+87fe1190e	Found and Friendly Rescue
+c34aee1b5	Found and Friendly Rescue
+0cbeef62d	Please provide commitment criteria
+d2ef6b0ce	Please provide commitment criteria
+8ee0ff988	Please provide commitment criteria
+1d32fdfed	Found and Friendly Rescue
+83c1393f0	Found and Friendly Rescue
+9ff3e17f4	Found and Friendly Rescue
+2bd19ee29	Found and Friendly Rescue
+7dc269289	Found and Healthy Mother and Kittens
+269c5b546	Please provide commitment criteria
+8782635cb	Found and Friendly Rescue
+bc02cb144	Found and Friendly Rescue
+18cacd57e	Lovely / Playful / Friendly
+d9178e623	Found and Friendly Rescue
+de2bc6e36	Female Mother and Puppies
+04bf94e58	Female Mother and Puppies
+c4e6813a0	Lovely / Playful / Friendly
+e620584f0	Found and Friendly Rescue
+6d3d182a0	Found and Friendly Rescue
+81d8fd9e5	Found and Friendly Rescue
+6c8c56c67	Found and Friendly Rescue
+5d1837cd4	Found and Friendly Rescue
+b2fa9e76b	Found and Friendly Rescue
+b8a186468	Found and Friendly Rescue
+97d1d73b3	Found and Friendly Rescue
+5720aeff2	Lovely / Playful / Friendly
+6b7d0706d	Found and Healthy Mother and Kittens
+619796969	Found and Friendly Rescue
+03154323c	Found and Friendly Rescue
+150a5414c	Found and Friendly Rescue
+8424fd925	Found and Healthy Mother and Kittens
+da7325042	Found and Healthy Mother and Kittens
+2def730d7	Found and Healthy Mother and Kittens
+ef33e9e92	Found and Friendly Rescue
+be0459ccd	Found and Friendly Rescue
+8dc7050a9	Found and Friendly Rescue
+8765b34f0	Found and Friendly Rescue
+0d08cbd65	Found and Friendly Rescue
+09bcbcc17	Found and Friendly Rescue
+1956274ea	Found and Friendly Rescue
+c8d83fb64	Found and Friendly Rescue
+e1a495eab	Found and Friendly Rescue
+c82b3dab0	Found and Healthy Mother and Kittens
+16798ef33	Female Mother and Puppies
+0f7cc9fd2	Found and Friendly Rescue
+0f9b5ff24	Female Mother and Puppies
+5e1e9c882	Female Mother and Puppies
+f08aa7ed0	Found and Friendly Rescue
+501e6fe63	Found and Friendly Rescue
+492eadc03	Female Mother and Puppies
+9363d667b	Found and Friendly Rescue
+e25d4b735	Found and Healthy Mother and Kittens
+c25ee1d60	Found and Friendly Rescue
+6a0735a13	Found and Friendly Rescue
+403526eb2	Found and Friendly Rescue
+803d6cf84	Found and Friendly Rescue
+61fdfed5d	Found and Friendly Rescue
+7cf00baee	Found and Friendly Rescue
+f23747800	Female Mother and Puppies
+17d68cef8	Female Mother and Puppies
+d1df0dad6	Found and Friendly Rescue
+7fd12d3f2	Found and Healthy Mother and Kittens
+6f9a671b4	Found and Friendly Rescue
+e323527e0	Found and Friendly Rescue
+0ce86c383	Kittens for adoption by owner
+d099b1398	Female Mother and Puppies
+5d3bb458a	Found and Friendly Rescue
+dbfefb3b3	Female Mother and Puppies
+97fe38408	Found and Friendly Rescue
+b67e41f4e	Female Mother and Puppies
+6b21752ff	Female Mother and Puppies
+6180f6ea5	Female Mother and Puppies
+a6c057095	Found and Friendly Rescue
+4606d080b	Female Mother and Puppies
+c5ae58b37	Found and Friendly Rescue
+64b9f1fda	Female Mother and Puppies
+0dcc28c74	Found and Friendly Rescue
+e2bf9f9d5	Female Mother and Puppies
+6007379d5	Lovely / Playful / Friendly
+392549cdb	Found and Friendly Rescue
+c196499ea	Lovely / Playful / Friendly
+bb23a06ee	Lovely / Playful / Friendly
+75de594dd	Female Mother and Puppies
+e88e25bc4	Found and Healthy Mother and Kittens
+a37639b9c	Lovely / Playful / Friendly
+adc1072a0	Found and Friendly Rescue
+ad69768f2	Female Mother and Puppies
+31b2ab140	Female Mother and Puppies
+be78caa07	Found and Friendly Rescue
+e58935876	Found and Friendly Rescue
+f2847575d	Found and Healthy Mother and Kittens
+f06c3f277	Found and Healthy Mother and Kittens
+ed9df93fb	Found and Healthy Mother and Kittens
+cf5e1dc3d	Found and Friendly Rescue
+0bdba53ae	Lovely / Playful / Friendly
+d8ce2e155	Found and Friendly Rescue
+02b507e40	Found and Friendly Rescue
+ad0caccc5	Found and Healthy Mother and Kittens
+7d43db30b	Found and Friendly Rescue
+d0a129570	Found and Healthy Mother and Kittens
+604aa6cb8	Found and Friendly Rescue
+d72c7293d	Female Mother and Puppies
+d6c907902	Female Mother and Puppies
+c081d3629	Female Mother and Puppies
+d2d8c78da	Found and Friendly Rescue
+617d58794	Found and Friendly Rescue
+264ad33c1	Female Mother and Puppies
+eb15fcf7b	Found and Friendly Rescue
+f40eb5fc7	Found and Friendly Rescue
+4fff73fbc	Found and Friendly Rescue
+53ebc9425	Found and Friendly Rescue
+26aa5370d	Found and Friendly Rescue
+91d0fe78c	Found and Friendly Rescue
+a317c7e9b	Found and Friendly Rescue
+262be4911	Found and Healthy Mother and Kittens
+51cacc4b8	Female Mother and Puppies
+96b4e9b27	Female Mother and Puppies
+26bf3371e	Found and Friendly Rescue
+2fb04c8d1	Found and Friendly Rescue
+8777d5920	Found and Friendly Rescue
+a503f69fb	Found and Friendly Rescue
+391c07663	Found and Friendly Rescue
+55b816700	Found and Friendly Rescue
+90161ee44	Found and Friendly Rescue
+2f3988b4e	Female Mother and Puppies
+11e4b614f	Lovely / Playful / Friendly
+c312136a2	Found and Friendly Rescue
+e84dfb7e3	Found and Friendly Rescue
+8a81178e7	Kittens for adoption by owner
+1a44d4bd3	Kittens for adoption by owner
+7a9e25e6d	Kittens for adoption by owner
+c503574aa	Found and Healthy Mother and Kittens
+ac3f4aec5	Found and Friendly Rescue
+747bc9980	Found and Friendly Rescue
+6be275cb4	Found and Friendly Rescue
+d101f387b	Found and Friendly Rescue
+c2acce386	Found and Friendly Rescue
+265349cc8	Found and Friendly Rescue
+f61d4e0ce	Found and Friendly Rescue
+be3541c2b	Found and Friendly Rescue
+780c51dfb	Found and Friendly Rescue
+492d4d9d1	Found and Friendly Rescue
+0d5b06046	Found and Friendly Rescue
+a0b61a03d	Found and Friendly Rescue
+a3276b6b0	Found and Friendly Rescue
+656459c70	Found and Friendly Rescue
+5000e7fbf	Found and Friendly Rescue
+544ec9871	Found and Friendly Rescue
+0b44f7b2d	Found and Friendly Rescue
+6d274a559	Female Mother and Puppies
+794b6afa7	Female Mother and Puppies
+13921978d	Female Mother and Puppies
+3a28466a7	Lovely / Playful / Friendly
+620cca3f1	Lovely / Playful / Friendly
+eefa6bc4b	Female Mother and Puppies
+49f8c1385	Found and Friendly Rescue
+e38d6e4f5	Found and Friendly Rescue
+9722dfe17	Female Mother and Puppies
+6f5c2fe62	Found and Friendly Rescue
+835330218	Found and Friendly Rescue
+d860e093a	Lovely / Playful / Friendly
+5f5e29352	Found and Healthy Mother and Kittens
+83e0eec2c	Found and Friendly Rescue
+dbe03d1b1	Found and Friendly Rescue
+4a3e2c329	Found and Friendly Rescue
+c4130437e	Found and Friendly Rescue
+c27a59f51	Found and Healthy Mother and Kittens
+21c450753	Lovely / Playful / Friendly
+ebc4b3548	Lovely / Playful / Friendly
+750acb170	Female Mother and Puppies
+9ba164213	Lovely / Playful / Friendly
+6a06314ec	Found and Healthy Mother and Kittens
+a794e3245	Found and Friendly Rescue
+ade2c8e9b	Lovely / Playful / Friendly
+895564503	Found and Friendly Rescue
+3e2f3ee14	Found and Friendly Rescue
+7db59afc0	Found and Healthy Mother and Kittens
+af903aff1	Found and Healthy Mother and Kittens
+6ebd84e06	Found and Friendly Rescue
+65277b6d7	Found and Healthy Mother and Kittens
+be561a907	Found and Healthy Mother and Kittens
+2cebcd19e	Found and Friendly Rescue
+68e9b12ba	Found and Healthy Mother and Kittens
+738f6cf50	Found and Friendly Rescue
+432d3c29e	Found and Friendly Rescue
+82980ef15	Found and Friendly Rescue
+1b848cdf5	Kittens for adoption by owner
+f0d308e46	Female Mother and Puppies
+2cd5096a6	Found and Friendly Rescue
+4c1e81d8d	Found and Friendly Rescue
+395c4755a	Found and Friendly Rescue
+81ac0fb65	Female Mother and Puppies
+e1f809f71	Found and Friendly Rescue
+be046e917	Found and Friendly Rescue
+e5c51e06f	Found and Healthy Mother and Kittens
+890331874	Found and Friendly Rescue
+a0f2f3a98	Found and Friendly Rescue
+2525ffd0e	Found and Friendly Rescue
+d9a7bd1ba	Found and Friendly Rescue
+b712513e5	Found and Friendly Rescue
+9ddc11ca4	Found and Friendly Rescue
+3345f233a	Found and Friendly Rescue
+34991b47d	Found and Friendly Rescue
+50dd87537	Found and Friendly Rescue
+eb137420e	Found and Friendly Rescue
+df819f3ee	Found and Friendly Rescue
+32452548d	Found and Friendly Rescue
+1be31efce	Female Mother and Puppies
+b5011ed9a	Found and Friendly Rescue
+97feb67a8	Found and Friendly Rescue
+8cf4c5c06	Female Mother and Puppies
+3182e9bce	Found and Friendly Rescue
+cfaf7de5e	Found and Friendly Rescue
+89b4c43c5	Found and Friendly Rescue
+ee44ef33e	Found and Friendly Rescue
+819235a42	Found and Friendly Rescue
+c4c19d43c	Found and Healthy Mother and Kittens
+3b9687893	Found and Friendly Rescue
+d7e104a48	Found and Friendly Rescue
+ccd591803	Found and Friendly Rescue
+f2a308ca0	Found and Healthy Mother and Kittens
+377525d70	Found and Friendly Rescue
+1e576f92e	Lovely / Playful / Friendly
+696594a39	Female Mother and Puppies
+ba0ba7f44	Female Mother and Puppies
+1dd9721f2	Female Mother and Puppies
+666106b61	Please provide commitment criteria
+1d8495b98	Female Mother and Puppies
+2cbaca583	Female Mother and Puppies
+27f70f392	Female Mother and Puppies
+90680906b	Found and Friendly Rescue
+94597d934	Found and Friendly Rescue
+24c6b615e	Found and Friendly Rescue
+4688625ef	Found and Friendly Rescue
+d77ac5f93	Found and Friendly Rescue
+063fa26e1	Found and Friendly Rescue
+07dbb240c	Found and Friendly Rescue
+3c2ce0ba9	Found and Friendly Rescue
+1d1110e0f	Found and Friendly Rescue
+9036318aa	Found and Friendly Rescue
+9d410d32b	Found and Friendly Rescue
+4404e872a	Found and Friendly Rescue
+84dfe2c15	Found and Healthy Mother and Kittens
+924619a26	Kittens for adoption by owner
+84e1db7dc	Found and Friendly Rescue
+d82750586	Found and Friendly Rescue
+55ec0af11	Found and Friendly Rescue
+2c21622cd	Female Mother and Puppies
+c1557abd9	Female Mother and Puppies
+7eaa87d85	Female Mother and Puppies
+edcd62673	Female Mother and Puppies
+af04c6a53	Female Mother and Puppies
+13d7443f3	Found and Friendly Rescue
+b97e71736	No Valid Description
+cc16c57b1	Lovely / Playful / Friendly
+cfe0aa64d	Found and Friendly Rescue
+e00b300ac	Found and Friendly Rescue
+1da2421c1	Found and Friendly Rescue
+468df34cf	Kittens for adoption by owner
+cd1449614	Found and Friendly Rescue
+215444947	Found and Friendly Rescue
+bec90a323	Found and Friendly Rescue
+163dc4d89	Found and Friendly Rescue
+3d1c9a9de	Found and Friendly Rescue
+4bf987dd7	Found and Friendly Rescue
+5a30e83b6	Found and Friendly Rescue
+a1c4bafbc	Found and Friendly Rescue
+9dcd790ba	Found and Friendly Rescue
+e16ded132	Found and Friendly Rescue
+64da5bdfb	Lovely / Playful / Friendly
+728a8abbe	Found and Friendly Rescue
+d33a513b9	Found and Friendly Rescue
+d6cf66f88	Found and Healthy Mother and Kittens
+909ec4551	Found and Friendly Rescue
+6c36797ec	Found and Friendly Rescue
+f4066f08f	No Valid Description
+c489b585f	No Valid Description
+dde64fc3c	No Valid Description
+716b775c5	Found and Friendly Rescue
+8fb635a06	Found and Friendly Rescue
+cdf9f66bb	Found and Friendly Rescue
+ef4c0b081	Found and Friendly Rescue
+bb183e8ff	Found and Friendly Rescue
+6f517ca5c	Lovely / Playful / Friendly
+1a5b2e7f5	Female Mother and Puppies
+5965402ba	Found and Friendly Rescue
+f8ee69cf8	Found and Friendly Rescue
+beebe07cc	Found and Friendly Rescue
+85df22b65	Found and Friendly Rescue
+b141470ba	Found and Friendly Rescue
+b9ee7bf8d	Found and Friendly Rescue
+a3bc7e59f	Lovely / Playful / Friendly
+8738e190f	Found and Friendly Rescue
+f90a6d4c4	Found and Friendly Rescue
+a5dc0bbbc	Found and Friendly Rescue
+b74bd3020	Found and Friendly Rescue
+e031dc611	Found and Friendly Rescue
+d0c8d7387	Found and Friendly Rescue
+ca96fb21f	Found and Healthy Mother and Kittens
+8c3162593	Found and Friendly Rescue
+80e3af9d9	Found and Friendly Rescue
+d350af949	Found and Healthy Mother and Kittens
+bbd1d4ce0	Found and Friendly Rescue
+089c12018	Found and Friendly Rescue
+0a2e0e0f6	Found and Friendly Rescue
+ce7e32055	Found and Friendly Rescue
+af55ed15d	Lovely / Playful / Friendly
+80ff8b48e	Found and Friendly Rescue
+05edb2128	Found and Friendly Rescue
+340ecb533	Female Mother and Puppies
+4eeb96cc3	Found and Friendly Rescue
+fec4a755c	Found and Friendly Rescue
+bad0fb576	Found and Friendly Rescue
+9178579bd	Found and Friendly Rescue
+6eabb467d	Found and Friendly Rescue
+36fecc4c9	Found and Friendly Rescue
+4a96d8135	Found and Friendly Rescue
+85b473fcb	Found and Friendly Rescue
+e2f1962cc	Found and Friendly Rescue
+1a040afde	Found and Friendly Rescue
+03dbbabb2	Female Mother and Puppies
+acdaee1fe	Found and Friendly Rescue
+8104be332	Found and Friendly Rescue
+561d58f66	Lovely / Playful / Friendly
+993049fd6	Lovely / Playful / Friendly
+d7e70c440	Found and Healthy Mother and Kittens
+ec5797f90	Found and Friendly Rescue
+516f90e93	Found and Friendly Rescue
+690709a80	Found and Friendly Rescue
+6a7859258	Found and Healthy Mother and Kittens
+167b39378	Found and Friendly Rescue
+4e0c8b399	Found and Friendly Rescue
+343110be1	Found and Friendly Rescue
+204635b74	Found and Friendly Rescue
+b6cdfd1b6	Found and Friendly Rescue
+e149de7e6	Found and Healthy Mother and Kittens
+b5834d69d	Found and Healthy Mother and Kittens
+239662051	Found and Friendly Rescue
+82647c4d2	Found and Friendly Rescue
+4978f1572	Found and Friendly Rescue
+bacd8d370	Found and Friendly Rescue
+c7fad571c	Found and Friendly Rescue
+98b83f118	Found and Friendly Rescue
+5c7ddb10a	Found and Healthy Mother and Kittens
+3ea191921	Found and Friendly Rescue
+f9a8bc654	Found and Friendly Rescue
+48b0b3d3e	Found and Friendly Rescue
+560fc0423	Found and Friendly Rescue
+e5a2f7610	Found and Friendly Rescue
+fb3d8e662	Found and Healthy Mother and Kittens
+c480e2beb	Found and Healthy Mother and Kittens
+53dd0049b	Found and Friendly Rescue
+52d662dee	Found and Friendly Rescue
+6c5a4b9c4	Found and Friendly Rescue
+c1a7655c8	Found and Friendly Rescue
+a393ed091	Lovely / Playful / Friendly
+573c578d0	Found and Healthy Mother and Kittens
+45844321f	Found and Friendly Rescue
+cb3a64f64	Found and Healthy Mother and Kittens
+4df68f4e9	Found and Friendly Rescue
+db3963f04	Found and Friendly Rescue
+df9e82f13	Found and Friendly Rescue
+6c1e84b70	Found and Friendly Rescue
+001d503e8	Found and Friendly Rescue
+3bd285147	Found and Friendly Rescue
+120cbcd94	Found and Friendly Rescue
+a3cabb21c	Found and Friendly Rescue
+16c22e266	Found and Friendly Rescue
+6c503f822	Lovely / Playful / Friendly
+6e58b7b25	Found and Friendly Rescue
+488b3d3c9	Female Mother and Puppies
+2d93f0bcd	Female Mother and Puppies
+74ede439f	Found and Friendly Rescue
+74c6bc410	Found and Healthy Mother and Kittens
+7957d3691	Found and Healthy Mother and Kittens
+07136908b	Found and Friendly Rescue
+ba057ca1c	Lovely / Playful / Friendly
+d6da01c6b	Found and Friendly Rescue
+4f9bca7e9	Lovely / Playful / Friendly
+b0f6117c2	Found and Friendly Rescue
+a0011c6eb	Found and Friendly Rescue
+860344fde	Found and Friendly Rescue
+bb888acad	Found and Friendly Rescue
+eeaa62643	Found and Friendly Rescue
+24f3cf2a0	Found and Friendly Rescue
+0764a7eac	Found and Friendly Rescue
+4082723d5	Found and Friendly Rescue
+61a560fa2	Lovely / Playful / Friendly
+90c076d07	Lovely / Playful / Friendly
+d77000c72	Found and Friendly Rescue
+ae418e62b	Found and Friendly Rescue
+90d28943c	Found and Friendly Rescue
+13ea5fd8d	Lovely / Playful / Friendly
+8c296fe1e	Found and Friendly Rescue
+1bbcdf7a8	Found and Friendly Rescue
+0484a5ca3	Found and Friendly Rescue
+b3bbe5f53	Found and Friendly Rescue
+bb92a7567	Lovely / Playful / Friendly
+ab2f40da8	Found and Friendly Rescue
+1a778db04	Found and Friendly Rescue
+a69bcb570	Found and Friendly Rescue
+0fc9527f4	Found and Friendly Rescue
+782e979b9	Found and Friendly Rescue
+884dd8f25	Found and Friendly Rescue
+5b211451b	Found and Friendly Rescue
+70b11a7df	No Valid Description
+43f1d89d3	Found and Friendly Rescue
+049e36678	Female Mother and Puppies
+9f61094e3	Female Mother and Puppies
+1f69be259	Lovely / Playful / Friendly
+8b9f17174	Found and Friendly Rescue
+aae936b8e	Found and Friendly Rescue
+e90037f58	Female Mother and Puppies
+c559c6127	Found and Healthy Mother and Kittens
+b65d0a984	Found and Friendly Rescue
+6d4b0c3fe	Found and Friendly Rescue
+b4c43aecc	Found and Healthy Mother and Kittens
+adab615b2	Found and Friendly Rescue
+74d3658c4	Found and Healthy Mother and Kittens
+1fb9dbf3a	Found and Friendly Rescue
+da4c16351	Found and Healthy Mother and Kittens
+ed3c0df6b	Found and Healthy Mother and Kittens
+f77ba9bda	Found and Healthy Mother and Kittens
+dc3e4941b	Found and Friendly Rescue
+ac67e44d0	Lovely / Playful / Friendly
+1e2de68b7	Found and Friendly Rescue
+9394c8f0e	Found and Friendly Rescue
+66b44fdb3	Female Mother and Puppies
+ebbee9521	Found and Friendly Rescue
+2fbc547de	Found and Friendly Rescue
+938349c86	Lovely / Playful / Friendly
+9657c7cbe	Found and Friendly Rescue
+2ba214359	Found and Friendly Rescue
+dfb9314ad	Found and Friendly Rescue
+0551cb75a	Found and Friendly Rescue
+bec357108	Lovely / Playful / Friendly
+f8fba9187	Found and Friendly Rescue
+8a043e726	Lovely / Playful / Friendly
+734a6d4dd	Found and Friendly Rescue
+e3eb4f930	Found and Friendly Rescue
+d32369074	Found and Friendly Rescue
+c86a2a0a1	No Valid Description
+c27d5330d	Found and Friendly Rescue
+fee53d60d	Female Mother and Puppies
+47b7eb84b	Found and Friendly Rescue
+355ad26e3	Found and Friendly Rescue
+0c9d49657	Found and Healthy Mother and Kittens
+751d8b175	Found and Friendly Rescue
+74670724a	Female Mother and Puppies
+cc22b55f9	Found and Friendly Rescue
+80b634cac	Found and Friendly Rescue
+b1abcbcf2	Female Mother and Puppies
+72640001c	Found and Friendly Rescue
+dbf9cb69f	Found and Friendly Rescue
+8f1e51824	Found and Friendly Rescue
+f7d08e1c3	Found and Friendly Rescue
+3a7672d05	Found and Friendly Rescue
+810d4289b	Found and Friendly Rescue
+109163b2b	Found and Friendly Rescue
+cea1e7845	Found and Friendly Rescue
+2a9c5eab2	Found and Friendly Rescue
+2b2a7ea83	Found and Friendly Rescue
+1ea0c2a00	Found and Healthy Mother and Kittens
+c24f53ec1	Found and Friendly Rescue
+a2bdcdf43	Found and Friendly Rescue
+93bfe3b45	Found and Friendly Rescue
+a81c4083a	Found and Friendly Rescue
+d1405c482	Found and Friendly Rescue
+da68d90bc	Found and Friendly Rescue
+430c7ea97	Found and Friendly Rescue
+e0e62dbf1	Found and Friendly Rescue
+615069b7a	Found and Friendly Rescue
+a94f82184	Found and Friendly Rescue
+bc85444e9	Found and Healthy Mother and Kittens
+285806a87	Found and Friendly Rescue
+c4431962f	Found and Friendly Rescue
+9ab85d40c	Found and Healthy Mother and Kittens
+c4c846cc5	Found and Friendly Rescue
+7d8a1df6a	Found and Friendly Rescue
+17166b40d	Found and Friendly Rescue
+13f4f8d56	Female Mother and Puppies
+12dc0e350	Kittens for adoption by owner
+5a6f06939	Lovely / Playful / Friendly
+cfab64c1f	Kittens for adoption by owner
+9090dfe7e	Kittens for adoption by owner
+cdd0834a9	Found and Healthy Mother and Kittens
+3b54d2ff0	Found and Friendly Rescue
+ca093707c	Found and Friendly Rescue
+450f42a03	Found and Friendly Rescue
+d8d8cdf8a	Found and Healthy Mother and Kittens
+6f57a612f	Found and Healthy Mother and Kittens
+ce81260f8	Found and Friendly Rescue
+f2695ba4e	Found and Friendly Rescue
+c2bde6c93	Found and Friendly Rescue
+623593736	Found and Friendly Rescue
+4ecc7b377	Found and Friendly Rescue
+a8eb87a19	Found and Healthy Mother and Kittens
+44fbf0b84	Found and Healthy Mother and Kittens
+095faabaa	Found and Friendly Rescue
+f2184d6e6	Found and Friendly Rescue
+196f254f3	Found and Healthy Mother and Kittens
+f8110e44e	Lovely / Playful / Friendly
+626f21a1e	Female Mother and Puppies
+7ae197acc	Found and Friendly Rescue
+6fc48261b	Found and Friendly Rescue
+015908ecd	Found and Friendly Rescue
+095af2118	Found and Friendly Rescue
+464155b72	Found and Friendly Rescue
+b19ca2e62	Found and Friendly Rescue
+569399673	Found and Friendly Rescue
+6e388ef09	Found and Friendly Rescue
+8a0a39ae9	Found and Friendly Rescue
+08ae3eed1	Found and Friendly Rescue
+9c05b8a69	Found and Friendly Rescue
+1e699664a	Female Mother and Puppies
+b9ff9ae11	Found and Friendly Rescue
+4d14064e1	Female Mother and Puppies
+e469320e2	Female Mother and Puppies
+a893ddc9e	Female Mother and Puppies
+9b47ee109	Female Mother and Puppies
+bcb1ab1be	Found and Healthy Mother and Kittens
+7e3b71ed7	Lovely / Playful / Friendly
+0f4cc4df3	Lovely / Playful / Friendly
+bef4865b7	Found and Friendly Rescue
+ffb1e35e1	Found and Friendly Rescue
+640d9a19f	Found and Friendly Rescue
+d7dccc77b	Found and Healthy Mother and Kittens
+048e1abc5	Found and Friendly Rescue
+8f2f6c34c	Found and Friendly Rescue
+d1bf21817	Found and Friendly Rescue
+dfc29cb25	Found and Friendly Rescue
+1c3eaf19f	Found and Friendly Rescue
+f6cd9f56b	Found and Friendly Rescue
+b0a668568	Female Mother and Puppies
+23909197e	Found and Friendly Rescue
+82a8df609	Found and Friendly Rescue
+314154cb7	Found and Friendly Rescue
+8b11bd238	Found and Friendly Rescue
+52efba7a7	Found and Friendly Rescue
+cf125d1f6	Found and Friendly Rescue
+d63a6beee	Found and Friendly Rescue
+1e46578c9	Female Mother and Puppies
+2b61cadd0	Found and Friendly Rescue
+340889612	Found and Friendly Rescue
+5b99137ac	Found and Friendly Rescue
+eb94e7e3f	Found and Healthy Mother and Kittens
+ddc357f3f	Found and Friendly Rescue
+b588edd6b	Found and Friendly Rescue
+452addaa7	Found and Friendly Rescue
+8d0e4ce0b	Lovely / Playful / Friendly
+23b2aa9f4	Please provide commitment criteria
+191edbe3b	Found and Friendly Rescue
+4893339da	Found and Healthy Mother and Kittens
+34deef477	Found and Friendly Rescue
+8d0971a45	Found and Friendly Rescue
+e9cdfb442	Found and Friendly Rescue
+d3b88d06d	Found and Friendly Rescue
+0b2f6de07	Found and Friendly Rescue
+4dd4ef76e	Please provide commitment criteria
+868a6b282	Please provide commitment criteria
+3e8500c2a	Found and Friendly Rescue
+fd9b5220d	Lovely / Playful / Friendly
+82ef0904a	Found and Friendly Rescue
+f8bf1f182	Found and Friendly Rescue
+23a6650c4	Lovely / Playful / Friendly
+5c5189b56	Found and Friendly Rescue
+e7512e549	Lovely / Playful / Friendly
+b450df98d	Lovely / Playful / Friendly
+e4bfe1a51	Found and Friendly Rescue
+ca35dcf38	Found and Friendly Rescue
+6af25b653	Found and Friendly Rescue
+dd74fd4b4	No Valid Description
+e73771274	Found and Friendly Rescue
+91c55d736	Found and Friendly Rescue
+a66cf0ee6	Found and Friendly Rescue
+1961d814a	Found and Friendly Rescue
+8a154135a	Found and Friendly Rescue
+d5bebff81	Found and Healthy Mother and Kittens
+54095655	Found and Friendly Rescue
+8f9f7d3bf	Found and Friendly Rescue
+ee8197788	Lovely / Playful / Friendly
+27a5c14a3	Found and Friendly Rescue
+4a628d5ea	Found and Friendly Rescue
+0e4eb6bed	Found and Healthy Mother and Kittens
+ba7974eea	Found and Healthy Mother and Kittens
+e7c1f4c71	Found and Friendly Rescue
+280a19fde	Found and Friendly Rescue
+6742b2f4c	Found and Friendly Rescue
+2c840da5c	Kittens for adoption by owner
+4dc8a3de6	Female Mother and Puppies
+7e7eb03c8	Found and Friendly Rescue
+63abb7d89	Found and Friendly Rescue
+e853ed0d4	Found and Friendly Rescue
+14aea25a8	Found and Friendly Rescue
+52203fcdd	Found and Friendly Rescue
+c91979f9d	Found and Friendly Rescue
+6ef2a9710	Lovely / Playful / Friendly
+a8ac8b270	Female Mother and Puppies
+9303a5a96	Found and Friendly Rescue
+f0c4bdaa5	Found and Friendly Rescue
+bb7a0dfd8	Female Mother and Puppies
+adb569968	Found and Friendly Rescue
+5faac2a37	Found and Friendly Rescue
+420faace4	Found and Friendly Rescue
+78eb1ff40	Found and Friendly Rescue
+f8aed2e9a	Found and Friendly Rescue
+f151b8040	Kittens for adoption by owner
+f3e8d96d8	Lovely / Playful / Friendly
+421c20853	Found and Friendly Rescue
+4dd31f93d	Found and Friendly Rescue
+c4aa1d0ef	Found and Friendly Rescue
+0de1a6efe	Found and Friendly Rescue
+c250a6441	Found and Friendly Rescue
+9843bb7d5	Found and Friendly Rescue
+bde4e196d	Found and Friendly Rescue
+37a3ca9d9	Found and Friendly Rescue
+ccd3bd37b	Found and Friendly Rescue
+3ca634c68	Found and Friendly Rescue
+511351d55	Lovely / Playful / Friendly
+8d9239735	Lovely / Playful / Friendly
+deeab0fc5	Found and Friendly Rescue
+5fbd4aa53	Female Mother and Puppies
+814e4dfce	Found and Friendly Rescue
+91c57560a	Found and Friendly Rescue
+5bc91f92b	Found and Friendly Rescue
+5cad62f10	Found and Friendly Rescue
+d3f0d7228	Found and Friendly Rescue
+e85bfa7cb	Found and Friendly Rescue
+9e3c82b5a	Found and Friendly Rescue
+8eedeb405	Female Mother and Puppies
+fc428902e	Female Mother and Puppies
+baae8f4bb	Found and Friendly Rescue
+dd3b0c971	Lovely / Playful / Friendly
+50ae487fc	Female Mother and Puppies
+634a2d6ed	Lovely / Playful / Friendly
+5aacfa367	Lovely / Playful / Friendly
+4240ae918	Found and Friendly Rescue
+e2de606a0	Lovely / Playful / Friendly
+2ebcb2e02	Found and Friendly Rescue
+9911add5b	Found and Friendly Rescue
+4d0bf11c5	Found and Friendly Rescue
+4f46a02af	Lovely / Playful / Friendly
+d5816f5e7	Found and Friendly Rescue
+c2224af98	Found and Healthy Mother and Kittens
+a33c493e0	Found and Friendly Rescue
+cc5ebb4b4	Found and Friendly Rescue
+bbdd7b4f3	Found and Friendly Rescue
+158676d7c	Female Mother and Puppies
+3d4f0fdfa	Found and Friendly Rescue
+d58bbc78f	Found and Friendly Rescue
+9fa384850	Found and Healthy Mother and Kittens
+7112385de	Found and Friendly Rescue
+18900149e	Found and Friendly Rescue
+c8c7c7ee4	Lovely / Playful / Friendly
+28325b3d5	Please provide commitment criteria
+5604b1b4b	Found and Friendly Rescue
+a7900f4ec	Found and Friendly Rescue
+c12240672	Lovely / Playful / Friendly
+7ed005178	Found and Friendly Rescue
+fe8797927	Lovely / Playful / Friendly
+fe38d5ffc	Found and Friendly Rescue
+8236e216c	Found and Friendly Rescue
+fec5d79d0	Found and Healthy Mother and Kittens
+78e4fc283	Found and Friendly Rescue
+361f3f278	Please provide commitment criteria
+2ae6cda7d	Found and Healthy Mother and Kittens
+5f1ddbd0e	Found and Friendly Rescue
+d689e43d3	Found and Friendly Rescue
+501c6fe9d	Found and Friendly Rescue
+da9bfaabc	Found and Friendly Rescue
+2bf80cc03	Found and Friendly Rescue
+97eca3abc	Found and Friendly Rescue
+eb34642e2	Found and Friendly Rescue
+8a369e08c	Found and Friendly Rescue
+6e72dafda	No Valid Description
+169a47ceb	Found and Friendly Rescue
+28ebbe75c	Found and Healthy Mother and Kittens
+cf019d00f	Found and Healthy Mother and Kittens
+b1a73b0b5	Lovely / Playful / Friendly
+26645d7da	Found and Friendly Rescue
+6cf10fb6e	Found and Friendly Rescue
+318800c44	Found and Friendly Rescue
+a90798045	Found and Friendly Rescue
+f23b5b477	Found and Friendly Rescue
+2ee1902e6	Found and Friendly Rescue
+21b47468d	Found and Friendly Rescue
+89c864b4c	Found and Friendly Rescue
+9595e492d	Found and Friendly Rescue
+159a08149	Found and Friendly Rescue
+45b43d15c	Found and Friendly Rescue
+44405c1c2	Found and Friendly Rescue
+a9ec7f379	Found and Friendly Rescue
+191ab1abf	Found and Healthy Mother and Kittens
+81cf77a54	Female Mother and Puppies
+78fe45793	Found and Friendly Rescue
+9b01619e1	Found and Friendly Rescue
+cd9f0fa1b	Found and Friendly Rescue
+1ed6caed2	Found and Friendly Rescue
+5de46abf2	Found and Healthy Mother and Kittens
+939027417	Found and Healthy Mother and Kittens
+b9c01e7c7	Found and Healthy Mother and Kittens
+fd56d5adf	Found and Friendly Rescue
+c310dc8e3	Lovely / Playful / Friendly
+a5c3f9153	Lovely / Playful / Friendly
+a2d789b33	Lovely / Playful / Friendly
+caa619b24	Found and Friendly Rescue
+63373bde2	Found and Friendly Rescue
+7da0b6748	Found and Friendly Rescue
+6f01fa715	Found and Friendly Rescue
+cf823fe95	Found and Healthy Mother and Kittens
+c9456de8d	Found and Friendly Rescue
+e2f74b914	Female Mother and Puppies
+9751c20f0	Found and Friendly Rescue
+5ff8d0fee	Found and Friendly Rescue
+f3ca28aa1	Found and Friendly Rescue
+be1caa2d1	Found and Friendly Rescue
+0d882a77c	Found and Friendly Rescue
+2ca54759a	Lovely / Playful / Friendly
+79304a92a	Found and Healthy Mother and Kittens
+fd86921f6	Found and Friendly Rescue
+e03bc04cc	Found and Friendly Rescue
+a8967b31e	Found and Friendly Rescue
+e4e371d1c	Found and Friendly Rescue
+8e5b5c870	Found and Friendly Rescue
+b5c68765f	Found and Friendly Rescue
+ea9a1ee5c	Found and Friendly Rescue
+7d7bd1619	Found and Healthy Mother and Kittens
+72d018a35	Lovely / Playful / Friendly
+14bcc4bbc	Found and Friendly Rescue
+8402edce8	Found and Friendly Rescue
+dabf95220	Lovely / Playful / Friendly
+5aa096eb1	Found and Friendly Rescue
+3eed772b3	Found and Friendly Rescue
+3bbb69d2e	Found and Friendly Rescue
+f1d3cf2ab	Found and Friendly Rescue
+3d042de99	Found and Healthy Mother and Kittens
+4083b5e8c	Found and Friendly Rescue
+5f4c80ffd	Found and Friendly Rescue
+36d94f9cb	Found and Friendly Rescue
+feceba12b	Found and Healthy Mother and Kittens
+922418176	Female Mother and Puppies
+73f415b05	Female Mother and Puppies
+55f4b8bce	Female Mother and Puppies
+6132d96a4	Found and Friendly Rescue
+716cb539f	Lovely / Playful / Friendly
+527395d87	Lovely / Playful / Friendly
+34c8e456b	Female Mother and Puppies
+5fcd4c375	Found and Friendly Rescue
+647e1be95	Found and Friendly Rescue
+62fa55a91	Found and Friendly Rescue
+ca3eb54e1	Lovely / Playful / Friendly
+6b05a04d2	Lovely / Playful / Friendly
+e6e981d78	Lovely / Playful / Friendly
+8778a9795	Lovely / Playful / Friendly
+d2f3e3e49	Lovely / Playful / Friendly
+58c0aa81a	Female Mother and Puppies
+8f1e6e6c2	Female Mother and Puppies
+88a0b1238	Found and Friendly Rescue
+8757bc681	Found and Friendly Rescue
+48a067308	Found and Friendly Rescue
+ccba2b8d1	Found and Friendly Rescue
+d56dc92cd	Found and Friendly Rescue
+fe5560b70	Female Mother and Puppies
+99bc2a7a1	Found and Friendly Rescue
+5c12667cf	Kittens for adoption by owner
+5d29f2f11	Found and Friendly Rescue
+810167339	Found and Friendly Rescue
+52a0a3cec	Found and Friendly Rescue
+31fd29beb	Found and Friendly Rescue
+eb6c41d6e	Found and Friendly Rescue
+3ee57f395	Found and Friendly Rescue
+eeff4034c	Lovely / Playful / Friendly
+d57da0106	Found and Friendly Rescue
+570c5ffad	Found and Friendly Rescue
+19d84f9de	Found and Friendly Rescue
+12b8e4da6	Found and Friendly Rescue
+e739d7511	Female Mother and Puppies
+8ae52d40c	Found and Friendly Rescue
+a2f165942	Found and Friendly Rescue
+a3b0f3b7b	Female Mother and Puppies
+4.93E+62	Found and Friendly Rescue
+c67b5c182	Female Mother and Puppies
+9eb87edab	Found and Friendly Rescue
+d7432fac3	Found and Friendly Rescue
+7031a5cda	Found and Healthy Mother and Kittens
+8e6725dbc	Found and Friendly Rescue
+3fd732fc4	Found and Friendly Rescue
+9f033fb12	Found and Friendly Rescue
+d5fe28556	Kittens for adoption by owner
+deb592585	Found and Healthy Mother and Kittens
+8a356cba8	Kittens for adoption by owner
+67832af51	Found and Friendly Rescue
+f78d67427	Lovely / Playful / Friendly
+41eeba049	Found and Friendly Rescue
+30068497	Found and Friendly Rescue
+5bee7560b	Found and Friendly Rescue
+d5d923c09	Found and Friendly Rescue
+e65dc3c7f	Found and Friendly Rescue
+c6b44f4a6	No Valid Description
+7c733881a	Found and Friendly Rescue
+9860ed0b0	Found and Friendly Rescue
+3cf371788	Female Mother and Puppies
+2a9eb32cd	Found and Friendly Rescue
+ba1065a24	Found and Friendly Rescue
+133cd6876	Found and Friendly Rescue
+0e8e7640e	Found and Friendly Rescue
+8b994fc99	Found and Healthy Mother and Kittens
+90dc5236b	Female Mother and Puppies
+bc8cea83b	Found and Friendly Rescue
+eedb57cd6	Found and Friendly Rescue
+963ca7ec8	Found and Friendly Rescue
+bc2272277	Found and Healthy Mother and Kittens
+61217d1da	Found and Friendly Rescue
+0dbe0a1e0	Female Mother and Puppies
+294c406a4	Female Mother and Puppies
+e433950d6	Found and Friendly Rescue
+98b106dc9	Found and Healthy Mother and Kittens
+3faa593ae	Lovely / Playful / Friendly
+d501b2fa5	Found and Healthy Mother and Kittens
+b9bd43ed9	Found and Friendly Rescue
+a74808fe4	Found and Friendly Rescue
+780a11e8d	Kittens for adoption by owner
+663a6ad3a	Found and Friendly Rescue
+780bc6ac8	Female Mother and Puppies
+43c4e22f0	Found and Friendly Rescue
+9854d0dbc	Found and Friendly Rescue
+48c6e1680	Found and Healthy Mother and Kittens
+77883558	Kittens for adoption by owner
+bdaa4e12c	Found and Friendly Rescue
+858cb8fb2	Found and Friendly Rescue
+1854cbe64	Found and Friendly Rescue
+301987149	Found and Friendly Rescue
+7545c106f	Found and Friendly Rescue
+a24483828	Lovely / Playful / Friendly
+5509758d7	Lovely / Playful / Friendly
+047a3dc86	Found and Friendly Rescue
+8075da3a6	Found and Friendly Rescue
+56400fc6d	Found and Friendly Rescue
+e4d63203c	Found and Friendly Rescue
+0cf8ab092	Found and Friendly Rescue
+b5cd50120	Found and Friendly Rescue
+8473ea25a	Lovely / Playful / Friendly
+ff4bad8b2	Found and Friendly Rescue
+4f11633ff	Found and Friendly Rescue
+e6b83f75f	Found and Friendly Rescue
+51147d230	Found and Friendly Rescue
+e929b302a	Found and Friendly Rescue
+3a6f2ca7c	Kittens for adoption by owner
+be490ac3d	Found and Friendly Rescue
+0111099f8	Found and Friendly Rescue
+b1b29893c	Found and Friendly Rescue
+15c078a1d	Found and Friendly Rescue
+2204006b0	Found and Friendly Rescue
+abec498d8	Found and Friendly Rescue
+627896ec6	Found and Friendly Rescue
+160605a86	Found and Friendly Rescue
+71d223ded	Found and Friendly Rescue
+c871ea250	Found and Friendly Rescue
+68fcb36db	Found and Friendly Rescue
+4e68b3f75	Found and Friendly Rescue
+c162b0da6	Female Mother and Puppies
+0c8374d8c	Found and Friendly Rescue
+6f417401b	Found and Friendly Rescue
+bc3eea132	Found and Friendly Rescue
+b7de115e8	Found and Friendly Rescue
+96ac73ad0	Found and Friendly Rescue
+2deb7e923	Found and Friendly Rescue
+1ec864536	Found and Friendly Rescue
+6e207f192	Found and Friendly Rescue
+99898aa3a	Found and Healthy Mother and Kittens
+4a6c731d1	Found and Healthy Mother and Kittens
+52eb2a1c5	Found and Friendly Rescue
+e1b1b7248	Found and Healthy Mother and Kittens
+4b45e3d52	Female Mother and Puppies
+769c05615	Female Mother and Puppies
+4a79d0950	Female Mother and Puppies
+a3ccc451e	Found and Friendly Rescue
+53d3d6316	Found and Friendly Rescue
+4c93e6f35	Found and Friendly Rescue
+ad8fed7c3	Found and Friendly Rescue
+f3541b1bc	Found and Friendly Rescue
+46b61a2d2	Found and Friendly Rescue
+ba7801d57	Found and Friendly Rescue
+89912005b	Found and Healthy Mother and Kittens
+22292c841	Found and Friendly Rescue
+bc06d9ea5	Found and Friendly Rescue
+e29dc89da	Found and Healthy Mother and Kittens
+0575615fd	Lovely / Playful / Friendly
+9883ba0a6	Found and Friendly Rescue
+cb6f9335a	Found and Friendly Rescue
+eb5a2cfc5	Found and Healthy Mother and Kittens
+a4d1de41c	Lovely / Playful / Friendly
+b63a8ba44	Lovely / Playful / Friendly
+bc5944086	Found and Friendly Rescue
+ff1572529	Found and Friendly Rescue
+58af165cd	Found and Friendly Rescue
+dcf9473c1	Found and Friendly Rescue
+a2a734348	Found and Friendly Rescue
+630891c65	Found and Friendly Rescue
+2e81f8cef	Found and Friendly Rescue
+508811830	Found and Friendly Rescue
+3d815b4bc	Found and Healthy Mother and Kittens
+9a8ca9c92	Found and Friendly Rescue
+5964afef8	Found and Friendly Rescue
+cd802e76d	Female Mother and Puppies
+cc0b7f03c	Female Mother and Puppies
+681e534db	Female Mother and Puppies
+9406dfde7	Found and Friendly Rescue
+a2f0eeabd	Lovely / Playful / Friendly
+2fa420bfe	Found and Friendly Rescue
+59f99eb7b	Found and Friendly Rescue
+e2d8f6d49	Found and Friendly Rescue
+4fdf852e8	Found and Friendly Rescue
+72943b6ca	Found and Friendly Rescue
+fc5485a38	Found and Friendly Rescue
+f897ce4ca	Found and Friendly Rescue
+33a84e982	Female Mother and Puppies
+9d437314b	Kittens for adoption by owner
+0da144b18	Butterworth Penang Call Whats app
+b30881bd3	Found and Friendly Rescue
+33c3cb115	Found and Friendly Rescue
+2eb02905b	Found and Friendly Rescue
+707656d7f	Found and Healthy Mother and Kittens
+e49499be8	Found and Healthy Mother and Kittens
+8a2040751	Found and Friendly Rescue
+82cb3eb59	Found and Healthy Mother and Kittens
+6b467cb2c	Found and Friendly Rescue
+775496f57	Female Mother and Puppies
+144e57740	Found and Friendly Rescue
+1a5f780f3	Lovely / Playful / Friendly
+40116a9e7	Found and Healthy Mother and Kittens
+fe1e4e8fa	Found and Healthy Mother and Kittens
+5d3a4b13e	Found and Friendly Rescue
+4ca157452	Found and Healthy Mother and Kittens
+a0367f7e0	Lovely / Playful / Friendly
+50a4dfde7	Female Mother and Puppies
+ed577f8ab	Found and Friendly Rescue
+1b5c4d501	Female Mother and Puppies
+b73ee88dc	Found and Friendly Rescue
+b250f4035	Found and Friendly Rescue
+b149e391c	Found and Friendly Rescue
+2098c5f0f	Found and Friendly Rescue
+ce31622c6	Please provide commitment criteria
+38e9f3adf	Lovely / Playful / Friendly
+81a0ebc2d	No Valid Description
+426f88f29	Found and Friendly Rescue
+8d63ab362	Found and Friendly Rescue
+1e6db8eed	Found and Friendly Rescue
+519e13c1d	Found and Healthy Mother and Kittens
+d1e418fba	Lovely / Playful / Friendly
+a67b605e2	Lovely / Playful / Friendly
+b9e9b509b	Female Mother and Puppies
+934b61e2c	Found and Friendly Rescue
+2e050c364	Found and Friendly Rescue
+03dcdcd53	Found and Friendly Rescue
+38ca1a419	Found and Friendly Rescue
+e5a2705ee	Found and Healthy Mother and Kittens
+864d55acb	Found and Friendly Rescue
+86b85538f	Found and Healthy Mother and Kittens
+1456605ea	Found and Friendly Rescue
+770645378	Found and Friendly Rescue
+56a14ce4e	Found and Friendly Rescue
+1f45ecd7f	Found and Friendly Rescue
+1dc9e73c9	Found and Friendly Rescue
+4e1661dc2	Found and Friendly Rescue
+4978f492e	Found and Friendly Rescue
+824f345bc	Lovely / Playful / Friendly
+0c6769645	Found and Healthy Mother and Kittens
+0a7828493	Found and Friendly Rescue
+b6f3c32c8	Found and Friendly Rescue
+d884d352e	Found and Healthy Mother and Kittens
+f03f3659d	Female Mother and Puppies
+e4027ba6e	Found and Friendly Rescue
+07e70b072	Found and Healthy Mother and Kittens
+cdc0bf103	Found and Friendly Rescue
+68a9559ab	Lovely / Playful / Friendly
+18421f390	Found and Friendly Rescue
+1c4a812ae	Female Mother and Puppies
+9215a884c	Found and Friendly Rescue
+63acf4157	Found and Healthy Mother and Kittens
+d7c965c59	Found and Friendly Rescue
+7e391e8db	Found and Friendly Rescue
+dcb579a64	Found and Friendly Rescue
+5c6f6badd	Found and Friendly Rescue
+8e52286c5	Female Mother and Puppies
+aa1f77b38	Found and Healthy Mother and Kittens
+7ad5a3645	Found and Friendly Rescue
+5e7916308	Found and Friendly Rescue
+6250e5e1f	Found and Friendly Rescue
+33afc5ea7	Found and Friendly Rescue
+1c99fc32d	Found and Friendly Rescue
+2c7904769	Female Mother and Puppies
+3bb3c3f41	Found and Healthy Mother and Kittens
+fc8281dd8	Found and Healthy Mother and Kittens
+f60dfc2a2	Found and Friendly Rescue
+d0120359f	Found and Healthy Mother and Kittens
+403c6cb85	Found and Healthy Mother and Kittens
+07d914139	Found and Friendly Rescue
+924323d36	Found and Friendly Rescue
+9576d6820	Found and Healthy Mother and Kittens
+3c7106b78	Found and Healthy Mother and Kittens
+b0a509d5a	Found and Healthy Mother and Kittens
+43a02bfb3	Found and Healthy Mother and Kittens
+635d7d444	Found and Friendly Rescue
+59898b90b	Found and Friendly Rescue
+d5f80ffa1	No Valid Description
+bab6d2bbc	Female Mother and Puppies
+1145e3572	Female Mother and Puppies
+310e11cd8	Found and Friendly Rescue
+1f7f25cfe	Female Mother and Puppies
+53ba70fc9	Found and Healthy Mother and Kittens
+34770757	Found and Friendly Rescue
+ff736aed4	Found and Friendly Rescue
+52d52114a	No Valid Description
+b2ba57174	Found and Healthy Mother and Kittens
+b452fcedc	Found and Healthy Mother and Kittens
+8a28ff135	Found and Healthy Mother and Kittens
+224754b26	Found and Healthy Mother and Kittens
+d9801429b	Found and Friendly Rescue
+f79ecce0a	Found and Friendly Rescue
+d949d3c85	Kittens for adoption by owner
+26c978408	No Valid Description
+29558e678	Found and Friendly Rescue
+c68267a21	Found and Friendly Rescue
+5037b355a	Found and Friendly Rescue
+6fd6bbbac	Found and Friendly Rescue
+1e1acbecb	Found and Friendly Rescue
+24387278f	Found and Healthy Mother and Kittens
+eab678e04	Kittens for adoption by owner
+7698dd2f8	Kittens for adoption by owner
+86c35d610	Kittens for adoption by owner
+d5c8e8f95	Found and Healthy Mother and Kittens
+40b28c8b2	Found and Healthy Mother and Kittens
+13b5d77c9	Found and Friendly Rescue
+0c4c94d92	Found and Friendly Rescue
+80e71a429	Found and Friendly Rescue
+0871b29c7	Found and Friendly Rescue
+737963888	Found and Friendly Rescue
+83e756b85	Found and Friendly Rescue
+eaf4ce405	Found and Friendly Rescue
+3bb5701db	Female Mother and Puppies
+bb88016dc	Found and Friendly Rescue
+1edeefc59	Found and Friendly Rescue
+4d3d5de63	Found and Friendly Rescue
+bed0a2dd0	Found and Friendly Rescue
+5c11b7b71	Lovely / Playful / Friendly
+771236ce1	Found and Friendly Rescue
+199ae3a3d	Found and Friendly Rescue
+609a19425	Found and Friendly Rescue
+c3979d74c	Found and Friendly Rescue
+a3c11ffc0	Found and Friendly Rescue
+5f484ce83	Found and Friendly Rescue
+d5dc8e2ed	Found and Friendly Rescue
+b5a3de47a	Female Mother and Puppies
+22bc7ce02	Found and Friendly Rescue
+1d6e5cf3a	Found and Friendly Rescue
+7a2f298b1	Found and Friendly Rescue
+cddfc651c	No Valid Description
+f40103c83	No Valid Description
+410a26705	Lovely / Playful / Friendly
+71f7faec1	Female Mother and Puppies
+8996af30b	Female Mother and Puppies
+40317cc21	Found and Friendly Rescue
+5e8ae0408	Female Mother and Puppies
+d6caa6c1b	Found and Friendly Rescue
+3c3b8f720	Found and Friendly Rescue
+66ee92015	Found and Friendly Rescue
+0d23ebf62	Lovely / Playful / Friendly
+f308d84f9	Found and Friendly Rescue
+a83316db9	Found and Friendly Rescue
+4ec74bd2a	Female Mother and Puppies
+1fe6926c9	Female Mother and Puppies
+6cd08f9e5	Found and Friendly Rescue
+8fab79bce	No Valid Description
+6bb0867d2	Found and Friendly Rescue
+af5663a50	Found and Friendly Rescue
+9b72b6259	Found and Friendly Rescue
+414d8071a	Lovely / Playful / Friendly
+2832e999c	Found and Friendly Rescue
+14dac66d4	Found and Friendly Rescue
+0723c702f	Found and Friendly Rescue
+d8a5cbf50	Found and Friendly Rescue
+7e53fa3c8	Found and Healthy Mother and Kittens
+ac8a6d6b4	Found and Healthy Mother and Kittens
+46b72a554	Lovely / Playful / Friendly
+abad54d9e	Found and Friendly Rescue
+dc799e6cf	Female Mother and Puppies
+66e380876	Female Mother and Puppies
+c9beb51d4	Found and Friendly Rescue
+adbb5691b	Female Mother and Puppies
+ddff16456	Found and Friendly Rescue
+34b07073e	Found and Friendly Rescue
+faa44e335	Found and Friendly Rescue
+6aee6ba64	Found and Friendly Rescue
+ce6d26ea8	Found and Friendly Rescue
+bf7468418	Found and Friendly Rescue
+95d3eeb89	Found and Friendly Rescue
+07cec96ed	Lovely / Playful / Friendly
+3e5f1ed95	Lovely / Playful / Friendly
+2fb2b5440	Found and Friendly Rescue
+0e1afcba3	Found and Friendly Rescue
+a66fac828	Kittens for adoption by owner
+68a455136	Found and Friendly Rescue
+b8cee8864	Found and Healthy Mother and Kittens
+f0f332a40	Found and Healthy Mother and Kittens
+d143d39b7	Lovely / Playful / Friendly
+9f6c09778	Found and Friendly Rescue
+ea90f4eac	Found and Friendly Rescue
+1763f6e8c	Female Mother and Puppies
+32b0f73c8	Found and Friendly Rescue
+8a44d1d0a	Female Mother and Puppies
+4c144f0ed	Found and Healthy Mother and Kittens
+cec32d2d9	Found and Friendly Rescue
+ce08bf758	Found and Friendly Rescue
+2ce451b02	Found and Friendly Rescue
+35ec1a697	Kittens for adoption by owner
+9918c8c44	Found and Friendly Rescue
+8e927101b	Kittens for adoption by owner
+e71ce9398	Female Mother and Puppies
+3701826a8	Found and Friendly Rescue
+0646fb6ba	Found and Friendly Rescue
+e394a70d8	Female Mother and Puppies
+88439d7b0	Lovely / Playful / Friendly
+83ba40cc6	Found and Healthy Mother and Kittens
+f720565e5	Found and Friendly Rescue
+590738ca0	Found and Friendly Rescue
+f6a6a9309	Found and Friendly Rescue
+7b709929f	Found and Healthy Mother and Kittens
+a6f5db120	Found and Healthy Mother and Kittens
+c9bfae3ca	Found and Friendly Rescue
+592ff368f	Found and Friendly Rescue
+614b290f5	Found and Friendly Rescue
+fc5e93ddb	Found and Friendly Rescue
+ed7eb98b9	Found and Friendly Rescue
+9df6e927c	Found and Friendly Rescue
+b8d8b2272	Found and Healthy Mother and Kittens
+9c60c63f6	Found and Friendly Rescue
+01f72959d	Female Mother and Puppies
+7c4c942d5	Found and Friendly Rescue
+b37fc7248	Found and Friendly Rescue
+599b33066	Found and Healthy Mother and Kittens
+d5f7c611a	Found and Friendly Rescue
+fd3d262c3	Found and Friendly Rescue
+1bfd3fba3	Found and Friendly Rescue
+5d9384a34	Found and Friendly Rescue
+cbb603649	Found and Healthy Mother and Kittens
+c2f964b3b	Found and Healthy Mother and Kittens
+d5681d2c3	Found and Healthy Mother and Kittens
+47536cf31	Found and Healthy Mother and Kittens
+ae4274dd6	Found and Healthy Mother and Kittens
+38cbd55e5	Found and Healthy Mother and Kittens
+aff0a8156	Lovely / Playful / Friendly
+42b588455	Found and Healthy Mother and Kittens
+2136ab169	Found and Friendly Rescue
+8bc88a336	Female Mother and Puppies
+559ae5667	Female Mother and Puppies
+e881219a0	Found and Friendly Rescue
+b5f9c95df	Found and Friendly Rescue
+48fe551df	Lovely / Playful / Friendly
+d4bae51c9	Found and Friendly Rescue
+015f125b8	Found and Friendly Rescue
+3a97ac75e	Found and Friendly Rescue
+ad3449695	Found and Friendly Rescue
+0fd8e26c1	Found and Friendly Rescue
+b77bebe5f	Found and Friendly Rescue
+90d66cd6f	Found and Friendly Rescue
+c306658fe	Lovely / Playful / Friendly
+b94aa2e66	Found and Friendly Rescue
+59680597d	Lovely / Playful / Friendly
+498d70ca1	Female Mother and Puppies
+f931a3552	Found and Friendly Rescue
+08daae591	Found and Friendly Rescue
+dc4502e25	Kittens for adoption by owner
+bfa7ed240	Found and Friendly Rescue
+7c2b48d5f	No Valid Description
+23f8bb18e	Lovely / Playful / Friendly
+892a5ed54	Lovely / Playful / Friendly
+2b880dfcb	Found and Friendly Rescue
+974688435	Found and Friendly Rescue
+26b149a77	Found and Friendly Rescue
+3d1a0b636	Found and Friendly Rescue
+2c416fcef	Found and Friendly Rescue
+cfa1588e2	Lovely / Playful / Friendly
+584042e9e	Found and Friendly Rescue
+493d668ba	Found and Friendly Rescue
+a4c5e45dd	Found and Friendly Rescue
+f192616ce	Found and Friendly Rescue
+76e0bf879	Found and Friendly Rescue
+1d0223148	Found and Friendly Rescue
+0b9384acf	Found and Friendly Rescue
+6e3e2b85a	Found and Friendly Rescue
+4509290d7	Found and Friendly Rescue
+d147d16ec	Found and Friendly Rescue
+82126600	Lovely / Playful / Friendly
+569798535	Found and Friendly Rescue
+47aab029b	Found and Friendly Rescue
+5e3011a62	Found and Friendly Rescue
+559917f5c	Found and Friendly Rescue
+02ffbb348	Female Mother and Puppies
+0a5129c92	Found and Friendly Rescue
+60d8c1fa7	Found and Healthy Mother and Kittens
+20671ca51	Found and Friendly Rescue
+bede60795	Found and Friendly Rescue
+e126dcb77	Female Mother and Puppies
+470343a04	Found and Friendly Rescue
+12044707c	Found and Friendly Rescue
+c09a0a00a	Found and Friendly Rescue
+421becb27	Found and Friendly Rescue
+aa22c1563	Female Mother and Puppies
+166503620	Found and Friendly Rescue
+618dced8e	Found and Friendly Rescue
+419d49119	Found and Friendly Rescue
+ffa86db9e	Found and Friendly Rescue
+4b14cca25	Found and Healthy Mother and Kittens
+5c55a78e2	Found and Friendly Rescue
+caacbd257	Found and Friendly Rescue
+7e7d7f1c5	Found and Friendly Rescue
+e3865d96b	Found and Friendly Rescue
+63d17a5ad	Found and Friendly Rescue
+3ccddbba4	Found and Friendly Rescue
+180d75114	Found and Friendly Rescue
+3e385e1b1	Found and Friendly Rescue
+42635012f	Female Mother and Puppies
+5a951896b	Female Mother and Puppies
+c017a7d6b	Found and Friendly Rescue
+5f3432403	Found and Friendly Rescue
+03d14e004	Found and Friendly Rescue
+f1101a527	Found and Friendly Rescue
+db74e1329	Kittens for adoption by owner
+0131eb078	Female Mother and Puppies
+df17fad20	Found and Healthy Mother and Kittens
+44bf31aa6	Found and Friendly Rescue
+a987ee384	Found and Friendly Rescue
+fe9b945ae	Lovely / Playful / Friendly
+7600dfada	Found and Friendly Rescue
+cbfa8bcdd	Female Mother and Puppies
+270ca7309	Female Mother and Puppies
+16a43d1b1	Found and Friendly Rescue
+87a8c0f0d	Female Mother and Puppies
+33dfbe188	Kittens for adoption by owner
+22f85ea8e	Found and Friendly Rescue
+e5d02f315	Lovely / Playful / Friendly
+09ba96bf0	Lovely / Playful / Friendly
+c572d623d	Found and Healthy Mother and Kittens
+882c038e7	Found and Friendly Rescue
+973194dde	Found and Healthy Mother and Kittens
+1061d324a	Found and Healthy Mother and Kittens
+597788b4b	Found and Friendly Rescue
+182e0e5dd	Found and Friendly Rescue
+0536a14c0	Found and Friendly Rescue
+66e113c05	Found and Healthy Mother and Kittens
+650de5c52	Found and Friendly Rescue
+d74e047bd	Found and Friendly Rescue
+cd2f4f5bd	Found and Friendly Rescue
+35c9317ff	Lovely / Playful / Friendly
+a6b832cfa	Found and Friendly Rescue
+b2f3be45e	Found and Friendly Rescue
+f0a7c0b14	Found and Healthy Mother and Kittens
+4228045ee	Female Mother and Puppies
+1e3566cbe	Found and Friendly Rescue
+398fec4a3	Found and Friendly Rescue
+c15e547dd	Found and Friendly Rescue
+f55332756	Found and Friendly Rescue
+f6b4d4405	Kittens for adoption by owner
+3d6a0b6ce	Found and Healthy Mother and Kittens
+ae49cb15f	Kittens for adoption by owner
+71d2e9e25	Female Mother and Puppies
+2d10f326a	Found and Friendly Rescue
+dedc72b5b	Found and Friendly Rescue
+a83818789	Found and Friendly Rescue
+fdfcd1023	Found and Friendly Rescue
+62f7be1c8	Found and Friendly Rescue
+fad624d4f	Found and Healthy Mother and Kittens
+e840929be	Found and Friendly Rescue
+4c506cf99	Found and Friendly Rescue
+89a97a4bb	Found and Friendly Rescue
+b5f30bff1	Found and Friendly Rescue
+84c0efa46	Found and Friendly Rescue
+e8ab2aa85	No Valid Description
+45bd144f5	Found and Friendly Rescue
+608e5b66b	Found and Friendly Rescue
+672ebfd9a	Found and Friendly Rescue
+fd1ff90f8	Found and Friendly Rescue
+d3f554d71	Found and Friendly Rescue
+a63706726	Found and Healthy Mother and Kittens
+3e636c3d2	Lovely / Playful / Friendly
+2366fd140	Found and Friendly Rescue
+7e46d59c8	Found and Friendly Rescue
+d6efb85e9	Found and Friendly Rescue
+9d28f0f59	Found and Friendly Rescue
+b17afb2eb	Kittens for adoption by owner
+5ec5914e5	Found and Friendly Rescue
+4432db7d3	Found and Friendly Rescue
+ce5cfac06	Lovely / Playful / Friendly
+ffd4fe065	Female Mother and Puppies
+ee1ddf5ce	Found and Friendly Rescue
+679286002	Found and Friendly Rescue
+073568cc5	Found and Friendly Rescue
+02519d368	Found and Friendly Rescue
+b7ae6b9cd	Found and Friendly Rescue
+416bfd3dd	Found and Healthy Mother and Kittens
+d2284ec25	Found and Friendly Rescue
+e543bc19c	Found and Friendly Rescue
+c82ba5889	Found and Friendly Rescue
+cd7fcad63	Found and Friendly Rescue
+49d4e21de	Found and Healthy Mother and Kittens
+b5ecc08d6	Female Mother and Puppies
+22e87dca2	Found and Friendly Rescue
+c692d4b45	Found and Friendly Rescue
+edc153713	Found and Friendly Rescue
+a30967d48	Female Mother and Puppies
+3603eacf0	Found and Friendly Rescue
+600c7d1e2	Kittens for adoption by owner
+e2b2cad49	Found and Friendly Rescue
+122e7c0c2	Lovely / Playful / Friendly
+b2b54fce7	Found and Friendly Rescue
+c720115fe	Lovely / Playful / Friendly
+02b1ab523	Female Mother and Puppies
+47bfcd3cc	Found and Friendly Rescue
+2c5ee0b49	Lovely / Playful / Friendly
+ebdcc42bd	Found and Friendly Rescue
+17a5bece9	Found and Friendly Rescue
+45e7776e1	Found and Friendly Rescue
+dcbb918b4	Found and Healthy Mother and Kittens
+25baf7a8d	Found and Friendly Rescue
+600e0fb89	Lovely / Playful / Friendly
+cfc94da9a	Found and Friendly Rescue
+69baefa84	Found and Friendly Rescue
+3cdb1a596	Found and Friendly Rescue
+2a029afbe	Found and Healthy Mother and Kittens
+418ea400f	Found and Friendly Rescue
+49157aaac	Found and Friendly Rescue
+cf0d70718	Found and Friendly Rescue
+23a703329	Found and Friendly Rescue
+85426f467	Found and Friendly Rescue
+ab6048c53	Found and Friendly Rescue
+f5ad400b7	Found and Friendly Rescue
+ff903e52b	Found and Friendly Rescue
+498106649	Female Mother and Puppies
+418700d53	Found and Friendly Rescue
+3360d56c0	Found and Friendly Rescue
+9a047f96b	Found and Friendly Rescue
+06a470022	Found and Friendly Rescue
+5344ddf4e	Found and Friendly Rescue
+dcbe7cae8	Kittens for adoption by owner
+bcda27f26	Found and Friendly Rescue
+2b01a74a9	Found and Friendly Rescue
+1e0e21059	Found and Healthy Mother and Kittens
+b80dfae6a	Kittens for adoption by owner
+bc05ab361	Found and Friendly Rescue
+8459f4707	Found and Healthy Mother and Kittens
+d12b4fe19	Found and Friendly Rescue
+4b96e341f	Found and Friendly Rescue
+e1180bfcd	Female Mother and Puppies
+9e51a9790	Found and Friendly Rescue
+b029230e4	Found and Friendly Rescue
+8a1bc271c	Found and Friendly Rescue
+5ad9b6f0c	Found and Friendly Rescue
+610788182	Found and Friendly Rescue
+ee4325d84	Found and Healthy Mother and Kittens
+f21c317cf	Kittens for adoption by owner
+2abba8c6c	Found and Friendly Rescue
+2954b46c4	Found and Friendly Rescue
+a0b6f1501	Found and Friendly Rescue
+8d0e790e5	Found and Friendly Rescue
+399fa2574	Found and Friendly Rescue
+9967c6cb6	Found and Friendly Rescue
+a182511f2	Found and Friendly Rescue
+51a13610e	Found and Friendly Rescue
+19c7e095c	Found and Friendly Rescue
+73961a218	Found and Healthy Mother and Kittens
+2e979fe49	Found and Friendly Rescue
+83eab3ce0	Female Mother and Puppies
+f223cd020	Found and Friendly Rescue
+39ee807be	Found and Healthy Mother and Kittens
+3010871b7	Found and Friendly Rescue
+46e92f631	Please provide commitment criteria
+1706cbafe	Female Mother and Puppies
+f640756a4	Found and Friendly Rescue
+50066d150	Female Mother and Puppies
+f116c92af	Kittens for adoption by owner
+378d73716	Found and Healthy Mother and Kittens
+827daf042	Found and Friendly Rescue
+ad59fc7a0	Found and Healthy Mother and Kittens
+26de61f1f	Found and Friendly Rescue
+d784f7fd2	Female Mother and Puppies
+0c9476c38	Found and Healthy Mother and Kittens
+b32194b94	Found and Friendly Rescue
+8c2f1d851	Found and Friendly Rescue
+147191c1a	Found and Friendly Rescue
+af032a52a	Found and Friendly Rescue
+d97b2d534	Female Mother and Puppies
+40873dcd6	Found and Friendly Rescue
+c1509a54e	Found and Friendly Rescue
+4864eb58c	Found and Friendly Rescue
+b4b9b0153	Found and Friendly Rescue
+cd08d8571	Found and Friendly Rescue
+cda7cd580	Found and Friendly Rescue
+519a6e4c4	Found and Healthy Mother and Kittens
+234c7884f	Found and Friendly Rescue
+6c7675e86	Kittens for adoption by owner
+847717f72	Found and Healthy Mother and Kittens
+491b8c806	Found and Friendly Rescue
+0ad57c36f	Lovely / Playful / Friendly
+c0ae23371	Female Mother and Puppies
+1361c6788	Found and Friendly Rescue
+11f0ed3d3	Found and Friendly Rescue
+d3cf5146b	Found and Friendly Rescue
+0fcb4800e	Found and Friendly Rescue
+5a7197211	Found and Healthy Mother and Kittens
+fc21aa84c	Kittens for adoption by owner
+869c9f3a4	Found and Friendly Rescue
+90c2e8a86	Lovely / Playful / Friendly
+13922dcc9	Found and Friendly Rescue
+86c5aed68	Found and Friendly Rescue
+48ec0107d	Found and Healthy Mother and Kittens
+5892f955a	Found and Friendly Rescue
+2e200d64f	Found and Friendly Rescue
+efd268250	Kittens for adoption by owner
+bce8d916d	Found and Friendly Rescue
+bfe1af332	Found and Friendly Rescue
+d4032d9a3	Found and Friendly Rescue
+7204f7890	Found and Friendly Rescue
+54188270d	Found and Friendly Rescue
+8b6c7ef38	Found and Healthy Mother and Kittens
+387c23325	Found and Friendly Rescue
+3de179c07	Kittens for adoption by owner
+7ad9d255c	Found and Friendly Rescue
+d6ed5dfec	Female Mother and Puppies
+3cab9e59f	Found and Friendly Rescue
+27d4ec9c7	Female Mother and Puppies
+5190cd079	Lovely / Playful / Friendly
+6ec65e11d	Found and Friendly Rescue
+dcc8ba1a0	Found and Friendly Rescue
+68a7182fb	Found and Friendly Rescue
+b2686029e	Found and Healthy Mother and Kittens
+34feb9441	Lovely / Playful / Friendly
+089ed3836	Found and Healthy Mother and Kittens
+4e3b3c58c	Found and Healthy Mother and Kittens
+1ef0e1d49	Found and Healthy Mother and Kittens
+da6b36177	Found and Friendly Rescue
+60036f876	Found and Friendly Rescue
+74c8c6941	Female Mother and Puppies
+b749ed372	Kittens for adoption by owner
+cf057b203	Found and Friendly Rescue
+2e2c61226	Found and Friendly Rescue
+aa6b3dcee	Found and Friendly Rescue
+733a5cf62	Found and Healthy Mother and Kittens
+66f86bfc6	Found and Friendly Rescue
+0505896da	Found and Friendly Rescue
+78624b4a6	Found and Healthy Mother and Kittens
+a8c8aed05	Found and Friendly Rescue
+7e520dca0	Found and Healthy Mother and Kittens
+f072baaae	Found and Friendly Rescue
+32288dcdb	Found and Friendly Rescue
+bcd947bb6	Found and Friendly Rescue
+66b38c4a7	Found and Healthy Mother and Kittens
+b22b2c9ae	Found and Friendly Rescue
+f147e61ee	Found and Healthy Mother and Kittens
+78dcff888	Found and Friendly Rescue
+5b3a46aef	Found and Friendly Rescue
+8808ae25a	Found and Friendly Rescue
+ad84ef170	Found and Friendly Rescue
+aec383ae4	Found and Healthy Mother and Kittens
+d0b1c9032	Found and Friendly Rescue
+901fd9c6d	Found and Healthy Mother and Kittens
+97d5ad3c9	Found and Friendly Rescue
+35fb4b52a	Lovely / Playful / Friendly
+a1713b945	Found and Friendly Rescue
+d3600fbb5	Found and Healthy Mother and Kittens
+b8f18c8ee	Found and Friendly Rescue
+170e3f54b	Found and Friendly Rescue
+fe7acc3a4	Found and Friendly Rescue
+89c7a954b	Found and Friendly Rescue
+cf162fcc3	Found and Friendly Rescue
+ae7fee136	Kittens for adoption by owner
+c2df334d9	Found and Friendly Rescue
+7d7e41466	Lovely / Playful / Friendly
+bd60fa3e1	Found and Friendly Rescue
+49ba38c83	Lovely / Playful / Friendly
+02c7507b0	Kittens for adoption by owner
+6d2a3b9c3	Found and Friendly Rescue
+68de9202c	Female Mother and Puppies
+f382426dc	Female Mother and Puppies
+bc4a10a21	Female Mother and Puppies
+b108f718e	Found and Friendly Rescue
+8fe4353c3	Found and Friendly Rescue
+cc1d53892	Found and Friendly Rescue
+cbbb7f5c6	Found and Friendly Rescue
+cd457aba8	Found and Friendly Rescue
+274583307	Female Mother and Puppies
+a7d15b9c4	Female Mother and Puppies
+6446390b9	Found and Healthy Mother and Kittens
+09a0af133	Found and Healthy Mother and Kittens
+12049565b	Found and Healthy Mother and Kittens
+5191cb99d	Female Mother and Puppies
+c6d749ab2	Found and Friendly Rescue
+3427a70d0	Lovely / Playful / Friendly
+81816952b	Found and Friendly Rescue
+3d2e660fb	Kittens for adoption by owner
+d12e91a45	Kittens for adoption by owner
+d1b426458	Found and Friendly Rescue
+62173a996	Found and Friendly Rescue
+22e3c334e	Found and Friendly Rescue
+96d7cffab	Found and Healthy Mother and Kittens
+322182861	Found and Friendly Rescue
+6aadea6a0	Found and Friendly Rescue
+cbde71ab6	Found and Healthy Mother and Kittens
+cebf7bb09	Female Mother and Puppies
+4fb937efc	Found and Friendly Rescue
+970f45412	Female Mother and Puppies
+6b0c2cccf	Found and Friendly Rescue
+18728cb17	Found and Friendly Rescue
+b2ee9c7b7	Found and Friendly Rescue
+f573a5446	Female Mother and Puppies
+636f53bb7	Female Mother and Puppies
+5ee29107f	Found and Friendly Rescue
+1b28b1fdf	Found and Friendly Rescue
+ecf8b957a	Found and Friendly Rescue
+d460338fe	Found and Friendly Rescue
+88a4aad35	Lovely / Playful / Friendly
+b681b66c6	Found and Friendly Rescue
+30a693a7d	Found and Healthy Mother and Kittens
+a0c8140f5	Kittens for adoption by owner
+3057d4d49	Found and Friendly Rescue
+4d632070a	Found and Friendly Rescue
+ca5f98a97	Found and Friendly Rescue
+22a94e714	Found and Friendly Rescue
+fca822dd6	Found and Friendly Rescue
+94eab2b21	Found and Friendly Rescue
+36afecaab	Found and Healthy Mother and Kittens
+517f2a2f5	Found and Healthy Mother and Kittens
+732202694	Found and Friendly Rescue
+59f3943d5	Found and Friendly Rescue
+d34c5122b	Found and Friendly Rescue
+3abe49dd7	Found and Friendly Rescue
+c5ab0b9af	Found and Friendly Rescue
+dc0d4f14a	Found and Friendly Rescue
+ead8e4c7d	Lovely / Playful / Friendly
+9dd6d4d6b	Please provide commitment criteria
+f64be1c78	Found and Friendly Rescue
+85f9f0467	Found and Friendly Rescue
+9a77b0cef	Kittens for adoption by owner
+c1887daf8	Found and Friendly Rescue
+3a950c0ed	Found and Friendly Rescue
+17d350878	Found and Healthy Mother and Kittens
+5c565177c	Found and Healthy Mother and Kittens
+4779d1360	Found and Friendly Rescue
+e3d2448a9	Found and Friendly Rescue
+c4c74a141	Found and Friendly Rescue
+237231bc6	Found and Friendly Rescue
+e44119a49	Found and Friendly Rescue
+2fc95bdf0	Found and Friendly Rescue
+2d11c301e	Found and Friendly Rescue
+ac47a02cd	Lovely / Playful / Friendly
+507922ae4	Found and Friendly Rescue
+4a983bae4	Found and Friendly Rescue
+3a9c20f49	Found and Friendly Rescue
+e950e95ac	Found and Friendly Rescue
+ebb95545d	Found and Friendly Rescue
+f2d9c8306	Found and Friendly Rescue
+12cc48715	Found and Healthy Mother and Kittens
+c76364116	Please provide commitment criteria
+5a2783ea4	Found and Healthy Mother and Kittens
+1540b97a6	Found and Friendly Rescue
+7740a0272	Found and Friendly Rescue
+7d8a249bf	Found and Friendly Rescue
+629a4e6fd	Found and Friendly Rescue
+3712f20d5	Found and Friendly Rescue
+451f12bac	Found and Friendly Rescue
+515863340	Found and Friendly Rescue
+305d685bf	Found and Friendly Rescue
+74ee75020	Found and Friendly Rescue
+634ae6954	Found and Friendly Rescue
+7a0832e2c	Found and Friendly Rescue
+065d6994c	Found and Healthy Mother and Kittens
+ffe2d8e81	Lovely / Playful / Friendly
+ebac08276	Found and Friendly Rescue
+5148edd39	Found and Friendly Rescue
+f85b86356	Found and Friendly Rescue
+c56bbf410	Found and Friendly Rescue
+b83351b7b	Kittens for adoption by owner
+4abffeca5	Lovely / Playful / Friendly
+c7dec8dc7	Found and Friendly Rescue
+92bd6899e	Found and Friendly Rescue
+c86d01c1f	Found and Healthy Mother and Kittens
+664f1e2fc	Found and Friendly Rescue
+e2c7d7c0a	Found and Friendly Rescue
+f15762b6a	Found and Healthy Mother and Kittens
+70acc40a4	Found and Friendly Rescue
+0ddc7d3ac	Female Mother and Puppies
+035582f8f	Found and Friendly Rescue
+84b14662a	Female Mother and Puppies
+1b8d3ff56	Found and Friendly Rescue
+a0591aa18	Found and Friendly Rescue
+60a3481ec	Found and Friendly Rescue
+031da46f7	Female Mother and Puppies
+dbd702a56	Found and Healthy Mother and Kittens
+e2489b317	Lovely / Playful / Friendly
+4c98ba1e5	Found and Friendly Rescue
+be27a9e19	Found and Friendly Rescue
+3cbb1c0f7	Found and Healthy Mother and Kittens
+a28594c46	Found and Friendly Rescue
+001ec8d5b	Found and Friendly Rescue
+23118a766	Found and Friendly Rescue
+1333e803a	Found and Friendly Rescue
+65ec259b0	Found and Friendly Rescue
+ee397e714	Found and Friendly Rescue
+c0c98962b	Found and Friendly Rescue
+028c68583	Found and Friendly Rescue
+db34d666a	Found and Friendly Rescue
+86fc61089	Found and Friendly Rescue
+3f86154cf	Female Mother and Puppies
+d35231e5a	Found and Friendly Rescue
+629fe6dff	Found and Friendly Rescue
+fe0531700	Butterworth Penang Call Whats app
+4bbaa98d6	Found and Friendly Rescue
+7b3ab3ad4	Found and Friendly Rescue
+5d9a28223	Kittens for adoption by owner
+8255e2fa2	Found and Friendly Rescue
+ee9c002d6	Found and Friendly Rescue
+004682b50	Found and Friendly Rescue
+badf057cb	Found and Friendly Rescue
+759dfb282	Found and Friendly Rescue
+3f6fcc67e	Female Mother and Puppies
+4b5d368ca	Found and Friendly Rescue
+31f9fa1e0	Found and Friendly Rescue
+452d9758d	Found and Healthy Mother and Kittens
+e29b59239	Lovely / Playful / Friendly
+cd8a82b97	Found and Healthy Mother and Kittens
+e3ca4f2d0	Found and Friendly Rescue
+17a021ba4	Found and Friendly Rescue
+ec490205b	No Valid Description
+7c5988282	Found and Friendly Rescue
+053205cfa	Found and Friendly Rescue
+ea466e975	Found and Friendly Rescue
+8661faa01	Found and Healthy Mother and Kittens
+5c253db79	Found and Healthy Mother and Kittens
+b49f9924c	Found and Healthy Mother and Kittens
+7829548b7	Female Mother and Puppies
+4b063107f	Found and Friendly Rescue
+365fb3a96	Found and Friendly Rescue
+e65540b4f	Lovely / Playful / Friendly
+3a60ba6dc	Found and Friendly Rescue
+fc1b8a4f0	Found and Friendly Rescue
+1c11185f4	Found and Friendly Rescue
+72dabb7a1	Found and Friendly Rescue
+548f0e9c6	Lovely / Playful / Friendly
+8c9bdff8c	Found and Healthy Mother and Kittens
+042d0d192	Found and Friendly Rescue
+5232fd036	Found and Friendly Rescue
+1ec422aae	Found and Friendly Rescue
+76dfac4a1	Found and Friendly Rescue
+dabe705dc	Found and Friendly Rescue
+5946a80c6	Found and Friendly Rescue
+4311ab46a	Found and Friendly Rescue
+bf3f3d3a5	Found and Friendly Rescue
+1503a77d2	Lovely / Playful / Friendly
+b7d73e11a	Lovely / Playful / Friendly
+e3040d73f	Found and Friendly Rescue
+919d37b36	Found and Friendly Rescue
+fe099f48b	Female Mother and Puppies
+05257447c	Female Mother and Puppies
+f4c33173e	Found and Friendly Rescue
+ae94db5ca	Found and Friendly Rescue
+32b44785c	Found and Friendly Rescue
+c16d1cce2	Female Mother and Puppies
+729abd2f2	Found and Friendly Rescue
+4fab97693	Found and Friendly Rescue
+81d9e0ce1	Found and Friendly Rescue
+42c2bce02	Found and Friendly Rescue
+e122e5cab	Found and Friendly Rescue
+ab274b176	Found and Friendly Rescue
+975298673	Found and Friendly Rescue
+499909f04	Female Mother and Puppies
+71b1e25bb	Found and Friendly Rescue
+0be96ad8b	Found and Friendly Rescue
+f2ad92283	Found and Friendly Rescue
+a3aa0993b	Found and Friendly Rescue
+511f1a6db	Found and Friendly Rescue
+6834e2da3	Found and Friendly Rescue
+d6e620f87	Found and Friendly Rescue
+3a0d5f49d	Found and Friendly Rescue
+906573861	Found and Friendly Rescue
+0ccf2fecc	Found and Friendly Rescue
+8cca8236b	Found and Friendly Rescue
+f8aa09ab4	Found and Healthy Mother and Kittens
+a4849f4f0	Female Mother and Puppies
+1b143c468	Found and Friendly Rescue
+af2bf2c48	Found and Friendly Rescue
+f0a6b590b	Found and Healthy Mother and Kittens
+b88e57980	Found and Healthy Mother and Kittens
+e6342c172	Found and Friendly Rescue
+60d52c67a	Please provide commitment criteria
+1adf16bff	Found and Friendly Rescue
+8affd8298	Found and Friendly Rescue
+bf43c64b8	Found and Friendly Rescue
+40213b255	Female Mother and Puppies
+1bf5096b7	Found and Friendly Rescue
+914f2de70	Female Mother and Puppies
+fd262420a	Found and Healthy Mother and Kittens
+ba6cbb3b9	Found and Friendly Rescue
+60dc7a869	Lovely / Playful / Friendly
+cb4fb933f	Found and Friendly Rescue
+eaab0dc4f	Found and Friendly Rescue
+560a38b5c	Found and Friendly Rescue
+61453c43e	Found and Friendly Rescue
+cabaf8033	Found and Healthy Mother and Kittens
+065367f09	Found and Friendly Rescue
+1e55008d0	Lovely / Playful / Friendly
+d7655dc4b	Found and Friendly Rescue
+74bf493b5	Found and Friendly Rescue
+44f54a0a9	Found and Friendly Rescue
+94ff23a43	Found and Friendly Rescue
+f872210bb	Found and Friendly Rescue
+846937574	Female Mother and Puppies
+a1eddc185	Found and Friendly Rescue
+dd1812b4c	Found and Friendly Rescue
+2f49a3373	Lovely / Playful / Friendly
+a6bb2a0f5	Lovely / Playful / Friendly
+9677159a5	Found and Friendly Rescue
+5358914db	Female Mother and Puppies
+826e7fede	Female Mother and Puppies
+11b859665	Found and Friendly Rescue
+b5a5ec644	Found and Friendly Rescue
+73c83dc73	Found and Healthy Mother and Kittens
+dfa0ff644	Found and Friendly Rescue
+5a67c3ceb	Found and Friendly Rescue
+a49f5a481	Female Mother and Puppies
+dc64dc5f4	Found and Friendly Rescue
+577126f85	Female Mother and Puppies
+2f0c29529	No Valid Description
+6790b71f2	Found and Friendly Rescue
+e876c142c	Found and Friendly Rescue
+08ba5ce13	Found and Friendly Rescue
+7bec80b02	Female Mother and Puppies
+fb6fbaa05	Found and Friendly Rescue
+0a44cc8ba	Found and Healthy Mother and Kittens
+9cb0c885e	Found and Healthy Mother and Kittens
+3245790c7	No Valid Description
+d77d11ccd	Found and Friendly Rescue
+e3aa17a53	Found and Healthy Mother and Kittens
+27bf5c8f8	Found and Friendly Rescue
+860591c44	Found and Healthy Mother and Kittens
+61fe0f6f7	Found and Friendly Rescue
+13fe509ca	Female Mother and Puppies
+7d3ce3195	Found and Friendly Rescue
+1572bf9cc	Found and Friendly Rescue
+b72537712	Butterworth Penang Call Whats app
+3d20d52f1	Found and Friendly Rescue
+7999ea5fe	Lovely / Playful / Friendly
+cabbe9d14	Found and Friendly Rescue
+111f4f6ed	Found and Friendly Rescue
+800ca542b	Found and Friendly Rescue
+1badb11f5	Found and Healthy Mother and Kittens
+5b3151e25	Found and Friendly Rescue
+d51ba0fce	Found and Friendly Rescue
+4eb926dde	Found and Friendly Rescue
+89815c687	Female Mother and Puppies
+e87b4fdbc	Found and Friendly Rescue
+8d7f3f71c	Found and Friendly Rescue
+45c8f591d	Found and Friendly Rescue
+9b1035016	Lovely / Playful / Friendly
+7d50924c3	Found and Friendly Rescue
+409b92edb	Found and Friendly Rescue
+5f75c7083	Found and Friendly Rescue
+132916303	Lovely / Playful / Friendly
+b8bea2c62	Found and Friendly Rescue
+ef306b0f9	Found and Friendly Rescue
+1ff198b2c	Found and Friendly Rescue
+06983c308	Female Mother and Puppies
+23f664cf6	Female Mother and Puppies
+4d932ca97	Found and Healthy Mother and Kittens
+41814d501	Found and Friendly Rescue
+6bcb7ed25	Found and Friendly Rescue
+8650fce42	No Valid Description
+b4b7512ad	No Valid Description
+31ed5d5ec	Found and Friendly Rescue
+4586798a6	Lovely / Playful / Friendly
+e5ec7709d	Female Mother and Puppies
+fa0b958ae	Found and Friendly Rescue
+85fda19ab	Found and Friendly Rescue
+d6a2fa83e	Found and Friendly Rescue
+08f25f7da	Found and Friendly Rescue
+a159e317f	Found and Friendly Rescue
+09582e51b	Lovely / Playful / Friendly
+0c9cc3c3d	Found and Friendly Rescue
+fd6a10dd8	Found and Friendly Rescue
+3b22e5249	Found and Friendly Rescue
+62abaa505	Found and Friendly Rescue
+d274a7103	Found and Friendly Rescue
+4f244a307	Found and Friendly Rescue
+34e4c214d	Found and Friendly Rescue
+67b8ae43b	Found and Healthy Mother and Kittens
+285a40127	Lovely / Playful / Friendly
+ce637df13	Lovely / Playful / Friendly
+e07d8debe	Found and Friendly Rescue
+5c23692a4	Found and Friendly Rescue
+4dc690fca	Found and Friendly Rescue
+40739eff7	Found and Friendly Rescue
+e90b93c02	Found and Friendly Rescue
+0a4831022	No Valid Description
+d24a644d5	Found and Friendly Rescue
+6bde0667b	Found and Friendly Rescue
+e25b59349	Lovely / Playful / Friendly
+10bc6fc6a	Found and Friendly Rescue
+2d7a91c59	Found and Friendly Rescue
+e5bbe3e54	Found and Friendly Rescue
